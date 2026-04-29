@@ -11,13 +11,15 @@ The repository is organized into several folders, each corresponding to differen
 
 1_DATASET: Contains all raw and processed data files.
 
-  1_Raw_datasets/: Original export files from the WOS database.
+1_DATASET/1_Raw_datasets/: Original export files from the WOS database.
 
-  2_Raw_datasets.csv: Consolidated raw CSV file.
+1_DATASET/2_Raw_datasets.csv: Consolidated raw CSV file.
 
-  3_dataset_Screening.xlsx: Documentation of the data screening, deduplication, and inclusion/exclusion criteria process.
+1_DATASET/3_dataset_Screening.xlsx: Documentation of the data screening, deduplication, and inclusion/exclusion criteria process.
 
-  4_Cleaned_datasets.xlsx: The final cleaned dataset used for all subsequent bibliometric analyses.
+1_DATASET/4_Cleaned_datasets.xlsx: The final cleaned dataset used for all subsequent bibliometric analyses.
+
+--------
 
 2_PROJECT_CiteSpace_New_MedEqu.rar: A compressed archive containing all CiteSpace project files, configuration settings, and generated visualizations.
 
@@ -25,19 +27,19 @@ The repository is organized into several folders, each corresponding to differen
 
 4_SCI_num/: Output files related to annual publication volume statistics.
 
-5 Author/: Data and networks related to author co-authorship analysis.
+5_Author/: Data and networks related to author co-authorship analysis.
 
-6 Categories/: Statistical data on subject categories and interdisciplinary analysis.
+6_Categories/: Statistical data on subject categories and interdisciplinary analysis.
 
-7 Citation/: Data and outputs related to citation analysis (e.g., co-citation networks).
+7_Citation/: Data and outputs related to citation analysis (e.g., co-citation networks).
 
-8 Country/: Data and outputs related to country/institution collaboration networks .
+8_Country/: Data and outputs related to country/institution collaboration networks .
 
-9 Field/: Analysis outputs related to major research fields.
+9_Field/: Analysis outputs related to major research fields.
 
-10 Key_Domains/: Data and visualizations for keyword co-occurrence and cluster analysis.
+10_Key_Domains/: Data and visualizations for keyword co-occurrence and cluster analysis.
 
-11 Organization/: Data and networks related to institution/publication organization analysis.
+11_Organization/: Data and networks related to institution/publication organization analysis.
 
 📝 Data Availability & Usage
 
