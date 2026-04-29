@@ -1,0 +1,81 @@
+id	author	documents	citations	total link strength
+249	"badnjevic, almir"	18	117	33
+3507	"pokvic, lejla gurbeta"	16	84	31
+725	"chen, ji"	14	105	58
+5012	"zheng, jianfeng"	14	105	58
+2078	"kainz, wolfgang"	10	118	40
+1888	"iadanza, ernesto"	8	130	5
+2887	"mccaffery, fergal"	8	89	2
+4149	"spahic, lemana"	8	6	15
+4651	"wang, qingyan"	8	90	36
+1050	"deumic, amar"	7	21	14
+4665	"wang, yu"	6	67	23
+4919	"yue, lilly q."	6	130	12
+1062	"dhruva, sanket s."	5	26	5
+1676	"hasikin, khairunnisa"	5	63	3
+2695	"lu, nelson"	5	103	13
+3874	"saylor, david m."	5	44	3
+79	"akter, mir khadiza"	4	0	17
+232	"aycock, kenneth i."	4	148	4
+400	"bianchini, elisabetta"	4	22	3
+905	"craven, brent a."	4	163	5
+1592	"guo, ran"	4	6	17
+2638	"liu, jingshen"	4	66	19
+2825	"marinac-dabic, danica"	4	70	3
+3402	"pecchia, leandro"	4	140	3
+3921	"schuh, joann c. l."	4	65	6
+3943	"sedrakyan, art"	4	39	4
+4015	"shen, ao"	4	1	16
+4824	"xu, yunling"	4	76	11
+99	"alexander, k"	3	47	3
+245	"bacquey, adeline"	3	17	9
+601	"campbell, gregory"	3	72	4
+691	"chandrasekar, vaishnavi"	3	36	3
+795	"choi, soo jeong"	3	12	12
+796	"choi, sooin"	3	12	12
+838	"clarkson, pj"	3	47	3
+939	"d'angelo, anna maria"	3	7	9
+957	"dalli, oznur erbay"	3	65	3
+1149	"duran-arenas, luis"	3	18	6
+1313	"flood, derek"	3	38	2
+1332	"francesconi, martina"	3	17	3
+1338	"fraser, alan g."	3	86	4
+1372	"funk, kathleen a."	3	15	6
+1445	"gherardelli, monica"	3	50	3
+1469	"girgin, nermin kelebek"	3	65	3
+1656	"hariharan, prasanna"	3	182	3
+1761	"ho, martin"	3	135	3
+2171	"kesselheim, aaron s."	3	15	4
+2221	"kim, jin kuk"	3	12	12
+2275	"kluess, d."	3	10	3
+2402	"lai, khin wee"	3	35	3
+2473	"lee, munjae"	3	16	3
+2490	"lee, you kyoung"	3	12	12
+2522	"levitan, bennett"	3	135	3
+2538	"li, heng"	3	28	6
+2539	"li, jiansheng"	3	25	6
+2620	"lingg, myriam"	3	18	6
+2788	"mancini, laura"	3	7	9
+2805	"mao, jialin"	3	6	3
+2808	"mao, yajie"	3	25	6
+2812	"marcheggiani, stefania"	3	7	9
+2934	"melvin, tom"	3	44	4
+3003	"mittelmeier, w."	3	10	3
+3130	"nam, ki chang"	3	12	12
+3207	"nocera, therese"	3	17	9
+3231	"nyska, abraham"	3	15	6
+3282	"osvalder, al"	3	96	0
+3354	"park, sewon"	3	16	3
+3413	"pelayo, sylvia"	3	22	0
+3640	"redberg, rita f."	3	0	5
+3730	"romanelli, cristina"	3	7	9
+3749	"rossi, ana beatris"	3	17	9
+3945	"seidman, seth j."	3	19	0
+4093	"siontis, george c. m."	3	43	4
+4175	"steckner, michael"	3	0	14
+4253	"sun, jing"	3	7	0
+4378	"thouvenin, marie-dominique"	3	17	9
+4394	"tiwari, ram"	3	10	6
+4803	"wyss, kaspar"	3	18	6
+4968	"zhang, jin"	3	25	6
+5051	"zuo, ziyu"	3	1	14
