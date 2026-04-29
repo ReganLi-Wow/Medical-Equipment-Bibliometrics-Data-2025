@@ -1,0 +1,1341 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Acker, MA
+   Pagani, FD
+   Stough, WG
+   Mann, DL
+   Jessup, M
+   Kormos, R
+   Slaughter, MS
+   Baldwin, T
+   Stevenson, L
+   Aaronson, KD
+   Miller, L
+   Naftel, D
+   Yancy, C
+   Rogers, J
+   Teuteberg, J
+   Starling, RC
+   Griffith, B
+   Boyce, S
+   Westaby, S
+   Blume, E
+   Wearden, P
+   Higgins, R
+   Mack, M
+AF Acker, Michael A.
+   Pagani, Francis D.
+   Stough, Wendy Gattis
+   Mann, Douglas L.
+   Jessup, Mariell
+   Kormos, Robert
+   Slaughter, Mark S.
+   Baldwin, Timothy
+   Stevenson, Lynne
+   Aaronson, Keith D.
+   Miller, Leslie
+   Naftel, David
+   Yancy, Clyde
+   Rogers, Joseph
+   Teuteberg, Jeffrey
+   Starling, Randall C.
+   Griffith, Bartley
+   Boyce, Steven
+   Westaby, Stephen
+   Blume, Elizabeth
+   Wearden, Peter
+   Higgins, Robert
+   Mack, Michael
+TI Statement Regarding the Pre and Post Market Assessment of Durable,
+   Implantable Ventricular Assist Devices in the United States: Executive
+   Summary
+SO ANNALS OF THORACIC SURGERY
+LA English
+DT Article
+ID CLINICAL-TRIAL DESIGN; CARDIOVASCULAR DEVICES; MEDICAL DEVICES;
+   HEART-FAILURE; SURVEILLANCE; SUPPORT; FDA
+AB The incorporation of complex medical device technologies into clinical practice is governed by critical oversight of the US Food and Drug Administration. This regulatory process requires a judicious balance between assuring safety and efficacy, while providing efficient review to facilitate access to innovative therapies. Recent contrasting views of the regulatory process have emphasized the difficulties in obtaining an optimal balance. Mechanical circulatory support has evolved to become an important therapy for patients with advanced heart failure with the advent of more durable, implantable ventricular assist devices. The regulatory oversight of these new technologies has been difficult owing to the complexities of these devices, associated adverse event profile, and severity of illness of the intended patient population. Maintaining a regulatory environment to foster efficient introduction of safe and effective technologies is critical to the success of ventricular assist device therapy and the health of patients with advanced heart failure. Physicians representing key surgical and cardiology societies, and representatives from the Food and Drug Administration, National Heart Lung, and Blood Institute, Centers for Medicare and Medicaid Services, Interagency Registry of Mechanically Assisted Circulatory Support, and industry partners gathered to discuss relevant issues regarding the current regulatory environment assessing ventricular assist devices. The goal of the meeting was to explore innovative ways to foster the introduction of technologically advanced, safe, and effective ventricular assist devices. The following summary reflects opinions and conclusions endorsed by The Society of Thoracic Surgeons, American Association for Thoracic Surgery, American Heart Association, Heart Failure Society of America, International Society for Heart and Lung Transplantation, and the Interagency Registry of Mechanically Assisted Circulatory Support. (Ann Thorac Surg 2012;94:e163-8) (c) 2012 by The Society of Thoracic Surgeons, American Heart Association, Inc, and International Society for Heart and Lung Transplantation
+C1 [Acker, Michael A.] Univ Penn, Div Cardiothorac Surg, Philadelphia, PA 19104 USA.
+   [Pagani, Francis D.] Univ Michigan, Dept Cardiac Surg, Ann Arbor, MI 48109 USA.
+   [Stough, Wendy Gattis] Campbell Univ, Coll Pharm & Hlth Sci, Buies Creek, NC 27506 USA.
+   [Mann, Douglas L.] Washington Univ, Div Cardiovasc, St Louis, MO USA.
+   [Jessup, Mariell] Univ Penn, Div Cardiovasc Med, Philadelphia, PA 19104 USA.
+   [Kormos, Robert] Univ Pittsburgh, Dept Cardiothorac Surg, Pittsburgh, PA USA.
+   [Slaughter, Mark S.] Univ Louisville, Div Cardiothorac Surg, Louisville, KY 40292 USA.
+   [Baldwin, Timothy] NHLBI, Bethesda, MD 20892 USA.
+   [Stevenson, Lynne] Brigham & Womens Hosp, Div Cardiovasc, Boston, MA 02115 USA.
+   [Aaronson, Keith D.] Univ Michigan, Div Cardiovasc Med, Ann Arbor, MI 48109 USA.
+   [Miller, Leslie] Univ S Florida, Div Cardiovasc Med, Tampa, FL USA.
+   [Naftel, David] Univ Alabama Birmingham, Dept Cardiothorac Surg, Birmingham, AL USA.
+   [Yancy, Clyde] Northwestern Univ, Div Cardiol, Chicago, IL 60611 USA.
+   [Rogers, Joseph] Duke Univ, Div Cardiol, Durham, NC USA.
+   [Teuteberg, Jeffrey] Univ Pittsburgh, Med Ctr, Inst Heart & Vasc, Pittsburgh, PA USA.
+   [Starling, Randall C.] Cleveland Clin, Cleveland, OH 44106 USA.
+   [Griffith, Bartley] Univ Maryland, Div Cardiac Surg, Baltimore, MD 21201 USA.
+   [Boyce, Steven] Washington Hosp Ctr, MedStar Heart Inst, Dept Cardiac Surg, Washington, DC 20010 USA.
+   [Westaby, Stephen] John Radcliffe Hosp, Oxford Heart Ctr, Oxford OX3 9DU, England.
+   [Blume, Elizabeth] Bostons Childrens Hosp, Dept Cardiol, Boston, MA USA.
+   [Wearden, Peter] Childrens Hosp Pittsburgh, Dept Cardiothorac Surg, Pittsburgh, PA 15213 USA.
+   [Higgins, Robert] Ohio State Univ, Div Cardiac Surg, Columbus, OH 43210 USA.
+   [Mack, Michael] Med City Dallas Hosp, Dallas, TX USA.
+C3 University of Pennsylvania; University of Michigan System; University of
+   Michigan; Campbell University; Washington University (WUSTL); University
+   of Pennsylvania; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); University of Pittsburgh; University of Louisville; National
+   Institutes of Health (NIH) - USA; NIH National Heart Lung & Blood
+   Institute (NHLBI); Harvard University; Harvard University Medical
+   Affiliates; Brigham & Women's Hospital; University of Michigan System;
+   University of Michigan; State University System of Florida; University
+   of South Florida; University of Alabama System; University of Alabama
+   Birmingham; Northwestern University; Duke University; Pennsylvania
+   Commonwealth System of Higher Education (PCSHE); University of
+   Pittsburgh; Cleveland Clinic Foundation; University System of Maryland;
+   University of Maryland Baltimore; MedStar Washington Hospital Center;
+   University of Oxford; Harvard University; Harvard University Medical
+   Affiliates; Boston Children's Hospital; Pennsylvania Commonwealth System
+   of Higher Education (PCSHE); University of Pittsburgh; University System
+   of Ohio; Ohio State University; Medical City Dallas Hospital
+RP Acker, MA (通讯作者)，Hosp Univ Penn, 3400 Spruce St,6 Silverstein Pavil, Philadelphia, PA 19104 USA.
+EM michael.acker@uphs.upenn.edu
+RI Stough, Wendy/R-4287-2016; Yancy, Clyde/HCI-3948-2022; Pagani,
+   Francis/AFU-8549-2022; Mann, Douglas/AAQ-3524-2021; Higgins,
+   Robert/AGZ-7064-2022
+OI Pagani, Francis/0000-0003-4430-9969; Jessup,
+   Mariell/0000-0002-3010-0112; 
+CR Baldwin JT, 2011, CIRCULATION, V123, P1233, DOI 10.1161/CIRCULATIONAHA.110.978023
+   Challoner DR, 2011, NEW ENGL J MED, V365, P977, DOI 10.1056/NEJMp1109150
+   Chen E, 2006, ANN THORAC SURG, V82, P773, DOI 10.1016/j.athoracsur.2006.07.044
+   Curfman GD, 2011, NEW ENGL J MED, V365, P975, DOI 10.1056/NEJMp1109094
+   Dhruva SS, 2009, JAMA-J AM MED ASSOC, V302, P2679, DOI 10.1001/jama.2009.1899
+   Felker GM, 2006, J AM COLL CARDIOL, V47, P930, DOI 10.1016/j.jacc.2005.09.070
+   Fraser AG, 2011, EUR HEART J, V32, P1673, DOI 10.1093/eurheartj/ehr171
+   Glickman SW, 2009, NEW ENGL J MED, V360, P816, DOI 10.1056/NEJMsb0803929
+   Hauser RG, 2012, NEW ENGL J MED, V366, P873, DOI 10.1056/NEJMp1114695
+   Kirklin JK, 2011, J HEART LUNG TRANSPL, V30, P115, DOI 10.1016/j.healun.2010.12.001
+   Kramer DB, 2012, NEW ENGL J MED, V366, P848, DOI 10.1056/NEJMhle1113918
+   Parides MK, 2006, ANN THORAC SURG, V82, P1140, DOI 10.1016/j.athoracsur.2006.05.123
+   Resnic FS, 2012, NEW ENGL J MED, V366, P875, DOI 10.1056/NEJMp1114865
+   Slaughter MS, 2009, NEW ENGL J MED, V361, P2241, DOI 10.1056/NEJMoa0909938
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0003-4975
+EI 1552-6259
+J9 ANN THORAC SURG
+JI Ann. Thorac. Surg.
+PD DEC
+PY 2012
+VL 94
+IS 6
+BP E163
+EP E168
+DI 10.1016/j.athoracsur.2012.09.041
+PG 6
+WC Cardiac & Cardiovascular Systems; Respiratory System; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Cardiovascular System & Cardiology; Respiratory System; Surgery
+GA 041XW
+UT WOS:000311436300011
+PM 23153480
+DA 2026-01-12
+ER
+
+PT J
+AU Aggarwal, R
+   Gunaseelan, V
+   Manual, D
+   Sanker, M
+   Prabaaker, S
+AF Aggarwal, Rajiv
+   Gunaseelan, Vikneswaran
+   Manual, Delitia
+   Sanker, Manoj
+   Prabaaker, Sabari
+TI Clinical Evaluation of a Wireless Device for Monitoring Vitals in
+   Newborn Babies
+SO INDIAN JOURNAL OF PEDIATRICS
+LA English
+DT Article
+DE Remote monitoring; Neonates; Sensor; Outcomes; Vitals; Medical device
+AB ObjectivesTo evaluate the ability of the Nemocare Raksha (NR), an internet of things (IoT)-enabled device, to continuously monitor vitals for 6 h and its safety in newborns. The accuracy of the device was also compared with the readings from the standard device used in the pediatric ward.MethodForty neonates (either gender) weighing >= 1.5 kg were included in the study. Heart rate, respiratory rate, body temperature, and oxygen saturation was measured using the NR and compared with standard care devices. Safety was assessed by monitoring for skin changes and local rise in temperature. The neonatal infant pain scale (NIPS) was used to assess pain and discomfort.ResultA total of 227 h of observations (5.67 h per baby) were obtained. No discomfort or device-related adverse events were noted during the study period. The mean difference between the NR and the standard monitoring was 0.66 (0.42 to 0.90) for temperature (degrees C); -6.57 (-8.66 to -4.47) for heart rate (bpm); 7.60 (6.52 to 8.68) for respiratory rate (breaths per minute); -0.79 (-1.10 to -0.48) for oxygen saturation (%). The level of agreement analyzed using the intraclass correlation coefficient (ICC) was good for heart rate [ICC 0.77 (0.72 to 0.82); p value < 0.001] and oxygen saturation [ICC 0.80 (0.75 to 0.84); p value < 0.001]; moderate for body temperature [ICC 0.54 (0.36 to 0.60); p value < 0.001] and poor for respiratory rate [ICC 0.30 (0.10 to 0.44); p value 0.002].ConclusionThe NR was able to seamlessly monitor vital parameters in neonates without any safety concern. The device showed a good level of agreement for heart rate and oxygen saturation among the four parameters measured.
+C1 [Aggarwal, Rajiv] Narayana Hrudayalaya, Dept Pediat, Bangalore, Karnataka, India.
+   [Gunaseelan, Vikneswaran; Manual, Delitia] Narayana Hrudayalaya, Dept Clin Res, Bangalore, Karnataka, India.
+   [Sanker, Manoj; Prabaaker, Sabari] Nemocare Wellness Pvt Ltd, Hyderabad, Telangana, India.
+RP Gunaseelan, V (通讯作者)，Narayana Hrudayalaya, Dept Clin Res, Bangalore, Karnataka, India.
+EM vikneswaran.g.dr@narayanahealth.org
+FU BIRAC grant [BIRAC/IKP0806/BIG-13/18] Funding Source: Medline
+CR [Anonymous], 149712019 ISO
+   Chan PY, 2020, SYST REV-LONDON, V9, DOI 10.1186/s13643-020-01370-1
+   Chung HU, 2020, NAT MED, V26, P418, DOI 10.1038/s41591-020-0792-9
+   Chung HU, 2019, SCIENCE, V363, P947, DOI 10.1126/science.aau0780
+   Cruz J, 2014, INT J CLIN PRACT, V68, P369, DOI 10.1111/ijcp.12345
+   Dandona R, 2020, LANCET, V395, P1640, DOI 10.1016/S0140-6736(20)30471-2
+   Faes L, 2020, EYE, V34, P1950, DOI 10.1038/s41433-020-0964-3
+   Ginsburg AS, 2020, BMJ OPEN, V10, DOI 10.1136/bmjopen-2019-035184
+   Hunter A, 2014, HEALTH CARE MANAG, V33, P128, DOI 10.1097/HCM.0000000000000006
+   Leenen JPL, 2020, J MED INTERNET RES, V22, DOI 10.2196/18636
+   Mansab F, 2021, FRONT PUBLIC HEALTH, V9, DOI 10.3389/fpubh.2021.580585
+   Ministry of Health and Family Welfare Government of India, 2014, INAP IND NEWB ACT PL
+   Ministry of Health and Family Welfare Government of India, 2017, NAT HLTH POL 2017
+   Mukaka MM, 2012, MALAWI MED J, V24, P69
+   NHS, 2020, PULS OX DET EARL DET
+   Nuttall G, 2016, ANESTHESIOLOGY, V124, P590, DOI 10.1097/ALN.0000000000000967
+   Obiedat H., 2020, NEONAT PEDIAT MED, V6, P186
+   Rao Hiteshwar, 2014, 7th International Conference on Biomedical Electronics and Devices (BIODEVICES 2014). Proceedings, P28
+   Ul Hasan MN, 2020, Journal of Textile Engineering & Fashion Technology, V6, DOI [10.15406/jteft.2020.06.00239, DOI 10.15406/JTEFT.2020.06.00239, 10.1049/ietcds.2018.5447]
+   Vindrola-Padros C, 2021, ECLINICALMEDICINE, V37, DOI 10.1016/j.eclinm.2021.100965
+   World Health Organization, 2020, Newborns: improving survival and well-being
+   Zargaran D, 2015, ANGIOLOGY, V66, P118, DOI 10.1177/0003319714522855
+NR 22
+TC 4
+Z9 5
+U1 1
+U2 1
+PU SPRINGER INDIA
+PI NEW DELHI
+PA 7TH FLOOR, VIJAYA BUILDING, 17, BARAKHAMBA ROAD, NEW DELHI, 110 001,
+   INDIA
+SN 0019-5456
+EI 0973-7693
+J9 INDIAN J PEDIATR
+JI Indian J. Pediatr.
+PD NOV
+PY 2023
+VL 90
+IS 11
+BP 1110
+EP 1115
+DI 10.1007/s12098-022-04459-8
+EA FEB 2023
+PG 6
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pediatrics
+GA X0ZH5
+UT WOS:000937838800001
+PM 36809506
+DA 2026-01-12
+ER
+
+PT J
+AU Chantkran, W
+   Jamnarnwej, P
+   Sritanabutr, P
+   Arnutti, P
+AF Chantkran, Wittawat
+   Jamnarnwej, Pitipat
+   Sritanabutr, Pipat
+   Arnutti, Pasra
+TI Evaluation of point-of-care testing device for anemia detection: A
+   cross-sectional method comparison study from Thailand
+SO JOURNAL OF CLINICAL LABORATORY ANALYSIS
+LA English
+DT Article
+DE bland-Altman analysis; comparison study; interclass correlation
+   coefficient; mission ultra Hb testing system; pearson correlation
+   coefficient; point-of-care testing device; receiver operating
+   characteristic curve; sensitivity; specificity; sysmex XN-3000
+ID HEMOGLOBIN
+AB Background A comparison study is crucial before launching a new medical device; therefore, we compared the Mission Ultra Hb Testing System with the Sysmex XN-3000 automated hematology analyzer in Thai adult males and non-pregnant adult females. Methods Parallel studies were conducted using discarded venous K2-ethylenediaminetetraacetic acid samples from participants requiring hematological investigations. According to the World Health Organization criteria, the participants were categorized as overall, anemia, and non-anemia for analysis. Results Three hundred participants were included in this study. In all participants, near-perfect correlation and agreement were observed between the two methods for Hb measurement (r = 0.963, p < 0.001) with an interclass correlation coefficient (ICC) of 0.981 (95% confidence interval [CI]: 0.976-0.985) and Hct measurement (r = 0.941, p < 0.001) with an ICC of 0.965 (95% CI: 0.956-0.972). The sensitivity and specificity of the device in detecting anemia were 86.2% (95% CI: 79.7-91.2) and 98.6% (95% CI: 95.2-99.8), respectively. The area under the curve was 0.976 (95% CI: 0.963-0.989). The device showed average biases of 0.76 g/dl (95% limits of agreement [LOA]: -1.03 to 2.54) for Hb measurement and -2.73% (95% LOA: -9.28 to 3.82) for Hct measurement in all participants. Conclusion Agreement between the Mission Ultra Hb Testing System and Sysmex XN-3000 was observed. The device was excellent for detecting anemia. However, the essential evidence showing biases of the Hb and Hct measurements obtained from the device was revealed. Laboratory interpretation should be carefully performed, particularly at the near cut-off values.
+C1 [Chantkran, Wittawat; Sritanabutr, Pipat; Arnutti, Pasra] Phramongkutklao Coll Med, Dept Pathol, Level 6,Her Royal Highness Princess Bejaratana Bl, Bangkok 10400, Thailand.
+   [Jamnarnwej, Pitipat] Phramongkutklao Hosp, Dept Clin Pathol, Bangkok, Thailand.
+C3 Phramongkutklao College of Medicine; Phramongkutklao Hospital
+RP Chantkran, W; Arnutti, P (通讯作者)，Phramongkutklao Coll Med, Dept Pathol, Level 6,Her Royal Highness Princess Bejaratana Bl, Bangkok 10400, Thailand.
+EM chantkran@yahoo.com; pasra@hotmail.com
+OI Chantkran, Wittawat/0000-0001-7877-0222
+CR Bland JM, 2010, INT J NURS STUD, V47, P931, DOI [10.1016/j.hal.2011.10.020, 10.1016/j.ijnurstu.2009.10.001]
+   Chaparro CM, 2019, ANN NY ACAD SCI, V1450, P15, DOI 10.1111/nyas.14092
+   Chutipongtanate A, 2020, BMC ANESTHESIOL, V20, DOI 10.1186/s12871-020-01008-8
+   Hussain KK, 2017, ELECTROANAL, V29, P2190, DOI 10.1002/elan.201700308
+   ICF International, BIOM FIELD MAN DEM H
+   Kassebaum NJ, 2014, BLOOD, V123, P615, DOI 10.1182/blood-2013-06-508325
+   Nkrumah B, 2011, BMC CLIN PATHOL, V11, DOI 10.1186/1472-6890-11-5
+   Oladele O, 2016, ETHIOP J HEALTH SCI, V26, P251, DOI 10.4314/ejhs.v26i3.8
+   Paddle JJ, 2002, B WORLD HEALTH ORGAN, V80, P813
+   Punter-Villagrasa J, 2015, SENSORS-BASEL, V15, P4564, DOI 10.3390/s150204564
+   Punter-Villagrasa J, 2015, IEEE T BIO-MED ENG, V62, P708, DOI 10.1109/TBME.2014.2364139
+   Sari M, 2001, B WORLD HEALTH ORGAN, V79, P506
+   Sysmex Corporation, XN30002021 SYSM CORP
+   Thailand Ministry of Public Health Department of Health., 4 NAT NUTR SURV THAI
+   U.S. Department of Health and Human Services, 2019, FED REGISTER, V84, P1536
+   United Nations, 2019, STAT DIV DEP EC SOC
+   WHO, 2011, WHO TECH REP SER, V959, P1
+   WHO, 2006, WHO GLOBAL DATABASE
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0887-8013
+EI 1098-2825
+J9 J CLIN LAB ANAL
+JI J. Clin. Lab. Anal.
+PD OCT
+PY 2021
+VL 35
+IS 10
+AR e23976
+DI 10.1002/jcla.23976
+EA AUG 2021
+PG 7
+WC Medical Laboratory Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Medical Laboratory Technology
+GA WJ5ZU
+UT WOS:000687738900001
+PM 34427961
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Stoica, P
+   Râpa, M
+   Chifiriuc, MC
+   Lungu, M
+   Tatia, R
+   Coroiu, V
+   Vlad, G
+   Lazar, V
+AF Stoica, Petruta
+   Rapa, Maria
+   Chifiriuc, Mariana-Carmen
+   Lungu, Maria
+   Tatia, Rodica
+   Coroiu, Viorica
+   Vlad, Grigore
+   Lazar, Veronica
+TI NOVEL BIOACTIVE AND BIODEGRADABLE MATERIALS FOR MEDICAL APPLICATIONS
+SO ENVIRONMENTAL ENGINEERING AND MANAGEMENT JOURNAL
+LA English
+DT Article; Proceedings Paper
+CT 10th International Conference on Environmental Legislation, Safety
+   Engineering and Disaster Management ELSEDIMA
+CY SEP 18-19, 2014
+CL Cluj-Napoca, ROMANIA
+SP Babes-Bolyai Univ Cluj-Napoca, Fac Environm Sci & Engn, Minist Adm & Interior Affairs, Acad Tech Sci Romania
+DE biocompatibility; biofilm; blend; medical device; thermal analysis
+ID POLY-EPSILON-CAPROLACTONE; POLY(ETHYLENE GLYCOL) PEG; IN-VITRO;
+   ANTIMICROBIAL ACTIVITY; ALGINATE; BLENDS; PCL; SCAFFOLDS; CHITOSAN;
+   BIOFILM
+AB Poly(vinyl chloride) (PVC) is the most widely used material for the production of medical devices such as intravenous fluid bags and tubing, enteral feeding, dialysis equipment and catheters. Despite of their numerous advantages, the plastic medical devices are non biodegradable and prone to microbial colonization causing biofilm associated infections which are difficult to treat and tend to chronicisation. A possible solution to surpass these limitations could be the fabrication of new biodegradable polymeric materials with optimized biocompatibility and antimicrobial properties. In this regard, biodegradable polymeric materials, such as poly(epsilon-caprolactone) (PCL), poly(DL-lactic acid) (PLA) etc. have been considered the most desirable solution from the environment management point of view. In this paper, Alg(1%) Zn, Alg(2%) Zn, Alg(3%) Zn compounds were obtained from sodium alginate (AlgNa) crosslinked with ZnCl2. Antimicrobial activity of the AlgZn compounds was assessed by the microdilutions and the diffusion methods, towards Gram-positive and Gram-negative bacterial strains (reference and clinical isolates). The Alg(3%) Zn compound was selected as antimicrobial agent to obtain the biocomposites encoded: PLA/PCL/AlgZn0.1 and PLA/PCL/AlgZn0.3. The PLA/PCL sample was used as control. Antibiofilm activity against Staphylococcus xylosus, cytotoxic effect on mammalian cells and thermal analysis by DSC were investigated for the obtained biocomposites. The obtained results show that the addition of the Alg(3%) Zn compound in the biocomposites decreased the glass transition temperature as well as the degree of crystallinity both of the PCL and PLA components in samples. Although the results suggest that the biocomposites containing Alg(3%) Zn did not inhibit the staphylococcal colonization and mature biofilm formation, the high degree of biocompatibility of blends leads to conclusion that these materials could be used for the development of novel bioactive and biodegradable polymeric materials with medical applications.
+C1 [Stoica, Petruta; Rapa, Maria; Vlad, Grigore] SCICPE BISTRITA SA, Bistrita 420035, Bistrita Nasaud, Romania.
+   [Stoica, Petruta; Chifiriuc, Mariana-Carmen; Lazar, Veronica] Univ Bucharest, Dept Microbiol, Fac Biol, Bucharest 060101, Romania.
+   [Lungu, Maria; Tatia, Rodica; Coroiu, Viorica] Natl Inst Res & Dev Biol Sci, Bucharest 060031, Romania.
+C3 University of Bucharest; National Research Institute for Biological
+   Sciences
+RP Râpa, M (通讯作者)，SCICPE BISTRITA SA, 7 St Parcului, Bistrita 420035, County Bistrita, Romania.
+EM patri_cry@yahoo.com; rapa_m2002@yahoo.com
+RI Tatia, Rodica/AAZ-8293-2021; Râpă, Maria/I-4720-2019; Chifiriuc,
+   Mariana/AFP-0825-2022
+OI Râpă, Maria/0000-0001-7359-5736; 
+FU Romanian National Authority for Scientific Research, CNDI-UEFISCDI
+   [164/2012, PN-II-RU-TE-2014-4-2037, POSDRU/159/1.5/S/133391]
+FX This work was supported by a grant of the Romanian National Authority
+   for Scientific Research, CNDI-UEFISCDI, project number 164/2012,
+   PN-II-RU-TE-2014-4-2037 and POSDRU/159/1.5/S/133391.
+CR Anghel I, 2015, ENVIRON ENG MANAG J, V14, P855, DOI 10.30638/eemj.2015.096
+   Anghel I, 2013, INT J MOL SCI, V14, P18110, DOI 10.3390/ijms140918110
+   [Anonymous], 1993, PACKAG TECHNOL SCI
+   [Anonymous], GEN MICROBIOLOGY
+   [Anonymous], 109935 SR EN ISO
+   [Anonymous], MED MICROBIOLOGY VIR
+   [Anonymous], TRENDS MAT SCI
+   [Anonymous], 2011, INT J APPL BIOL PHAR
+   Armentano I, 2013, PROG POLYM SCI, V38, P1720, DOI 10.1016/j.progpolymsci.2013.05.010
+   Berger J, 2004, EUR J PHARM BIOPHARM, V57, P19, DOI 10.1016/s0939-6411(03)00161-9
+   Bogun M, 2013, MOLECULES, V18, P3118, DOI 10.3390/molecules18033118
+   Chavalitpanya K, 2013, ENRGY PROCED, V34, P542, DOI 10.1016/j.egypro.2013.06.783
+   Ciardelli G, 2005, BIOMACROMOLECULES, V6, P1961, DOI 10.1021/bm0500805
+   Cock F, 2013, POLYM TEST, V32, P716, DOI 10.1016/j.polymertesting.2013.03.015
+   Coleman RJ, 2011, BIOMACROMOLECULES, V12, P889, DOI 10.1021/bm1011773
+   Comanita ED, 2015, ENVIRON ENG MANAG J, V14, P689, DOI 10.30638/eemj.2015.077
+   Dash M, 2011, PROG POLYM SCI, V36, P981, DOI 10.1016/j.progpolymsci.2011.02.001
+   Dash TK, 2012, J CONTROL RELEASE, V158, P15, DOI 10.1016/j.jconrel.2011.09.064
+   Dhara L, 2013, EUR J INTEGR MED, V5, P527, DOI 10.1016/j.eujim.2013.08.005
+   El Habnouni S, 2013, ACTA BIOMATER, V9, P7709, DOI 10.1016/j.actbio.2013.04.018
+   Goh CH, 2012, CARBOHYD POLYM, V88, P1, DOI 10.1016/j.carbpol.2011.11.012
+   Grumezescu V, 2013, DIG J NANOMATER BIOS, V8, P869
+   Hassouna F, 2011, EUR POLYM J, V47, P2134, DOI 10.1016/j.eurpolymj.2011.08.001
+   Jecu L, 2013, ENVIRON ENG MANAG J, V12, P265, DOI 10.30638/eemj.2013.031
+   Kim J., 2009, J BIOL ENG, V3, P1
+   Lamba NMK, 2000, BIOMATERIALS, V21, P89, DOI 10.1016/S0142-9612(99)00145-3
+   Lee KY, 2012, PROG POLYM SCI, V37, P106, DOI 10.1016/j.progpolymsci.2011.06.003
+   Li LH, 2010, CHEM ENG J, V160, P378, DOI 10.1016/j.cej.2010.03.051
+   Marutescu L, 2011, BIOINTERFACE RES APP, V1, P236
+   Merchan M, 2011, POLYM BULL, V67, P997, DOI 10.1007/s00289-011-0474-3
+   Messori M, 2004, POLYMER, V45, P805, DOI 10.1016/j.polymer.2003.12.006
+   Monticelli O, 2014, EUR POLYM J, V58, P69, DOI 10.1016/j.eurpolymj.2014.06.021
+   MOSMANN T, 1983, J IMMUNOL METHODS, V65, P55, DOI 10.1016/0022-1759(83)90303-4
+   Muñoz-Bonilla A, 2012, PROG POLYM SCI, V37, P281, DOI 10.1016/j.progpolymsci.2011.08.005
+   Niu YQ, 2014, BIOMATERIALS, V35, P4266, DOI 10.1016/j.biomaterials.2014.02.013
+   Pant HR, 2011, COLLOID SURFACE B, V88, P587, DOI 10.1016/j.colsurfb.2011.07.045
+   Patrício T, 2013, CHEM ENGINEER TRANS, V32, P1645, DOI 10.3303/CET1332275
+   Patrício T, 2013, PROCEDIA ENGINEER, V59, P292, DOI 10.1016/j.proeng.2013.05.124
+   Rapa M, 2013, J OPTOELECTRON ADV M, V15, P807
+   Ray SS, 2005, PROG MATER SCI, V50, P962, DOI 10.1016/j.pmatsci.2005.05.002
+   Rijo P, 2014, POLYMERS-BASEL, V6, P479, DOI 10.3390/polym6020479
+   Rong HJ, 2012, INT J PHARMACEUT, V427, P242, DOI 10.1016/j.ijpharm.2012.02.007
+   Shah SR, 2013, MATER TODAY, V16, P177, DOI 10.1016/j.mattod.2013.05.003
+   Smith R., 2005, BIODEGRADABLE POLYM
+   Wu CS, 2014, COMPOS SCI TECHNOL, V102, P1, DOI 10.1016/j.compscitech.2014.07.012
+   Zhu YB, 2002, BIOMATERIALS, V23, P4889, DOI 10.1016/S0142-9612(02)00247-8
+   Zou GX, 2012, POLYM SCI SER A+, V54, P393, DOI 10.1134/S0965545X12050148
+NR 47
+TC 1
+Z9 1
+U1 0
+U2 29
+PU GH ASACHI TECHNICAL UNIV IASI
+PI IASI
+PA 71 MANGERON BLVD, IASI, 700050, ROMANIA
+SN 1582-9596
+EI 1843-3707
+J9 ENVIRON ENG MANAG J
+JI Environ. Eng. Manag. J.
+PD NOV
+PY 2015
+VL 14
+IS 11
+BP 2703
+EP 2711
+DI 10.30638/eemj.2015.287
+PG 9
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Environmental Sciences & Ecology
+GA DC3DP
+UT WOS:000369099900022
+OA gold
+DA 2026-01-12
+ER
+
+PT J
+AU Bennett, A
+   Urayama, T
+   Papangelis, K
+   Yuen, P
+   Yu, N
+AF Bennett, Adam
+   Urayama, Takuya
+   Papangelis, Konstantinos
+   Yuen, Peter
+   Yu, Nan
+TI Characterisation of a Cold Atmospheric Pressure Plasma Torch for Medical
+   Applications: Demonstration of Device Safety
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE cold atmospheric plasma; biological and physical characterisation;
+   plasma medicine; ultraviolet (UV); reactive oxygen nitrogen species
+   (RONS); wound management; anti-bacterial; plasma healthcare; safety
+   standards
+AB Featured Application The Adtec SteriPlas is a CE-approved gas plasma medical device with proven anti-bacterial efficacy. The SteriPlas has been used to treat complex and chronic conditions by accelerating healing whilst giving no side effects to the patients. The cold gas plasma technology has been demonstrated to manage infections without the need for antibiotics. Problematic wounds treated include diabetic foot ulcers, which are considered one of the worst wound types due to infection with biofilms. The plasma technology has also been deployed in the field of dermatology to target actinic keratoses, which is a challenging skin condition where conventional therapies often bear undesirable side effects; accelerated healing has again been shown with no side effects. The safety and effectiveness of plasma devices are of crucial importance for medical applications. This study presents the novel design of an atmospheric plasma torch (SteriPlas) and its characterisation. The SteriPlas was characterised to ascertain whether it is safe for application on human skin. The emission spectrum discharged from the SteriPlas was shown to be the same as the emission from the MicroPlaSter Beta. The UV emitted from the SteriPlas was measured, and the effective irradiance was calculated. The effective irradiance enabled the determination of the maximum UV exposure limits, which were shown to be over two hours: significantly longer than the current two-minute treatment time. The use of an extraction system with a higher flow rate appears to reduce slightly the effective irradiance at the treatment area. The NOx and ozone emissions were recorded for both SteriPlas configurations. The NOx levels were shown to be orders of magnitude lower than their safety limits. The ozone emissions were shown to be safe 25 mm from the SteriPlas cage. A discussion of how safety standards differ from one regulatory body to another is given.
+C1 [Bennett, Adam] Cranfield Univ, Surface Engn & Precis Inst, Cranfield MK43 0AL, Beds, England.
+   [Bennett, Adam] Cranfield Plasma Solut Ltd, Cranfield NN15 5PX, Beds, England.
+   [Urayama, Takuya; Papangelis, Konstantinos] Adtec Plasma Technol Co Ltd, Hiroshima 7120942, Japan.
+   [Yuen, Peter] Cranfield Univ, CEWIC, Electroopt & Remote Sensing Grp, Cranfield, Beds, England.
+   [Yu, Nan] Univ Edinburgh, Inst Mat & Proc, Edinburgh EH9 3FB, Midlothian, Scotland.
+C3 Cranfield University; Cranfield University; University of Edinburgh
+RP Yu, N (通讯作者)，Univ Edinburgh, Inst Mat & Proc, Edinburgh EH9 3FB, Midlothian, Scotland.
+EM a.d.bennett@cranfield.ac.uk; t-urayama@adtec-rf.co.jp;
+   konstantinos@adtecplasma.com; p.yuen@cranfield.ac.uk; nan.yu@ed.ac.uk
+RI Bennett, Audrey/L-2794-2013; Yuen, Peter/T-5726-2019; Yu,
+   Nan/AEP-6391-2022
+OI Papangelis, Konstantinos/0000-0003-0039-7901; Yuen,
+   Peter/0000-0003-2493-2534; Yu, Nan/0000-0002-5684-1752
+CR [Anonymous], 2007, NIOSH POCK GUID CHEM, V2005, P149
+   [Anonymous], 2002, HLTH SAF EXEC, V4, P17
+   Asadollahi S, 2020, THIN SOLID FILMS, V714, DOI 10.1016/j.tsf.2020.138369
+   Bennett A, 2020, PROC SPIE, V11568, DOI 10.1117/12.2574947
+   Bennett A, 2021, FRONT MECH ENG-PRC, V16, P122, DOI 10.1007/s11465-020-0603-5
+   Bennett A, 2020, AIP CONF PROC, V2303, DOI [10.17159/2617-3255/2020/n34a5, 10.1063/5.0028557, 10.17159/2617-3255/2020/n34a5]
+   Hattori Y, 2010, J APPL PHYS, V107, DOI 10.1063/1.3319616
+   John P, 2010, P I MECH ENG G-J AER, V224, P355, DOI 10.1243/09544100JAERO580
+   Karanassios V, 2004, SPECTROCHIM ACTA B, V59, P909, DOI 10.1016/j.sab.2004.04.005
+   Li D, 2019, APPL SURF SCI, V489, P648, DOI 10.1016/j.apsusc.2019.06.026
+   Mann MS, 2016, CLIN PLASMA MED, V4, P35, DOI 10.1016/j.cpme.2016.06.001
+   McKinlay AF, 2004, HEALTH PHYS, V87, P171
+   Morfill G., 2006, European Patent, Patent No. 1925190
+   Shimizu T, 2008, PLASMA PROCESS POLYM, V5, P577, DOI 10.1002/ppap.200800021
+   Shimizu T, 2010, PLASMA PROCESS POLYM, V7, P288, DOI 10.1002/ppap.200900085
+   Shore P, 2012, PHILOS T R SOC A, V370, P3993, DOI 10.1098/rsta.2011.0638
+   Stephan A, 2016, EUR MICROW CONF, P902, DOI 10.1109/EuMC.2016.7824490
+   Wester U, 2000, RADIAT PROT DOSIM, V91, P231, DOI 10.1093/oxfordjournals.rpd.a033207
+   Yu N, 2021, MICROMACHINES-BASEL, V12, DOI 10.3390/mi12070834
+   Yu N, 2021, CHINESE J AERONAUT, V34, P518, DOI 10.1016/j.cja.2020.08.028
+   Zhou H, 2020, INT J EXTREME MANUF, V2, DOI 10.1088/2631-7990/abab49
+NR 21
+TC 5
+Z9 7
+U1 2
+U2 19
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD DEC
+PY 2021
+VL 11
+IS 24
+AR 11864
+DI 10.3390/app112411864
+PG 9
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Materials Science; Physics
+GA XW0AN
+UT WOS:000735293200001
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Sasaki, Y
+   Fukuta, K
+   Yano, T
+   Nishiyama, M
+   Kobayashi, S
+   Minato, R
+   Daizumoto, K
+   Tomida, R
+   Kusuhara, Y
+   Fukawa, T
+   Yamaguchi, K
+   Yamamoto, Y
+   Furukawa, J
+AF Sasaki, Yutaro
+   Fukuta, Kyotaro
+   Yano, Tetsuhiro
+   Nishiyama, Mitsuki
+   Kobayashi, Saki
+   Minato, Ryoei
+   Daizumoto, Kei
+   Tomida, Ryotaro
+   Kusuhara, Yoshito
+   Fukawa, Tomoya
+   Yamaguchi, Kunihisa
+   Yamamoto, Yasuyo
+   Furukawa, Junya
+TI Vas Guide: a novel device for looping blood vessels in robot-assisted
+   surgery
+SO SURGICAL ENDOSCOPY AND OTHER INTERVENTIONAL TECHNIQUES
+LA English
+DT Article
+DE Blood vessel; Looping; Medical device development; Minimally invasive
+   surgery; Robot-assisted surgery; Vascular injury
+AB Background Looping blood vessels in robot-assisted surgery remains challenging because of limitations in instrument articulation, joint length, and the lack of tactile feedback. To address this critical issue, we developed the Vas Guide, a novel device, for safe blood vessel handling. This study aims to establish the efficacy, safety, and durability of the Vas Guide. Methods The Vas Guide is a flat, curved stainless-steel strip with blunt, rounded ends and a hole near the distal end. After sufficient dissection of the posterior surface of the target blood vessel, the Vas Guide with a vessel loop tied to the distal end was passed around the blood vessel in a single step using a suturing-like motion, thereby enabling secure vessel management. It is reusable and has a unit price of approximately $600. We analyzed 83 patients undergoing robot-assisted partial nephrectomy or nephroureterectomy at Tokushima University Hospital: 39 in the Vas Guide group and 44 in the conventional group. Outcomes including looping time, looping-related complication rates, such as collisions between instruments and bleeding, and additional instrument usage were recorded. The National Aeronautics and Space Administration task load index (NASA-TLX) scores were assessed. Results The patients' characteristics were comparable between the two groups. The Vas Guide group demonstrated significantly better outcomes, including faster looping times (31 vs. 90 s, p < 0.001), fewer looping-related complications (0% vs. 30%, p < 0.001), no additional instrument usage (0% vs. 50%, p < 0.001), and better NASA-TLX scores (26.5 vs. 75.7, p < 0.001). The Vas Guide showed no usability issues, with only minor surface scratches and a slight radius change (8.60 mm to 8.69 mm). Conclusion This reusable device combines high efficacy, safety, and durability and can be implemented at a relatively low cost.
+C1 [Sasaki, Yutaro; Fukuta, Kyotaro; Yano, Tetsuhiro; Nishiyama, Mitsuki; Kobayashi, Saki; Minato, Ryoei; Daizumoto, Kei; Tomida, Ryotaro; Kusuhara, Yoshito; Fukawa, Tomoya; Yamaguchi, Kunihisa; Yamamoto, Yasuyo; Furukawa, Junya] Tokushima Univ, Dept Urol, Grad Sch Biomed Sci, 3-18-15 Kuramoto Cho, Tokushima 7708503, Japan.
+C3 Tokushima University
+RP Sasaki, Y (通讯作者)，Tokushima Univ, Dept Urol, Grad Sch Biomed Sci, 3-18-15 Kuramoto Cho, Tokushima 7708503, Japan.
+EM yutaro_sasaki@tokushima-u.ac.jp
+RI Tomida, Ryotaro/JXN-9718-2024; Sasaki, Yutaro/JCO-1233-2023
+OI Sasaki, Yutaro/0000-0003-1953-0776
+FU Japanese Foundation for Research and Promotion of Endoscopy; Japanese
+   Foundation for Research and Promotion of Endoscopy; Annual Meeting Award
+FX We would like to express our gratitude for receiving the Japanese
+   Foundation for Research and Promotion of Endoscopy Grant in support of
+   this study. We are also honored that this novel device was awarded the
+   Annual Meeting Award (Video Section) at both the 38th Congress of the
+   Japanese Society of Endourology and Robotics (November 28, 2024, Chiba
+   City) and the 112th Annual Meeting of the Japanese Urological
+   Association (April 17, 2025, Fukuoka City). We also thank Andrea Baird,
+   MD, from Edanz (https://jp.edanz.com/ac) for editing a draft of this
+   manuscript.
+CR Autorino R, 2013, BJU INT, V111, P767, DOI 10.1111/j.1464-410X.2013.11800.x
+   Bell SW, 2022, ANZ J SURG, V92, P3022, DOI 10.1111/ans.17830
+   England EC, 2020, J ROBOT SURG, V14, P473, DOI 10.1007/s11701-019-01011-3
+   Gamberini G, 2024, SCI REP-UK, V14, DOI 10.1038/s41598-024-55351-8
+   Lengyel BC, 2024, J ROBOT SURG, V18, DOI 10.1007/s11701-024-02087-2
+   MANSHIP LL, 1985, AM SURGEON, V51, P401
+   Meyerson SL, 2012, ANN THORAC SURG, V94, P368, DOI 10.1016/j.athoracsur.2012.04.023
+   Ricciardi R, 2025, ANN SURG, V281, P748, DOI 10.1097/SLA.0000000000006572
+   Singh H, 2018, INDIAN J PLAST SURG, V51, P103, DOI 10.4103/ijps.IJPS_221_17
+   Yoshida K, 2024, INT J UROL, V31, P355, DOI 10.1111/iju.15369
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0930-2794
+EI 1432-2218
+J9 SURG ENDOSC
+JI Surg. Endosc.
+PD JUL
+PY 2025
+VL 39
+IS 7
+BP 4447
+EP 4454
+DI 10.1007/s00464-025-11835-w
+EA JUN 2025
+PG 8
+WC Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Surgery
+GA 4MZ5W
+UT WOS:001505079500001
+PM 40488770
+DA 2026-01-12
+ER
+
+PT J
+AU Tsanidis, G
+   Samaras, T
+AF Tsanidis, George
+   Samaras, Theodoros
+TI Computational Assessment of the Deposited Power and the Temperature
+   Increase around Two Coupled Implanted Leads Inside a 1.5 T MRI Scanner
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE implants with multiple leads; Tier 3; deposited power
+ID RESONANCE-IMAGING SAFE; CARDIAC-PACEMAKER; IN-VITRO; IMPACT; VIVO;
+   VERIFICATION; SYSTEMS; FIELD; SAR; TIP
+AB Featured Application Although, during an MRI scan based on ISO/TS 10974:2018, an assessment of the enhanced tissue heating due to coupling between leads of close proximity should be performed, a specific method for this estimation has not been defined. Therefore, the aim of this work is to evaluate a numerical method, similar to the Tier 3 process, for the estimation of the deposited power at the tips of two coupled implanted leads with a 1.5 T coil. Furthermore, in a previous work, an experimental process was proposed on a parallel couple of cables with a constant distance between them; our method advances this model, allowing the calculation of the deposited power for realistic in vivo implant placements and not only for the parallel placement of leads. Our proposed method is totally numerical, as the experimental measurement of the temperature increase at the in vivo placements of implants could not be feasible.Abstract A specific method for the estimation of the induced power at the tip by an active implantable medical device (AIMD) during an MRI scan is not defined in ISO/TS 10974:2018 for the cases of devices with multiple leads or the presence of abandoned and retained leads, where coupling between two leads could take place. Therefore, the aim of this work is to evaluate a numerical method, similar to Tier 3 of ISO/TS 10974:2018, for the estimation of the deposited power at the tips of two coupled implanted leads. Specifically, the proposed methodology applies the same parameters as the standard Tier 3 process. However, these parameters are calculated for each implant in the presence of its neighbors in order to include the coupling between them. Numerical electromagnetic simulations were performed, in which a pair of generic implant leads was excited and placed at various positions relative to each other. The deposited power at the tips of the pair was analyzed based on the standard Tier 3 approach, and the results show that this could overestimate the induced power by more than 6 dB. Therefore, a modified Tier 3 numerical method for the estimation of the deposited power at their tips is proposed, which can produce a reliable calculation. This method was confirmed by evaluating various configurations of the two leads excited by orthogonal electrical fields, and also its uncertainty budget was developed. Finally, the method was repeated for different properties of the generic implants and the surrounding tissue, as well as for a pair of realistic implants and in vivo implantation trajectories.
+C1 [Tsanidis, George; Samaras, Theodoros] Aristotle Univ Thessaloniki, Dept Phys, Thessaloniki 54124, Greece.
+   [Tsanidis, George] Thessaloniki Software Solut THESS SA, Technopolis ICT Business Pk, Thessaloniki 55535, Greece.
+   [Samaras, Theodoros] Univ Malta, Dept Phys, Msida 2080, Msida, Malta.
+C3 Aristotle University of Thessaloniki; University of Malta
+RP Tsanidis, G (通讯作者)，Aristotle Univ Thessaloniki, Dept Phys, Thessaloniki 54124, Greece.; Tsanidis, G (通讯作者)，Thessaloniki Software Solut THESS SA, Technopolis ICT Business Pk, Thessaloniki 55535, Greece.
+EM tsanidis@thess.com.gr; theosama@auth.gr
+RI Samaras, Theodoros/I-5942-2012
+OI Samaras, Theodoros/0000-0003-0170-4520; Tsanidis,
+   Georgios/0000-0002-6099-2174
+CR Achenbach S, 1997, AM HEART J, V134, P467, DOI 10.1016/S0002-8703(97)70083-8
+   Amjad A, 2005, IEEE T MAGN, V41, P4185, DOI 10.1109/TMAG.2005.854840
+   Angelone LM, 2010, IEEE T MED IMAGING, V29, P1029, DOI 10.1109/TMI.2010.2040624
+   [Anonymous], 2018, 109742018 ISOTS
+   Baker KB, 2006, J MAGN RESON IMAGING, V24, P1236, DOI 10.1002/jmri.20769
+   Cabot E, 2013, BIOELECTROMAGNETICS, V34, P104, DOI 10.1002/bem.21745
+   Calcagnini G, 2008, J MAGN RESON IMAGING, V28, P879, DOI 10.1002/jmri.21536
+   Dormont D, 2010, AM J NEURORADIOL, V31, P15, DOI 10.3174/ajnr.A1644
+   Feng S, 2015, IEEE T MICROW THEORY, V63, P305, DOI 10.1109/TMTT.2014.2376523
+   Golestanirad L, 2019, MAGN RESON MED, V81, P653, DOI 10.1002/mrm.27350
+   Golestanirad L, 2019, NEUROIMAGE, V184, P566, DOI 10.1016/j.neuroimage.2018.09.034
+   Golestanirad L, 2017, NEUROIMAGE, V147, P577, DOI 10.1016/j.neuroimage.2016.12.056
+   Gosselin MC, 2014, PHYS MED BIOL, V59, P5287, DOI 10.1088/0031-9155/59/18/5287
+   Greenspon AJ, 2012, J AM COLL CARDIOL, V59, pE703, DOI 10.1016/S0735-1097(12)60704-9
+   Grill WM, 2000, J BIOMED MATER RES, V50, P215
+   Jiang ZH, 2012, LECT NOTES COMPUT SC, V7214, P188, DOI 10.1007/978-3-642-28756-5_14
+   Kabil J., 2017, P ISMRM 25 ANN M
+   Kabil J, 2020, MAGN RESON MED, V84, P991, DOI 10.1002/mrm.28146
+   Kozlov M, 2020, MAGN RESON MATER PHY, V33, P421, DOI 10.1007/s10334-019-00793-9
+   Langman DA, 2012, MAGN RESON MED, V68, P606, DOI 10.1002/mrm.23235
+   Langman DA, 2011, J MAGN RESON IMAGING, V33, P426, DOI 10.1002/jmri.22463
+   Luechinger R, 2005, EUR HEART J, V26, P376, DOI 10.1093/eurheartj/ehi009
+   Mattei E, 2015, MAGN RESON MED, V73, P390, DOI 10.1002/mrm.25106
+   Mattei E, 2008, BIOMED ENG ONLINE, V7, DOI 10.1186/1475-925X-7-11
+   McCabe S, 2017, IEEE T MICROW THEORY, V65, P3541, DOI 10.1109/TMTT.2017.2669977
+   McElcheran CE, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134379
+   Naehle CP, 2009, PACE, V32, P1526, DOI 10.1111/j.1540-8159.2009.02570.x
+   Nordbeck P, 2012, MAGN RESON MED, V68, P1963, DOI 10.1002/mrm.24197
+   Nordbeck P, 2011, MAGN RESON MED, V65, P44, DOI 10.1002/mrm.22592
+   Nordbeck P, 2009, MAGN RESON MED, V61, P570, DOI 10.1002/mrm.21881
+   Park SM, 2007, J MAGN RESON IMAGING, V26, P1278, DOI 10.1002/jmri.21159
+   Rezai AR, 2005, NEUROSURGERY, V57, P1056, DOI 10.1227/01.NEU.0000186935.87971.2a
+   Roguin A, 2004, CIRCULATION, V110, P475, DOI 10.1161/01.CIR.0000137121.28722.33
+   Sawyer-Glover AM, 2000, J MAGN RESON IMAGING, V12, P92, DOI 10.1002/1522-2586(200007)12:1<92::AID-JMRI11>3.0.CO;2-7
+   Shellock FG, 2006, AM HEART J, V151, P436, DOI 10.1016/j.ahj.2005.04.015
+   Sommer T, 2000, RADIOLOGY, V215, P869, DOI 10.1148/radiology.215.3.r00jn08869
+   Stijnman P., 2018, P JOINT ANN M ISMRM
+   Stijnman PRS, 2021, MAGN RESON MED, V86, P2751, DOI 10.1002/mrm.28840
+   Tsanidis G, 2020, PHYS MED BIOL, V65, DOI 10.1088/1361-6560/ab9fc7
+   Van Gemert J, 2017, IEEE T MED IMAGING, V36, P666, DOI 10.1109/TMI.2016.2624507
+   Wang Y, 2020, IEEE T INSTRUM MEAS, V69, P6381, DOI 10.1109/TIM.2020.2971292
+   Wei Hu, 2021, 2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI), P1041, DOI 10.1109/APS/URSI47566.2021.9704099
+   Yao A., 2017, P 25 ANN M ISMRM, VVolume 65
+   Yao AP, 2021, MAGN RESON MED, V86, P2156, DOI 10.1002/mrm.28836
+   Yu C.M., 2014, CASES CARDIAC RESYNC
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD JAN
+PY 2024
+VL 14
+IS 2
+AR 629
+DI 10.3390/app14020629
+PG 16
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Materials Science; Physics
+GA FX6P6
+UT WOS:001149193900001
+OA Green Submitted, Green Accepted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Fischer, E
+   Gebremeskel, M
+   Jawed, KJ
+   Ozturk, M
+   Cleary, K
+   Yerebakan, C
+AF Fischer, Elizabeth
+   Gebremeskel, Mikias
+   Jawed, Kochai Jan
+   Ozturk, Mahmut
+   Cleary, Kevin
+   Yerebakan, Can
+TI Development and assessment of novel assist device for cardiac
+   cannulation
+SO INTERNATIONAL JOURNAL OF COMPUTER ASSISTED RADIOLOGY AND SURGERY
+LA English
+DT Article
+DE Medical device; Cardiac cannulation; ECMO
+AB PurposeCongenital heart defects are the most common birth defects in the USA and in 25% of cases need to be treated with cardiovascular interventions. One of such interventions is the postoperative use of an extracorporeal membrane oxygenation (ECMO) machine for the treatment of cardiorespiratory failure. The process of placing the patient on the ECMO is extremely time-critical and requires the use of cardiac cannulation. For the first time, our team developed and evaluated a new quick-connect cannulation system that allows for rapid, easy, and safe ECMO cannulation in the pediatric population. The design should eliminate the need for purse-string sutures that are currently used to secure cannulas, as the cannulas will be inserted through a port that is glued to the cardiovascular tissue.MethodsThe rapid cannulation assistance device was designed on the SolidWorks computer-aided design software using the dimensions of the commercially available arterial and venous catheters. These designs were then 3D printed, and tensile testing was performed. Then, a flow loop was developed, and cannulation was performed and analyzed on both 3D-printed hearts and porcine hearts.ResultsThe rapid cannulation assistance device was designed and 3D printed. Tensile testing found that the parts were strong enough to withstand forces that may be introduced in studies. 3D-printed and porcine heart tests with a flow loop found no leakage with the 3D-printed hearts but minimal leaking with the porcine hearts. However, this leakage was observed at the junction between the device and the heart, leading us to believe that a glue better suited to attach the device to the heart would prevent leakage in the future.ConclusionsThis project successfully demonstrated how a rapid cannulation assistance device could be developed and tested. Future studies will be conducted that address device adhesion to the cardiovascular tissue so that accurate pressure and flow rates can be measured. Future studies will also include testing the device in a fluid environment to more effectively analyze the device success and comparing the time required to cannulate using our device compared to the standard of care.
+C1 [Fischer, Elizabeth; Gebremeskel, Mikias; Jawed, Kochai Jan; Cleary, Kevin] Childrens Natl Hosp, Sheikh Zayed Inst Pediat Surg Innovat, Washington, DC 20010 USA.
+   [Ozturk, Mahmut; Yerebakan, Can] Childrens Natl Hosp, Div Cardiovasc Surg, Washington, DC USA.
+C3 Children's National Health System; Children's National Health System
+RP Fischer, E (通讯作者)，Childrens Natl Hosp, Sheikh Zayed Inst Pediat Surg Innovat, Washington, DC 20010 USA.
+EM emfischer2@childrensnational.org
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development
+FX No Statement Available
+CR Altman C, 2022, Identifying newborns with critical congenital heart disease
+   [Anonymous], 2022, Data and Statistics on Congenial Heart Defects
+   Basgoze S, 2022, PEDIATR CARDIOL, V43, P1811, DOI 10.1007/s00246-022-02918-9
+   Chen YS, 2003, J AM COLL CARDIOL, V41, P197, DOI 10.1016/S0735-1097(02)02716-X
+   Cho SM, 2021, CLIN EEG NEUROSCI, V52, P462, DOI 10.1177/1550059419892757
+   De Charrière A, 2021, J CLIN MED, V10, DOI 10.3390/jcm10030534
+   Fletcher K, 2018, SEMIN PERINATOL, V42, P68, DOI 10.1053/j.semperi.2017.12.002
+   Guerguerian AM, 2021, ASAIO J, V67, P229, DOI 10.1097/MAT.0000000000001345
+   Heard M, 2010, ECMO Specialist Training Manual
+   Jensen AR, 2022, SEMIN FETAL NEONAT M
+   Peer SM, 2016, WORLD J PEDIATR CONG, V7, P753, DOI 10.1177/2150135116662632
+   Rosario D, 2022, StatPearls
+   Schachner T, 2005, EUR J CARDIO-THORAC, V27, P634, DOI 10.1016/j.ejcts.2004.12.042
+   Teng Y, 2021, FRONT CARDIOVASC MED, V8, DOI 10.3389/fcvm.2021.769231
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 3
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1861-6410
+EI 1861-6429
+J9 INT J COMPUT ASS RAD
+JI Int. J. Comput. Assist. Radiol. Surg.
+PD JAN
+PY 2024
+VL 19
+IS 1
+BP 37
+EP 41
+DI 10.1007/s11548-023-03013-x
+EA AUG 2023
+PG 5
+WC Engineering, Biomedical; Radiology, Nuclear Medicine & Medical Imaging;
+   Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Radiology, Nuclear Medicine & Medical Imaging; Surgery
+GA ED5X5
+UT WOS:001061950200001
+PM 37610604
+DA 2026-01-12
+ER
+
+PT J
+AU Eguren, D
+   Contreras-Vidal, JL
+AF Eguren, David
+   Contreras-Vidal, Jose Luis
+TI Navigating the FDA Medical Device Regulatory Pathways for Pediatric
+   Lower Limb Exoskeleton Devices
+SO IEEE SYSTEMS JOURNAL
+LA English
+DT Article
+DE Pediatrics; Medical treatment; Legged locomotion; Sociology; Statistics;
+   Injuries; Assistive technology; brain computer interfaces; medical
+   robotics; pediatrics; rehabilitation robotics
+ID CHILDREN; GAIT; WALKING
+AB There have been significant advances in the technologies for robot-assisted lower limb rehabilitation in the past decade. However, the development of similar systems for children has been slow despite the fact that children with conditions, such as cerebral palsy, spina bifida, and spinal cord injury (SCI), can benefit greatly from these technologies. Robotic-assisted gait therapy (RAGT) has emerged as a way to increase gait training duration and intensity while decreasing the risk of injury to therapists. Robotic walking devices can be coupled with motion sensing, electromyography, scalp electroencephalography, or other noninvasive methods of acquiring information about the user's intent to design brain-computer interfaces (BCI) for neuromuscular rehabilitation and control of powered exoskeletons. For users with SCI, BCIs could provide a method of overground mobility closer to the natural process of the brain controlling the body's movement during walking than mobility by wheelchair. For adults, there are currently four Food and Drug Administration (FDA) approved lower limb exoskeletons that could be incorporated into such a BCI system, but there are no similar devices specifically designed for children, who present additional physical, neurological, and cognitive developmental challenges. The current state-of-the-art for pediatric RAGT relies on large clinical devices with high costs that limit accessibility. This can reduce the amount of therapy a child receives and slow the rehabilitation progress. In many cases, the lack of gait training can result in a reduction in the mobility, independence, and overall quality of life for children with lower limb disabilities. Thus, it is imperative to facilitate and accelerate the development of pediatric technologies for gait rehabilitation, including their regulatory path. In this article, an overview of the U.S. FDA clearance/approval process is presented. An example device has been used to navigate important questions facing device developers focused on providing lower limb rehabilitation to children in home based or other settings beyond the clinic.
+C1 [Eguren, David; Contreras-Vidal, Jose Luis] Univ Houston, NSF IUCRC BRAIN Ctr, Houston, TX 77204 USA.
+C3 University of Houston System; University of Houston
+RP Eguren, D (通讯作者)，Univ Houston, NSF IUCRC BRAIN Ctr, Houston, TX 77204 USA.
+EM deguren@uh.edu; jlcontr2@central.uh.edu
+RI Contreras-Vidal, Jose/AAW-9299-2020
+FU NSF IUCRC BRAIN IAB; Mission Connect-A TIRR Foundation; University of
+   Houston Chancellor's Technology Bridge Fund Award [000179572]; NSF [CNS
+   1650536]
+FX This work was supported by NSF IUCRC BRAIN IAB, Mission Connect-A TIRR
+   Foundation, University of Houston Chancellor's Technology Bridge Fund
+   Award 000179572 and NSF Award CNS 1650536.
+CR [Anonymous], 2011, P IEEE INT C REH ROB
+   [Anonymous], 2011, Medical Devices and the Publics Health: The FDA 510(k) Clearance Process at 35 Years
+   Borggraefe I, 2010, EUR J PAEDIATR NEURO, V14, P496, DOI 10.1016/j.ejpn.2010.01.002
+   Contreras-Vidal JL, 2016, J NEURAL ENG, V13, DOI 10.1088/1741-2560/13/3/031001
+   Contreras-Vidal JL, 2015, AI MAG, V36, P12, DOI 10.1609/aimag.v36i4.2613
+   Darragh AR, 2009, AM J OCCUP THER, V63, P351, DOI 10.5014/ajot.63.3.351
+   Dodd KJ, 2007, DEV MED CHILD NEUROL, V49, P101, DOI 10.1111/j.1469-8749.2007.00101.x
+   Eguren D, 2019, IEEE SYS MAN CYBERN, P2411, DOI 10.1109/SMC.2019.8914629
+   Flores MB, 2019, DEV NEUROREHABIL, V22, P499, DOI 10.1080/17518423.2018.1527862
+   Halt GB., 2019, FDA and Intellectual Property Strategies for Medical Device Technologies. FDA and Intellectual Property Strategies for Medical Device Technologies
+   He YT, 2018, J NEURAL ENG, V15, DOI 10.1088/1741-2552/aaa8c0
+   Hidler Joseph, 2011, Top Spinal Cord Inj Rehabil, V17, P42
+   Lerner ZF, 2018, IEEE T NEUR SYS REH, V26, P1985, DOI 10.1109/TNSRE.2018.2870756
+   Lerner ZF, 2017, SCI TRANSL MED, V9, DOI 10.1126/scitranslmed.aam9145
+   Luu TP, 2019, IEEE SYS MAN CYBERN, P3608, DOI 10.1109/SMC.2019.8914380
+   Luu TP, 2017, 2017 INTERNATIONAL SYMPOSIUM ON WEARABLE ROBOTICS AND REHABILITATION (WEROB), P103
+   Meyer-Heim A, 2007, DEV MED CHILD NEUROL, V49, P900, DOI 10.1111/j.1469-8749.2007.00900.x
+   Meyer-Heim A, 2009, ARCH DIS CHILD, V94, P615, DOI 10.1136/adc.2008.145458
+   Parent S, 2011, J NEUROTRAUM, V28, P1515, DOI 10.1089/neu.2009.1153
+   Qian X, 2018, TRANSL PSYCHIAT, V8, DOI 10.1038/s41398-018-0213-8
+   Smania N, 2011, AM J PHYS MED REHAB, V90, P137, DOI 10.1097/PHM.0b013e318201741e
+   van Hedel HJA, 2018, J NEUROENG REHABIL, V15, DOI 10.1186/s12984-018-0366-y
+   Willerslev-Olsen M, 2015, BRAIN, V138, P589, DOI 10.1093/brain/awu399
+   Young AJ, 2017, IEEE T NEUR SYS REH, V25, P171, DOI 10.1109/TNSRE.2016.2521160
+   Zhang J, 2019, FRONT HUM NEUROSCI, V13, DOI 10.3389/fnhum.2019.00024
+NR 26
+TC 7
+Z9 9
+U1 3
+U2 29
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1932-8184
+EI 1937-9234
+J9 IEEE SYST J
+JI IEEE Syst. J.
+PD JUN
+PY 2021
+VL 15
+IS 2
+BP 2361
+EP 2368
+DI 10.1109/JSYST.2020.3025111
+PG 8
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Operations Research & Management Science; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Operations Research & Management Science;
+   Telecommunications
+GA SP3DJ
+UT WOS:000659552700084
+DA 2026-01-12
+ER
+
+PT J
+AU Moon, Y
+   Oh, J
+   Hyun, J
+   Kim, Y
+   Choi, J
+   Namgoong, J
+   Kim, JK
+AF Moon, Youngjin
+   Oh, Jeongmin
+   Hyun, Jaeho
+   Kim, Youngkyu
+   Choi, Jaesoon
+   Namgoong, Jeongman
+   Kim, Jun Ki
+TI Cost-Effective Smartphone-Based Articulable Endoscope Systems for
+   Developing Countries: Instrument Validation Study
+SO JMIR MHEALTH AND UHEALTH
+LA English
+DT Article
+DE smartphone-based endoscope; mobile health; low-resource settings;
+   continuum body; articulable endoscope; low-cost medical device; point of
+   care diagnostics
+AB Background: Endoscopes are widely used for visualizing the respiratory tract, urinary tract, uterus, and gastrointestinal tracts. Despite high demand, people in underdeveloped and developing countries cannot obtain proper access to endoscopy. Moreover, commercially available endoscopes are mostly nonarticulable as well as not actively controlled, limiting their use. Articulating endoscopes are required for some diagnosis procedures, due to their ability to image wide areas of internal organs. Furthermore, actively controlled articulating endoscopes are less likely to harm the lumen than rigid endoscopes because they can avoid contact with endothelial tissues.
+   Objective: The study aimed to demonstrate the feasibility and acceptability of smartphone-based wide-field articulable endoscope system for minimally invasive clinical applications in developing and less developed countries.
+   Methods: A thin articulable endoscope system that can be attached to and actively controlled by a smartphone was designed and constructed. The system consists of a flexible endoscopic probe with a continuum mechanism, 4 motor modules for articulation, a microprocessor for controlling the motor with a smartphone, and a homebuilt app for streaming, capturing, adjusting images and video, and controlling the motor module with a joystick-like user interface. The smartphone and motor module are connected via an integrated C-type On-The-Go (OTG) USB hub.
+   Results: We tested the device in several human-organ phantoms to evaluate the usability and utility of the smartphone-based articulating endoscope system. The resolution (960 x 720 pixels) of the device was found to be acceptable for medical diagnosis. The maximum bending angle of 110 degrees was designed. The distance from the base of the articulating module to the tip of the endoscope was 45 mm. The angle of the virtual arc was 40.0 degrees, for a curvature of 0.013. The finest articulation resolution was 8.9 degrees. The articulating module succeeded in imaging all 8 octants of a spherical target, as well as all 4 quadrants of the indices marked in human phantoms.
+   Conclusions: The portable wide-field endoscope was successfully controlled using a smartphone, yielding clear images with a resolution of 960 x 720 pixels at realistic focal distances. Actively and precisely controlled articulating movements have resulted in minimally invasive monitoring in the narrow space of internal organs providing a wide-area view. We found our smartphone-based active articulated endoscope to be suitable for point-of-care applications in developing and less developed countries.
+C1 [Moon, Youngjin; Oh, Jeongmin; Hyun, Jaeho; Kim, Youngkyu; Choi, Jaesoon; Kim, Jun Ki] Asan Med Ctr, Biomed Engn Res Ctr, Asan Inst Life Sci, 88 Olymp Ro 43 Gil, Seoul, South Korea.
+   [Moon, Youngjin; Kim, Jun Ki] Univ Ulsan, Coll Med, Dept Convergence Med, Seoul, South Korea.
+   [Choi, Jaesoon] Univ Ulsan, Coll Med, Dept Biomed Engn, Seoul, South Korea.
+   [Namgoong, Jeongman] Asan Med Ctr, Dept Surg, Seoul, South Korea.
+C3 University of Ulsan; Asan Medical Center; University of Ulsan;
+   University of Ulsan; University of Ulsan; Asan Medical Center
+RP Kim, JK (通讯作者)，Asan Med Ctr, Biomed Engn Res Ctr, Asan Inst Life Sci, 88 Olymp Ro 43 Gil, Seoul, South Korea.
+EM kim@amc.seoul.kr
+RI ; Moon, Youngjin/I-7409-2013; Kim, Jun Ki/W-5117-2019
+OI Namgoong, Jung-Man/0000-0002-9237-7440; Oh,
+   Jeongmin/0000-0002-9304-3346; Choi, Jaesoon/0000-0002-6817-618X; Hyun,
+   Jae ho/0000-0001-8480-7562; Moon, Youngjin/0000-0002-8573-1149; Kim,
+   Youngkyu/0000-0002-9595-1962; Kim, Jun Ki/0000-0002-0099-9681
+FU Basic Science Research Program through the National Research Foundation
+   of Korea - Ministry of Science ICT [2019R1A2C2084122]; MRC through the
+   National Research Foundation of Korea - Ministry of Science ICT
+   [2018R1A5A2020732]; Ministry of Trade, Industry, and Energy under the
+   Industrial Technology Innovation Program [10080726, 20000843]; Ministry
+   of Health and Welfare, Republic of Korea [HI18C2391, HI17C2410]
+FX This work was supported by the Basic Science Research Program (Grant No.
+   2019R1A2C2084122) and MRC grant (2018R1A5A2020732) through the National
+   Research Foundation of Korea funded by the Ministry of Science & ICT; by
+   the Ministry of Trade, Industry, and Energy under the Industrial
+   Technology Innovation Program (10080726, 20000843); and by the Ministry
+   of Health and Welfare, Republic of Korea (HI18C2391, HI17C2410).
+CR [Anonymous], CONTR VIRT JOYST AND
+   [Anonymous], FELHR85 USBSERIAL
+   [Anonymous], SAKI4510T UVCCAMERA
+   Bae JK, 2017, JMIR MHEALTH UHEALTH, V5, DOI 10.2196/mhealth.7232
+   Baek MJ, 2018, J KOREAN MED SCI, V33, DOI 10.3346/jkms.2018.33.e145
+   BAGLEY DH, 1993, J ENDOUROL, V7, P221, DOI 10.1089/end.1993.7.221
+   Burgner-Kahrs J, 2015, IEEE T ROBOT, V31, P1261, DOI 10.1109/TRO.2015.2489500
+   Camarillo DB, 2008, IEEE T ROBOT, V24, P1262, DOI 10.1109/TRO.2008.2002311
+   Cherng CH, 2002, J CLIN ANESTH, V14, P271, DOI 10.1016/S0952-8180(02)00355-0
+   Chuks NS., 2011, GASTROINTEST ENDOSC
+   Ciocîrlan M, 2019, ENDOSC INT OPEN, V7, pE1184, DOI 10.1055/a-0959-6003
+   CLAYMAN RV, 1984, J UROLOGY, V131, P715, DOI 10.1016/S0022-5347(17)50594-7
+   Davila RE, 2005, GASTROINTEST ENDOSC, V61, P1, DOI 10.1016/S0016-5107(04)02391-0
+   del Rosario MB, 2015, SENSORS-BASEL, V15, P18901, DOI 10.3390/s150818901
+   Eller R, 2008, J VOICE, V22, P746, DOI 10.1016/j.jvoice.2007.04.003
+   Gmeiner D, 2007, SURG ENDOSC, V21, P2026, DOI 10.1007/s00464-007-9252-6
+   Jones BA, 2006, IEEE T ROBOT, V22, P43, DOI 10.1109/TRO.2005.861458
+   Kato T, 2015, IEEE-ASME T MECH, V20, P2252, DOI 10.1109/TMECH.2014.2372635
+   Koeman K., UNDERSTANDING USB GO
+   Krajewski W, 2016, VIDEOSURGERY MINIINV, V11, P94, DOI 10.5114/wiitm.2016.60665
+   Nausheen F, 2019, SCAND J TRAUMA RESUS, V27, DOI 10.1186/s13049-019-0614-6
+   Olapade-Olaopa E O, 2006, J MEN HLTH GEND, V3, P109, DOI DOI 10.1016/J.JMHG.2006.01.004
+   Olawale F, 2010, AFR J BUS MANAGE, V4, P729
+   Seklehner S, 2015, UROLOGY, V85, P737, DOI 10.1016/j.urology.2015.01.007
+   Shah J, 2002, BJU INT, V89, P645, DOI 10.1046/j.1464-410X.2002.02726.x
+   Vadhanan P, 2017, ANAESTH PAIN INTENSI, V4, P21
+   WILKING N, 1986, CANCER, V57, P669, DOI 10.1002/1097-0142(19860201)57:3<669::AID-CNCR2820570345>3.0.CO;2-W
+   Wu CJ, 2014, J MED INTERNET RES, V16, P158, DOI 10.2196/jmir.2959
+   Yang K, 2016, LAB CHIP, V16, P943, DOI 10.1039/c5lc01524c
+NR 29
+TC 11
+Z9 12
+U1 0
+U2 4
+PU JMIR PUBLICATIONS, INC
+PI TORONTO
+PA 130 QUEENS QUAY East, Unit 1100, TORONTO, ON M5A 0P6, CANADA
+SN 2291-5222
+J9 JMIR MHEALTH UHEALTH
+JI JMIR mHealth uHealth
+PD SEP 10
+PY 2020
+VL 8
+IS 9
+AR e17057
+DI 10.2196/17057
+PG 17
+WC Health Care Sciences & Services; Medical Informatics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Health Care Sciences & Services; Medical Informatics
+GA OY6AP
+UT WOS:000594327700001
+PM 32909951
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Zhang, Y
+   Aroulmozhi, B
+   Arney, D
+   Al Zowelei, M
+   Jaffe, MB
+   Goldman, JM
+AF Zhang, Yi
+   Aroulmozhi, Bragadeesh
+   Arney, David
+   Al Zowelei, Mosa
+   Jaffe, Michael B.
+   Goldman, Julian M.
+TI Reliability and Safety Testing of a Ventilator Remote Control System
+   Against Communication Failures and Network Disruptions
+SO MILITARY MEDICINE
+LA English
+DT Article
+AB Introduction The need for remote ventilator control has been highlighted by the COVID-19 Public Health Emergency. Remote ventilator control from outside a patient's room can improve response time to patient needs, protect health care workers, and reduce personal protective equipment (PPE) consumption. Extending remote control to distant locations can expand the capabilities of frontline health care workers by delivering specialized clinical expertise to the point of care, which is much needed in diverse health care settings, such as tele-critical care and military medicine. However, the safety and effectiveness of remote ventilator control can be affected by many risk factors, including communication failures and network disruptions. Consensus safety requirements and test methods are needed to assess the resilience and safety of remote ventilator control under communication failures and network disruptions.Materials and Methods We designed two test methods to assess the robustness, usability, and safety of a remote ventilator control prototype system jointly developed by Nihon Kohden OrangeMed, Inc. and DocBox, Inc. ("the NK-DocBox system") to control the operation of an NKV-550 critical care ventilator under communication failures and network disruptions. First, the robustness of the NKV-550 ventilator was tested using a remote-control application developed on OpenICE - an open-source medical device interoperability platform - to transmit customized high-frequency and erroneous remote-control commands that could be caused by communication failures in a real-world environment. The second method utilized a network emulator to create different types and severity of network quality of service (QoS) degradation, including bandwidth throttling, network delay and jitter, packet drop and reordering, and bit errors, in the NKV-DocBox system to quantitatively assess the impact on system usability and safety.Results The NKV-550 ventilator operated as expected when remote-control commands arrived as fast as once per second. It ignored erroneous commands attempting to adjust invalid ventilation parameters. When facing commands that set the ventilation mode and parameters to invalid values, it reset the ventilation mode or parameters to default values, the safety implication of which may merit further evaluation. When any network QoS attribute (except for packet reordering) started to degrade, the NK-DocBox System experienced interference to its remote-control function, such as delays in the transmission of ventilator data and remote-control commands within the system. When the network QoS was worse than 500 ms network delay, 100 ms network jitter, 1% data drop rate, 12 Mbps minimal bandwidth, or 1e-6 bit error rate, the system became unsafe to use. For example, ventilator waveforms visualized on the remote-control application demonstrated freezes, out-of-synchronization, and moving backwards; and the connection between the ventilator and the remote-control application became unstable.Conclusion The presented test methods confirmed the robustness of the NKV-550 ventilator against high-frequency and erroneous remote control, quantified the impact of network disruptions on the usability, reliability, and safety of the NK-DocBox system and identified the minimum network QoS requirements for it to function safely. These generalizable test methods can be customized to evaluate other remote ventilator control technologies and remote control of other types of medical devices against communication failures and network disruptions.
+C1 [Zhang, Yi; Aroulmozhi, Bragadeesh; Arney, David; Al Zowelei, Mosa; Goldman, Julian M.] Massachusetts Gen Hosp, Dept Anesthesia Crit Care & Pain Med, Cambridge, MA 02139 USA.
+   [Jaffe, Michael B.] Cardioresp Consulting LLC, Cheshire, CT 06410 USA.
+C3 Harvard University; Harvard University Medical Affiliates; Massachusetts
+   General Hospital
+RP Zhang, Y (通讯作者)，Massachusetts Gen Hosp, Dept Anesthesia Crit Care & Pain Med, Cambridge, MA 02139 USA.
+RI Jaffe, Michael/NVM-9468-2025; Goldman, Julian/JYO-8027-2024; Arney,
+   David/AAE-8361-2019
+FU TATRC TiDE initiative (under the Medical Technology Enterprise
+   Consortium Research) [MTEC-21-04-TIDE-002]; Device Interoperability and
+   Autonomy Coordination Center (DIACC); TATRC; MITRE [75FCMC18D0047]
+FX This research was supported by the TATRC TiDE initiative (under the
+   Medical Technology Enterprise Consortium Research Project Number
+   MTEC-21-04-TIDE-002) and by the Device Interoperability and Autonomy
+   Coordination Center (DIACC)-a program sponsored by TATRC and managed by
+   MITRE (75FCMC18D0047).
+CR [Anonymous], 2020, ISO/IEEE 11073-10101:2020
+   [Anonymous], 2017, UL 2900-1
+   [Anonymous], 2019, ANSI/AAMI 2700-1
+   [Anonymous], 2020, Enforcement Policy for Ventilators and Accessories and Other Respiratory Devices During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency
+   [Anonymous], 2020, AAMI CR511
+   [Anonymous], 2019, ISO 19223:2019
+   Association for the Advancement of Medical Instrumentation (AAMI), 2020, Remote-controlled hospital devices get COVID-19 guidance
+   Bruen C, 2021, CRIT CARE MED, V49, P7, DOI 10.1097/01.ccm.0000726084.72737.a2
+   Celi LA, 2001, CRIT CARE MED, V29, pN183, DOI 10.1097/00003246-200108001-00007
+   Garzotto F, 2021, J CRIT CARE, V61, P119, DOI 10.1016/j.jcrc.2020.10.014
+   Medical Technology Enterprise Consortium (MTEC), 2020, MTEC-21-04-TiDE
+   Medtronic, 2021, Medtronic
+   Nihon Kohden, NKV-550 Series Ventilator System
+   PacketStorm Communications Inc, PacketStorm 8XG IP Network Emulator
+   Plourde J, 2014, ACM IEEE INT CONF CY, P221, DOI 10.1109/ICCPS.2014.6843734
+   Serral-Gracià R, 2010, IEEE GLOBE WORK, P1627, DOI 10.1109/GLOCOMW.2010.5700215
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 2
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0026-4075
+EI 1930-613X
+J9 MIL MED
+JI Milit. Med.
+PD AUG 19
+PY 2024
+VL 189
+SU _3
+BP 171
+EP 178
+DI 10.1093/milmed/usae067
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA D1D9Y
+UT WOS:001293673600083
+PM 39160799
+OA Bronze
+DA 2026-01-12
+ER
+
+PT J
+AU Tokaya, JP
+   van den Berg, CAT
+   Luijten, PR
+   Raaijmakers, AJE
+AF Tokaya, Janot P.
+   van den Berg, Cornelis A. T.
+   Luijten, Peter R.
+   Raaijmakers, Alexander J. E.
+TI Explaining RF induced current patterns on implantable medical devices
+   during MRI using the transfer matrix
+SO MEDICAL PHYSICS
+LA English
+DT Article
+DE EM Simulations; implantable medical device; INduced currents; RF
+   heating; safety; transfer matrix
+ID DEEP BRAIN-STIMULATION; WHOLE-BODY; SAFETY; LEADS; FIELDS
+AB Purpose In this work a simulation study is performed to gain insights in the patterns of induced radiofrequency (RF) currents for various implant-like structures at 1.5 T. The previously introduced transfer matrix (TM) is used to determine why certain current patterns have a tendency to naturally occur. This can benefit current safety assessment techniques and may enable the identification of critical exposure conditions.
+   Theory and Methods The induced current on an elongated implant can be determined by multiplication of the incident electric field along the implant with its TM. The eigenmode spectrum of the TMs for various lengths and various types of implants are determined. The eigenvector with the highest eigenvalue describes the incident electric field pattern that induces the highest current which in turn will lead to highest heating. Subsequently, a statistical probability analysis is performed using a wide range of potential incident electric field distributions in a representative human subject model during a 1.5 T MR exam which are determined by means of electromagnetic FDTD simulations. These incident electric field distributions and the resulting induced current patterns are projected onto eigenvectors of the TM to determine which eigenmodes of the implant dominate the current patterns.
+   Results The eigenvectors of the TM of bare and insulated wires resemble sinusoidal harmonics of a string fixed at both ends similar to the natural-current distribution on thin antennas(1). The currents on implants shorter than 20 cm are generally dominated by the first harmonic (similar to half a sine wave). This is firstly because for these implant lengths (relative to the RF wavelength), the first eigenvalue is more than three times bigger than the second showing the ability of an implant to accommodate one eigenmode better than another. Secondly, the incident electric fields have a high likelihood (greater than or similar to 95,7%) to project predominantly on this first eigenmode.
+   Conclusion The eigenmode spectrum of the TM of an implant provides insight into the expected shape of induced current distributions and worst-case exposure conditions. For short implants, the first eigenvector is dominant. In addition, realistic incident electric field distributions project more heavily on this eigenvector. Both effects together cause significant currents to always resemble the dominant eigenmode of the TM for short implants at 1.5 T.
+C1 [Tokaya, Janot P.; van den Berg, Cornelis A. T.; Raaijmakers, Alexander J. E.] Univ Med Ctr Utrecht, Dept Radiotherapy, POB 85500, NL-3508 GA Utrecht, Netherlands.
+   [Luijten, Peter R.] Univ Med Ctr Utrecht, Dept Radiol, POB 85500, NL-3508 GA Utrecht, Netherlands.
+   [Raaijmakers, Alexander J. E.] Eindhoven Univ Technol, Dept Biomed Engn, Eindhoven, Netherlands.
+C3 Utrecht University; Utrecht University Medical Center; Utrecht
+   University; Utrecht University Medical Center; Eindhoven University of
+   Technology
+RP Tokaya, JP (通讯作者)，Univ Med Ctr Utrecht, Dept Radiotherapy, POB 85500, NL-3508 GA Utrecht, Netherlands.
+EM j.p.tokaya@umcutrecht.nl
+CR [Anonymous], 2012, 109742012EN ISOTS
+   Chen XL, 2018, ISMRM P
+   Christ A, 2010, PHYS MED BIOL, V55, pN23, DOI 10.1088/0031-9155/55/2/N01
+   Córcoles J, 2015, PHYS MED BIOL, V60, P7293, DOI 10.1088/0031-9155/60/18/7293
+   Dimbylow PJ, 1997, PHYS MED BIOL, V42, P479, DOI 10.1088/0031-9155/42/3/003
+   Eryaman Y, 2015, MAGN RESON MED, V73, P1896, DOI 10.1002/mrm.25324
+   Eryaman Y, 2011, MAGN RESON MED, V65, P1305, DOI 10.1002/mrm.22724
+   Feng S, 2015, IEEE T MICROW THEORY, V63, P305, DOI 10.1109/TMTT.2014.2376523
+   Griffin GH, 2018, MAGN RESON MED, V80, P1922, DOI 10.1002/mrm.27195
+   Henderson JM, 2005, NEUROSURGERY, V57, P414, DOI 10.1093/neurosurgery/57.2.414b
+   Huang Yi., 2008, Antennas: From theory to practice
+   Konings MK, 2000, J MAGN RESON IMAGING, V12, P79, DOI 10.1002/1522-2586(200007)12:1<79::AID-JMRI9>3.3.CO;2-K
+   Kozlov M, 2017, 2017 IEEE INT C MICR
+   KOZLOV M, 2016, IEEE C ANTENNA MEAS
+   Kozlov M, 2016, IEEE ANTENNAS PROP, P1635, DOI 10.1109/APS.2016.7696524
+   KRAUS JD, 2002, ANTENNAS
+   Kugel H, 2003, EUR RADIOL, V13, P690, DOI 10.1007/s00330-002-1841-8
+   Luechinger R, 2005, EUR HEART J, V26, P376, DOI 10.1093/eurheartj/ehi009
+   Missoffe A, 2018, MAGN RESON MED, V79, P1766, DOI 10.1002/mrm.26773
+   Murbach M, 2014, MAGN RESON MED, V71, P839, DOI 10.1002/mrm.24690
+   Nordbeck P, 2008, MAGN RESON MED, V60, P312, DOI 10.1002/mrm.21475
+   Nordbeck P, 2009, MAGN RESON MED, V61, P570, DOI 10.1002/mrm.21881
+   Nyenhuis JA, 2005, IEEE T DEVICE MAT RE, V5, P467, DOI 10.1109/TDMR.2005.859033
+   Overall WR, 2010, MAGN RESON MED, V64, P823, DOI 10.1002/mrm.22468
+   Park SM, 2007, J MAGN RESON IMAGING, V26, P1278, DOI 10.1002/jmri.21159
+   Rezai AR, 2002, J MAGN RESON IMAGING, V15, P241, DOI 10.1002/jmri.10069
+   Scott G, 2015, ISMRM P, V23, P2015
+   Tokaya JP, 2017, MAGN RESON MED, V78, P2449, DOI 10.1002/mrm.26613
+   Tokaya JP, 2018, MATRIX, P1
+   van den Bosch MR, 2010, MED PHYS, V37, P814, DOI 10.1118/1.3298006
+   Venook R. D., 2008, [No title captured], P898
+   Yeung CJ, 2002, MAGNET RESON MED, V47, P187, DOI 10.1002/mrm.10037
+   Zastrow E, 2014, IEEE INT SYMP ELEC, P241
+NR 33
+TC 4
+Z9 4
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0094-2405
+EI 2473-4209
+J9 MED PHYS
+JI Med. Phys.
+PD JAN
+PY 2021
+VL 48
+IS 1
+BP 132
+EP 141
+DI 10.1002/mp.14225
+EA NOV 2020
+PG 10
+WC Radiology, Nuclear Medicine & Medical Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA QB0XW
+UT WOS:000593332600001
+PM 32383157
+OA Green Submitted, hybrid
+DA 2026-01-12
+ER
+
+PT J
+AU Neuman, MR
+   Baura, GD
+   Meldrum, S
+   Soykan, O
+   Valentinuzzi, ME
+   Leder, RS
+   Micera, S
+   Zhang, YT
+AF Neuman, Michael R.
+   Baura, Gail D.
+   Meldrum, Stuart
+   Soykan, Orhan
+   Valentinuzzi, Max E.
+   Leder, Ron S.
+   Micera, Silvestro
+   Zhang, Yuan-Ting
+TI Advances in Medical Devices and Medical Electronics
+SO PROCEEDINGS OF THE IEEE
+LA English
+DT Article
+DE Medical device; medical electronics; patient monitoring; personalized
+   medicine; societal medical problems
+ID STIMULATION; SURGERY
+AB Medical devices and medical electronics are areas that had little to offer 100 years ago. However, there were three important existing technologies that led to many further developments over the following 100 years. These are the stethoscope, electrocardiography, and X-ray medical imaging. Although these technologies had been described and were available to some extent when the PROCEEDINGS OF THE IEEE pages first appeared, they had yet to achieve the widespread use that they have today. The stethoscope is the oldest of these, and it helped physicians to hear sounds of the body and relate them to functioning and malfunctioning organs. The early use of the stethoscope by physicians was more of an art than a science, but as the PROCEEDINGS matured, so did this technology. Engineers were able to make this a more quantitative process by graphically displaying the sounds and ultimately using techniques such as voiceprint analysis to assist the physician in diagnosis and monitoring of treatment. The electrocardiograph had been invented a few years prior to the appearance of the PROCEEDINGS, but the apparatus was awkward to use, especially for sick people, and was considered more of an oddity than a viable medical technology 100 years ago. Today, it and devices derived from it such as cardiac patient monitors are important parts of our healthcare system. Similarly, X-rays represented a new technology 100 years ago, but unlike electrocardiography physicians immediately saw the value of this technology and quickly adopted it. Many improvements have been made to the basic technology over the last 100 years culminating in computer tomography and complex image processing. Other devices to create high-quality and 3-D medical images have also been developed in recent years to make medical imaging a very important aspect of clinical care today. Looking to the future is always a difficult task, but it is clear that the electronic health record will play an important role in consolidating the information from various medical devices as well as providing readily available data on patients wherever it might be needed. Future medical devices will need to not only address the problems of diagnostic and therapeutic medicine but also be capable of addressing important societal problems such as worldwide disparities in the availability of medical care, continually rising healthcare costs, and healthcare for travel beyond Earth. The next 100 years promises to be even more exciting than the last from the perspective of medical devices and medical electronics.
+C1 [Neuman, Michael R.] Michigan Technol Univ, Dept Biomed Engn, Houghton, MI 49931 USA.
+   [Baura, Gail D.] Keck Grad Inst Appl Life Sci, Claremont, CA 91711 USA.
+   [Meldrum, Stuart] Norfolk & Norwich Univ Hosp, Norfolk, England.
+   [Soykan, Orhan] Medtronic Inc, Minneapolis, MN USA.
+   [Valentinuzzi, Max E.] Univ Buenos Aires, Inst Biomed Engn, Buenos Aires, DF, Argentina.
+   [Leder, Ron S.] Univ Nacl Autonoma Mexico, Mexico City 04510, DF, Mexico.
+   [Micera, Silvestro] Scuola Super Sant Anna, I-56127 Pisa, Italy.
+   [Zhang, Yuan-Ting] Chinese Univ Hong Kong, Div Biomed Engn, Shatin, Hong Kong, Peoples R China.
+   [Zhang, Yuan-Ting] Chinese Univ Hong Kong, Dept Elect Engn, Shatin, Hong Kong, Peoples R China.
+C3 Michigan Technological University; Claremont Colleges; Keck Graduate
+   Institute of Applied Life Sciences; Norfolk & Norwich University
+   Hospitals NHS Foundation Trust; Norfolk & Norwich University Hospital;
+   Medtronic; University of Buenos Aires; Universidad Nacional Autonoma de
+   Mexico; Scuola Superiore Sant'Anna; Chinese University of Hong Kong;
+   Chinese University of Hong Kong
+RP Neuman, MR (通讯作者)，Michigan Technol Univ, Dept Biomed Engn, Houghton, MI 49931 USA.
+EM mneuman@mtu.edu; gail_baura@kgi.edu; stuartmeldrum@hotmail.com;
+   Orhan.Soykan@Medtronic.Com; maxvalentinuzzi@arnet.com.ar;
+   rleder@ieee.org; micera@sssup.it; ytzhang@ee.cuhk.edu.hk
+RI ZHANG, Yuanting/F-1759-2013; Micera, Silvestro/AAD-6630-2021
+OI ZHANG, Yuanting/0000-0003-4150-5470; Baura, Gail/0009-0001-4948-411X;
+   Micera, Silvestro/0000-0003-4396-8217
+CR Ballantyne GH, 2002, SURG ENDOSC, V16, P1389, DOI 10.1007/s00464-001-8283-7
+   Center for Devices and Radiological Health (CDRH), 1997, P950035 CDRH US FDA
+   CHARDACK WM, 1960, SURGERY, V48, P643
+   Debbal SM, 2008, COMPUT BIOL MED, V38, P263, DOI 10.1016/j.compbiomed.2007.09.006
+   Einthoven W., 1902, HERINNERINGSBUNDEL P, P101
+   GREATBATCH W, 1991, IEEE ENG MED BIOL, V10, P38, DOI 10.1109/51.84185
+   GREATBATCH W, 1984, IEEE ENG MED BIOL, V3, P24, DOI 10.1109/MEMB.1984.5006107
+   Hao Y, 2008, PHYSIOL MEAS, V29, pR27, DOI 10.1088/0967-3334/29/11/R01
+   Hochberg LR, 2006, NATURE, V442, P164, DOI 10.1038/nature04970
+   Iddan G, 2000, NATURE, V405, P417, DOI 10.1038/35013140
+   Karlin S, 2010, IEEE SPECTRUM, V47, P19
+   Laennec RTH, 1819, AUSCULTATION MEDIATE
+   Leon MB, 2010, NEW ENGL J MED, V363, P1597, DOI 10.1056/NEJMoa1008232
+   Obeso JA, 2001, NEW ENGL J MED, V345, P956, DOI 10.1056/nejmoa000827
+   Offner F.F., 1967, U.S. Patent, Patent No. [3 344 792, 3344792, 3,344,792]
+   PECKHAM PH, 1980, ANN BIOMED ENG, V8, P369, DOI 10.1007/BF02363440
+   Prytherch DR, 2010, RESUSCITATION, V81, P932, DOI 10.1016/j.resuscitation.2010.04.014
+   Rontgen WilhelmC., 1895, Sitzungs Berichte der Physikalisch-Medizinischen Gesellschaft in Wurzburg, V137, P132
+   Watrous RL, 2008, CLIN CARDIOL, V31, P79, DOI 10.1002/clc.20185
+   Wilbur DC, 1999, CANCER CYTOPATHOL, V87, P354
+   Young J., 2012, HUFFINGTON POST 0420
+NR 21
+TC 26
+Z9 48
+U1 0
+U2 41
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9219
+EI 1558-2256
+J9 P IEEE
+JI Proc. IEEE
+PD MAY
+PY 2012
+VL 100
+SI SI
+BP 1537
+EP 1550
+DI 10.1109/JPROC.2012.2190684
+PG 14
+WC Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA 020TR
+UT WOS:000309838000039
+OA Green Submitted
+DA 2026-01-12
+ER
+
+PT J
+AU Chizari, H
+   Lupu, E
+AF Chizari, Hassan
+   Lupu, Emil
+TI Extracting Randomness from the Trend of IPI for Cryptographic Operations
+   in Implantable Medical Devices
+SO IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING
+LA English
+DT Article
+DE Body physiological signals; randomness extraction; implantable medical
+   devices; implants security; entropy analysis; information secrecy
+ID COMPUTABLE RANDOMNESS; BIOMETRICS; SECURITY; ISSUES; ECG
+AB Achieving secure communication between an Implantable Medical Device (IMD) and a gateway or programming device outside the body has showed its criticality in recent reports of vulnerabilities in cardiac devices, insulin pumps and neural implants, amongst others. The use of asymmetric cryptography is typically not a practical solution for IMDs due to the scarce computational and power resources. Symmetric key cryptography is preferred but its security relies on agreeing and using strong keys, which are difficult to generate. A solution to generate strong shared keys without using extensive resources, is to extract them from physiological signals already present inside the body such as the Inter-Pulse interval (IPI). The physiological signals must therefore be strong sources of randomness that meet five conditions: Universality (available on all people), Liveness (available at any-time), Robustness (strong random number), Permanence (independent from its history) and Uniqueness (independent from other sources). However, these conditions (mainly the last three) have not been systematically examined in current methods for randomness extraction from IPI. In this study, we first propose a methodology to measure the last three conditions: Information secrecy measures for Robustness, Santha-Vazirani Source delta value for Permanence and random sources dependency analysis for Uniqueness. Then, using a large dataset of IPI values (almost 900,000,000 IPIs), we show that IPI does not have Robustness and Permanence as a randomness source. Thus, extraction of a strong uniform random number from IPI values is impossible. Third, we propose to use the trend of IPI, instead of its value, as a source for a new randomness extraction method named Martingale Randomness Extraction from IPI (MRE-IPI). We evaluate MRE-IPI and show that it satisfies the Robustness condition completely and Permanence to some level. Finally, we use the NIST STS and Dieharder test suites and show that MRE-IPI is able to outperform all recent randomness extraction methods from IPIs and achieves a quality roughly half that of the AES random number generator. MRE-IPI is still not a strong random number and cannot be used as key to secure communications in general. However, it can be used as a one-time pad to securely exchange keys between the communication parties. The usage of MRE-IPI will thus be kept at a minimum and reduces the probability of breaking it. To the best of our knowledge, this is the first work in this area which uses such a comprehensive method and large dataset to examine the randomness of physiological signals.
+C1 [Chizari, Hassan; Lupu, Emil] Imperial Coll London, London SW7 2AZ, England.
+   [Chizari, Hassan] Univ Gloucestershire, Cheltenham GL50 2RH, Glos, England.
+C3 Imperial College London; University of Gloucestershire
+RP Chizari, H (通讯作者)，Univ Gloucestershire, Cheltenham GL50 2RH, Glos, England.
+EM hchizari@glos.ac.uk; e.c.lupu@imperial.ac.uk
+RI Chizari, Hassan/H-1732-2013; Lupu, Emil/E-3782-2010
+OI Chizari, Hassan/0000-0002-6253-1822; Lupu, Emil/0000-0002-2844-3917
+FU UK EPSRC [EP/N023242/1]; EPSRC [EP/N023242/1] Funding Source: UKRI;
+   Engineering and Physical Sciences Research Council [EP/N023242/1]
+   Funding Source: researchfish
+FX This work was funded by the UK EPSRC under grant EP/N023242/1 as part of
+   the PETRAS Research Hub -Cyersecurity of the IoT.
+CR Adams Jr W. P., 2016, PLASTIC RECONSTRUCTI, V138, P987
+   Ali A, 2010, COMM COM INF SC, V76, P298
+   Altop DK, 2015, INT CONF PER COMP, P92, DOI 10.4108/icst.pervasivehealth.2015.260074
+   Ayodele A.J., 2017, Journal of Finance and Accounting, V5, P147, DOI [10.11648/j.jfa.20170504, DOI 10.11648/J.JFA.20170504]
+   Bajwa G, 2016, COMPUT SECUR, V62, P95, DOI 10.1016/j.cose.2016.06.001
+   Beigi S., 2014, ELECT C COMPUT COMPL, V179, P1
+   Bjorn Kj_s-Hanssen., 2014, Logical Methods in Computer Science, V10, P1
+   Brown R G., 2013, Dieharder: A random number test suite
+   Buchta P, 2017, KARDIOL POL, V75, P573, DOI 10.5603/KP.a2017.0019
+   Cachin C., 1997, ENTROPY MEASURES UNC
+   Camara C, 2015, J BIOMED INFORM, V55, P272, DOI 10.1016/j.jbi.2015.04.007
+   Chen ZY, 2017, IEEE T BIOMED CIRC S, V11, P44, DOI 10.1109/TBCAS.2016.2553152
+   Chizari H., 2018, **DATA OBJECT**, DOI [10.5281/zenodo.1188936, DOI 10.5281/ZENODO.1188936]
+   Choto S., 2012, 2012 International Symposium on Communications and Information Technologies (ISCIT), P308, DOI 10.1109/ISCIT.2012.6380912
+   Cotton SL, 2014, RADIO SCI, V49, P371, DOI 10.1002/2013RS005319
+   Coveyou R.R., 1969, Applied Probability and Monte Carlo Methods and modern aspects of dynamics, V3, P70
+   Downey R, 2004, MATH LOGIC QUART, V50, P613, DOI 10.1002/malq.200310121
+   Duan JC, 2012, SPR HBK COMPU STAT, P1, DOI 10.1007/978-3-642-17254-0
+   Espinoza B, 2013, INFORM COMPUT, V226, P57, DOI 10.1016/j.ic.2013.03.005
+   Finkle J., 2016, REUTERS
+   Goldberger AL, 2000, CIRCULATION, V101, pE215, DOI 10.1161/01.CIR.101.23.e215
+   Guédon-Moreau L, 2014, EUROPACE, V16, P1181, DOI 10.1093/europace/euu012
+   Hamill J., 2017, INVENTOR HAS FITTED
+   Hern A., 2017, HACKING RISK LEADS R
+   Hong T, 2011, IEEE ENG MED BIO, P1519, DOI 10.1109/IEMBS.2011.6090366
+   Hu CQ, 2013, IEEE INFOCOM SER, P2274
+   Israel SA, 2005, PATTERN RECOGN, V38, P133, DOI 10.1016/j.patcog.2004.05.014
+   Jammali N., 2015, P INT C WIR NETW MOB, P1
+   Kalaivani K, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON TECHNOLOGICAL INNOVATIONS IN ICT FOR AGRICULTURE AND RURAL DEVELOPMENT TIAR 2015, P122, DOI 10.1109/TIAR.2015.7358543
+   Kanjee MR, 2016, SECUR COMMUN NETW, V9, P874, DOI 10.1002/sec.1009
+   Konheim AlanG., 1981, Cryptography. A Primer
+   Kwantae Cho, 2012, Information Security Applications. 12th International Workshop, WISA 2011. Revised Selected Papers, P203, DOI 10.1007/978-3-642-27890-7_17
+   L'Ecuyer P, 2007, ACM T MATH SOFTWARE, V33, DOI 10.1145/1268776.1268777
+   Liu XY, 2011, IEEE ENG MED BIO, P2893, DOI 10.1109/IEMBS.2011.6090797
+   Massey J. L., 1994, Proceedings. 1994 IEEE International Symposium on Information Theory (Cat. No.94CH3467-8), DOI 10.1109/ISIT.1994.394764
+   Miao F., 2012, New Trends and Developments in Biometrics
+   Miao F, 2013, IET INFORM SECUR, V7, P87, DOI 10.1049/iet-ifs.2012.0104
+   Niederreiter H., 2012, RANDOM NUMBER GENERA
+   Peter S, 2016, SENSORS-BASEL, V16, DOI 10.3390/s16040570
+   Poon CCY, 2006, IEEE COMMUN MAG, V44, P73, DOI 10.1109/MCOM.2006.1632652
+   Pycroft L, 2016, WORLD NEUROSURG, V92, P454, DOI 10.1016/j.wneu.2016.05.010
+   Ramli SN, 2013, INT CONF INTERNET, P536, DOI 10.1109/ICIST.2013.6747608
+   Ramli SN, 2013, INT CONF ADV COMMUN, P998
+   Rios B. B., 2017, UNDERSTANDING PACEMA
+   Rukhin A., 2000, A STAT TEST SUITE RA
+   Rute J, 2016, MATH LOGIC QUART, V62, P335, DOI 10.1002/malq.201200089
+   SANTHA M, 1986, J COMPUT SYST SCI, V33, P75, DOI 10.1016/0022-0000(86)90044-9
+   Seepers R. M., 2014, P 1 WORKSH CRYPT SEC, P41
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P379, DOI 10.1002/j.1538-7305.1948.tb01338.x
+   Shu-Di Bao, 2012, 2012 5th International Conference on BioMedical Engineering and Informatics (BMEI), P808, DOI 10.1109/BMEI.2012.6513198
+   Venkatasubramanian K., 2008, MILITARY COMMUNICATI, P1, DOI [DOI 10.1109/MILCOM.2008.4753199, 10.1109/MILCOM.2008.4753199]
+   Venkatasubramanian KK, 2010, ACM T SENSOR NETWORK, V6, DOI 10.1145/1777406.1777410
+   Walk J, 2014, P IEEE, V102, P1811, DOI 10.1109/JPROC.2014.2359517
+   Wang W, 2010, 2010 IEEE 21ST INTERNATIONAL SYMPOSIUM ON PERSONAL INDOOR AND MOBILE RADIO COMMUNICATIONS (PIMRC), P1620, DOI 10.1109/PIMRC.2010.5671940
+   Wolf S., 2003, INFORM SECURITY APPL, P217
+   Wu AYJ, 2014, CLIN ORAL INVEST, V18, P1335, DOI 10.1007/s00784-013-1099-8
+   Yao YQ, 2016, IET INFORM SECUR, V10, P442, DOI 10.1049/iet-ifs.2015.0007
+   Zheng GL, 2014, 2014 14TH INTERNATIONAL SYMPOSIUM ON COMMUNICATIONS AND INFORMATION TECHNOLOGIES (ISCIT), P373, DOI 10.1109/ISCIT.2014.7011935
+   Zheng GL, 2015, 2015 IEEE 26TH ANNUAL INTERNATIONAL SYMPOSIUM ON PERSONAL, INDOOR, AND MOBILE RADIO COMMUNICATIONS (PIMRC), P2120, DOI 10.1109/PIMRC.2015.7343648
+NR 59
+TC 10
+Z9 11
+U1 1
+U2 9
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1545-5971
+EI 1941-0018
+J9 IEEE T DEPEND SECURE
+JI IEEE Trans. Dependable Secur. Comput.
+PD MAR-APR
+PY 2021
+VL 18
+IS 2
+BP 875
+EP 888
+DI 10.1109/TDSC.2019.2921773
+PG 14
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QW8QE
+UT WOS:000628912100026
+DA 2026-01-12
+ER
+
+EF

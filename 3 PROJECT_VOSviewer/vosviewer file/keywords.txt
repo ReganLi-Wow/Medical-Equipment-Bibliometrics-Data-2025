@@ -1,0 +1,334 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+1	access	0.856	-0.4438	1	25	27	6
+2	accuracy	0.8186	-0.7056	6	24	25	7
+3	active implantable medical device (aimd)	0.1875	-0.378	7	27	66	14
+4	adverse events	0.7622	-0.6587	6	39	47	13
+5	ahp	0.2708	-0.5333	9	23	29	6
+6	algorithm	0.5975	-0.4403	3	21	24	7
+7	algorithms	0.4551	-0.7112	5	14	14	4
+8	analytic hierarchy process	0.9023	-0.5064	1	12	13	5
+9	anesthesia	0.7769	-0.5886	6	16	17	6
+10	approval	0.7944	-0.5285	1	20	23	9
+11	architecture	0.3845	-0.6593	5	15	16	4
+12	artificial intelligence	0.3975	-0.7562	5	60	92	31
+13	artificial-intelligence	0.3958	-0.6967	5	32	39	11
+14	assessment	0.6259	-0.8596	4	14	14	5
+15	association	0.4823	-0.2834	2	13	15	6
+16	authentication	0.2898	-0.8044	5	9	13	4
+17	automation	0.5219	-0.7613	4	6	6	4
+18	barriers	0.8193	-0.4566	1	25	28	8
+19	batteries	0.2593	-0.4308	7	9	10	4
+20	behavior	0.4894	-0.3742	2	9	9	5
+21	bias	0.8153	-0.6124	6	20	24	8
+22	big data	0.3587	-0.6925	5	27	29	5
+23	biocompatibility	0.3724	-0.3228	2	29	37	17
+24	biological evaluation	0.3745	-0.3844	2	11	12	4
+25	biomedical engineering	0.1426	-0.6072	9	14	17	5
+26	biomedical equipment	0.3712	-0.7128	5	26	33	7
+27	blockchain	0.3159	-0.7717	5	30	41	10
+28	blood	0.4213	-0.406	2	6	7	4
+29	bone	0.4284	-0.317	2	12	12	4
+30	brain	0.1519	-0.3184	7	11	14	4
+31	cancer	0.1338	-0.4923	7	18	21	10
+32	cardiovascular devices	0.8227	-0.5391	1	24	28	5
+33	causal inference	0.8123	-0.6691	6	8	11	4
+34	challenges	0.8336	-0.504	1	50	59	13
+35	checklist	0.9101	-0.4964	1	20	21	5
+36	chemicals	0.3491	-0.3033	2	11	15	4
+37	children	0.5912	-0.5871	3	24	29	10
+38	circular economy	0.6877	-0.2805	8	17	22	6
+39	classification	0.3751	-0.7355	5	39	43	13
+40	clinical engineering	0.4226	-0.795	5	35	48	20
+41	clinical evaluation	0.397	-0.4467	2	9	9	7
+42	clinical trial	0.9099	-0.4407	1	9	9	6
+43	clinical trials	0.8309	-0.5716	1	20	22	9
+44	clinical-trials	0.5034	-0.2814	2	20	20	6
+45	complications	0.1893	-0.4923	7	11	11	4
+46	conformity assessment	0.6041	-0.9286	4	8	8	4
+47	corrosion	0.3007	-0.3056	2	12	12	4
+48	cost	0.6083	-0.6495	3	13	14	9
+49	cost-effectiveness	0.8173	-0.4394	1	28	35	10
+50	costs	0.7521	-0.3011	8	18	19	5
+51	coverage	0.9112	-0.4561	1	15	16	4
+52	covid-19	0.4987	-0.4396	3	34	39	9
+53	criteria	0.4367	-0.2509	2	22	22	7
+54	ct	0.6305	-0.3193	8	7	7	4
+55	cybersecurity	0.5609	-0.9004	4	23	25	4
+56	database	0.9457	-0.5648	1	6	7	4
+57	decision making	0.9076	-0.5286	1	14	15	6
+58	decision-making	0.2282	-0.6317	9	47	55	17
+59	decision-support	0.8747	-0.5415	1	15	16	4
+60	deep learning	0.3475	-0.7636	5	26	30	8
+61	design	0.5858	-0.8211	4	100	153	50
+62	device	0.5057	-0.3374	2	19	19	5
+63	devices	0.1864	-0.5431	9	46	50	12
+64	diagnosis	0.4613	-0.3367	2	28	30	11
+65	diagnostics	0.8764	-0.2266	8	7	7	5
+66	diffusion	0.4046	-0.3734	2	16	17	6
+67	digital health	0.6841	-0.8082	4	21	23	8
+68	disease	0.8969	-0.3803	1	8	8	4
+69	disinfection	0.4251	-0.5355	3	11	14	6
+70	drugs	0.804	-0.5255	1	22	26	7
+71	durable medical equipment	0.8651	-0.4108	1	17	19	5
+72	earthquake	0.663	-0.2057	8	9	12	4
+73	ecg	0.3323	-0.8342	5	14	16	5
+74	economic evaluation	0.86	-0.4609	1	22	25	6
+75	economic-evaluation	0.7909	-0.4827	1	26	33	7
+76	education	0.636	-0.5491	3	32	36	12
+77	effectiveness	0.9142	-0.4299	1	17	18	5
+78	efficacy	0.7842	-0.2464	8	16	17	8
+79	efficiency	0.6848	-0.3272	8	17	18	8
+80	electrocardiogram	0.3942	-0.8354	5	9	9	4
+81	electromagnetic interference	0.4734	-0.9069	4	3	4	4
+82	equipment and supplies	0.6339	-0.425	3	13	13	4
+83	ergonomics	0.6033	-0.7675	4	16	23	8
+84	error	0.6648	-0.6814	6	26	26	7
+85	errors	0.6197	-0.8399	4	21	24	5
+86	ethics	0.7208	-0.7637	4	12	13	4
+87	europe	0.8641	-0.5125	1	28	37	9
+88	european union	0.8102	-0.5392	1	20	22	6
+89	evaluation	0.8741	-0.5698	1	18	20	9
+90	events	0.6815	-0.6458	6	19	25	6
+91	exposure	0.4128	-0.3466	2	22	24	8
+92	failure	0.7563	-0.7299	6	13	14	6
+93	failure mode	0.1941	-0.691	9	28	40	9
+94	fatigue	0.496	-0.2545	2	6	8	5
+95	fda	0.8487	-0.522	1	32	41	17
+96	field	0.234	-0.3643	7	20	21	6
+97	fields	0.1581	-0.3425	7	20	42	7
+98	finite element method	0.4825	-0.8165	4	5	5	4
+99	flow	0.3669	-0.2171	2	10	10	5
+100	fmea	0.2639	-0.6688	9	14	24	7
+101	formal methods	0.5213	-0.8458	4	8	8	4
+102	framework	0.7149	-0.2373	8	94	126	31
+103	future	0.7255	-0.6322	6	25	26	10
+104	guideline	0.3961	-0.5639	3	13	16	4
+105	guidelines	0.4847	-0.3259	2	51	55	17
+106	health	0.8016	-0.4638	1	65	82	28
+107	health policy	0.7799	-0.5116	1	12	12	6
+108	health technology	0.7537	-0.4643	1	10	10	4
+109	health technology assessment	0.8486	-0.4933	1	50	69	17
+110	health technology-assessment	0.842	-0.5152	1	44	54	11
+111	health-care	0.7084	-0.6603	6	74	105	27
+112	healthcare	0.271	-0.5721	9	61	73	22
+113	hemodynamics	0.4145	-0.2289	2	9	9	4
+114	hemoglobin	0.48	-0.4018	2	5	6	4
+115	heuristic evaluation	0.6267	-0.8904	4	7	9	4
+116	hip	0.2762	-0.373	7	10	12	4
+117	hospital	0.6567	-0.2579	8	18	21	7
+118	hospitals	0.4941	-0.5462	3	65	78	18
+119	hta	0.853	-0.529	1	20	23	7
+120	human error	0.695	-0.6755	6	26	27	5
+121	human factors	0.6342	-0.7734	4	29	40	13
+122	icu	0.6704	-0.6114	6	27	29	6
+123	identification	0.3697	-0.2408	2	32	35	9
+124	impact	0.8323	-0.4476	1	82	104	28
+125	implantable medical device	0.2331	-0.4093	7	15	18	7
+126	implantable medical devices	0.8022	-0.5613	1	17	20	4
+127	implantation	0.4132	-0.3044	2	16	16	4
+128	implants	0.1822	-0.4535	7	29	40	10
+129	implementation	0.6135	-0.8245	4	42	48	13
+130	in vitro	0.3582	-0.2671	2	18	28	7
+131	in-vitro	0.3477	-0.382	2	13	14	7
+132	industry	0.4592	-0.3858	2	27	32	11
+133	infants	0.661	-0.5531	3	17	22	6
+134	infection	0.4122	-0.5889	3	12	12	5
+135	infection control	0.4695	-0.4834	3	12	14	4
+136	infections	0.5341	-0.3455	2	8	8	4
+137	information	0.734	-0.486	1	14	17	7
+138	infrastructure	0.446	-0.2244	2	12	12	4
+139	infusion pump	0.6448	-0.8646	4	11	13	4
+140	innovation	0.8356	-0.5124	1	56	77	20
+141	inspection	0.7783	-0.2746	8	10	12	4
+142	integration	0.5583	-0.7449	4	20	25	7
+143	intensive care	0.6457	-0.4896	3	24	38	10
+144	intensive care unit	0.584	-0.4216	3	19	35	8
+145	intensive-care	0.5508	-0.4847	3	34	55	11
+146	intensive-care-unit	0.7134	-0.5921	6	22	25	7
+147	interference	0.5356	-0.8439	4	7	7	5
+148	internet	0.3168	-0.7078	5	29	44	15
+149	internet of medical things	0.2726	-0.7376	5	14	17	5
+150	internet of medical things (iomt)	0.267	-0.7634	5	8	8	4
+151	internet of things	0.3346	-0.7027	5	30	45	13
+152	interoperability	0.5005	-0.37	2	7	7	4
+153	involvement	0.2853	-0.3431	7	14	18	5
+154	iot	0.3497	-0.7278	5	30	38	9
+155	irritation	0.3216	-0.312	2	9	13	5
+156	iso 10993	0.345	-0.327	2	14	17	5
+157	issues	0.2609	-0.8181	5	23	26	8
+158	knowledge	0.5233	-0.4764	3	28	50	12
+159	lead	0.1669	-0.3651	7	23	47	8
+160	life-cycle assessment	0.7482	-0.3486	8	12	18	5
+161	low-resource settings	0.7302	-0.8031	4	6	7	4
+162	machine learning	0.4229	-0.7602	5	59	90	25
+163	magnetic resonance imaging	0.1802	-0.3405	7	24	48	11
+164	magnetic resonance imaging (mri)	0.2012	-0.355	7	24	43	9
+165	magnetic resonance imaging (mri) safety	0.1009	-0.3625	7	12	18	4
+166	maintenance	0.7475	-0.2596	8	60	83	28
+167	mcdm	0.292	-0.6144	9	24	31	8
+168	mdr	0.6451	-0.9112	4	12	14	7
+169	measurement	0.4919	-0.3048	2	15	15	4
+170	mechanical ventilation	0.7431	-0.6111	6	26	26	5
+171	medical device design	0.5877	-0.7682	4	29	39	13
+172	medical device development	0.6588	-0.8217	4	20	24	7
+173	medical device directive	0.7585	-0.7738	6	4	4	5
+174	medical device industry	0.4263	-0.3592	2	13	14	7
+175	medical device regulation	0.6738	-0.8651	4	25	31	12
+176	medical device regulations	0.7187	-0.8636	4	6	7	4
+177	medical device safety	0.3223	-0.2362	2	14	15	9
+178	medical device software	0.6635	-0.8493	4	18	23	9
+179	medical device-related pressure injuries	0.5265	-0.5234	3	18	30	6
+180	medical device-related pressure injury	0.5894	-0.4651	3	27	46	13
+181	medical services	0.33	-0.7461	5	37	50	11
+182	medical technology	0.584	-0.8609	4	26	28	10
+183	medicare	0.8926	-0.4492	1	14	15	5
+184	metals	0.3244	-0.36	2	7	7	4
+185	methodology	0.478	-0.2644	2	17	17	5
+186	metrology	0.5661	-0.9163	4	4	4	4
+187	mhealth	0.6835	-0.7805	4	13	13	5
+188	model	0.3887	-0.287	2	95	136	36
+189	models	0.3616	-0.288	2	30	35	11
+190	mortality	0.5162	-0.552	3	14	14	7
+191	mri	0.1614	-0.4214	7	26	34	9
+192	networks	0.3058	-0.8257	5	14	14	6
+193	nitinol	0.3922	-0.2399	2	6	8	6
+194	noninvasive ventilation	0.6484	-0.5185	3	16	17	4
+195	number	0.9417	-0.5153	1	7	7	4
+196	numerical models	0.1263	-0.4041	7	16	28	4
+197	nurse	0.5521	-0.4174	3	14	22	4
+198	nurses	0.4765	-0.5097	3	23	27	8
+199	nursing	0.5672	-0.5326	3	24	45	9
+200	operating-room	0.7257	-0.7001	6	17	19	7
+201	operation	0.7526	-0.21	8	8	9	4
+202	optimization	0.4298	-0.2728	2	39	48	20
+203	outcomes	0.7949	-0.4168	1	19	20	6
+204	pacemaker	0.1194	-0.4313	7	10	13	4
+205	pacemakers	0.4946	-0.8797	4	5	6	4
+206	patient	0.6336	-0.6121	3	31	35	9
+207	patient monitoring	0.2765	-0.7144	5	12	14	6
+208	patient safety	0.6149	-0.8121	4	86	143	43
+209	patient satisfaction	0.5205	-0.6477	3	11	12	4
+210	pediatrics	0.6323	-0.5761	3	12	12	5
+211	people	0.8074	-0.3974	1	16	18	5
+212	performance	0.7139	-0.2575	8	93	153	45
+213	performance assessment	0.4609	-0.8003	5	6	15	6
+214	performance evaluation	0.3851	-0.7943	5	19	23	6
+215	personalized medicine	0.8275	-0.1977	8	8	8	4
+216	perspective	0.4575	-0.6298	3	21	24	5
+217	phantoms	0.1243	-0.338	7	15	22	4
+218	policy	0.8939	-0.5472	1	18	18	4
+219	population	0.8446	-0.3734	1	16	18	4
+220	post-market surveillance	0.4205	-0.8301	5	16	44	17
+221	prediction	0.4121	-0.2857	2	32	36	11
+222	predictive maintenance	0.4256	-0.7342	5	15	21	5
+223	predictive models	0.4068	-0.7111	5	23	31	5
+224	premarket approval	0.8465	-0.4236	1	9	10	4
+225	pressure	0.7045	-0.5617	6	7	7	4
+226	pressure injury	0.5518	-0.5046	3	39	85	18
+227	pressure ulcer	0.5703	-0.4445	3	24	43	11
+228	prevalence	0.6042	-0.5098	3	42	96	24
+229	prevention	0.5805	-0.5138	3	34	71	17
+230	preventive maintenance	0.7681	-0.2302	8	12	13	4
+231	prioritization	0.3341	-0.573	9	41	54	15
+232	privacy	0.2882	-0.6918	5	18	22	6
+233	procurement	0.6247	-0.7624	4	14	14	5
+234	product development	0.7851	-0.4666	1	28	36	9
+235	program	0.5256	-0.295	2	23	23	5
+236	propensity score	0.85	-0.679	6	9	13	5
+237	quality	0.4536	-0.3024	2	78	96	29
+238	quality assurance	0.3345	-0.1826	2	13	13	8
+239	quality control	0.8308	-0.2522	8	11	11	8
+240	quality improvement	0.7469	-0.5448	6	17	19	5
+241	quality management	0.6703	-0.7095	6	13	14	5
+242	quality of life	0.5899	-0.6287	3	18	21	7
+243	quality-of-life	0.8508	-0.4018	1	32	37	10
+244	questionnaire	0.5226	-0.5795	3	27	30	6
+245	radio frequency	0.1668	-0.4015	7	24	48	8
+246	radiotherapy	0.0694	-0.4877	7	8	10	5
+247	real-world data	0.8748	-0.4393	1	14	18	5
+248	real-world evidence	0.895	-0.5079	1	24	27	8
+249	recalls	0.864	-0.4932	1	16	19	5
+250	recommendations	0.4269	-0.3798	2	22	22	8
+251	reconstructed human epidermis	0.3304	-0.2909	2	13	21	5
+252	recovery	0.6814	-0.241	8	17	19	4
+253	registry	0.8167	-0.6453	6	16	17	4
+254	regulation	0.7923	-0.4928	1	37	48	17
+255	regulatory	0.8751	-0.4849	1	31	34	9
+256	rehabilitation	0.8165	-0.3901	1	12	14	5
+257	reimbursement	0.9125	-0.4724	1	15	15	4
+258	reliability	0.5535	-0.5779	3	60	83	22
+259	repair	0.4574	-0.2691	2	20	24	6
+260	replacement	0.4517	-0.32	2	29	34	9
+261	reprocessing	0.4553	-0.5813	3	11	11	4
+262	requirements	0.7695	-0.412	1	13	13	4
+263	resilience	0.6801	-0.2189	8	19	25	6
+264	resistance	0.5606	-0.2895	8	2	2	4
+265	rhe	0.3422	-0.2613	2	13	23	5
+266	risk	0.8177	-0.4948	1	87	108	36
+267	risk analysis	0.7041	-0.7396	6	23	27	8
+268	risk assessment	0.407	-0.3271	2	57	81	26
+269	risk management	0.7056	-0.7001	6	48	81	27
+270	risk-assessment	0.1692	-0.63	9	14	15	4
+271	risk-factors	0.6183	-0.4905	3	22	37	7
+272	risks	0.8149	-0.7462	6	10	10	4
+273	safety	0.1907	-0.4065	7	125	215	59
+274	safety assessment	0.1105	-0.3887	7	17	18	5
+275	safety management	0.7763	-0.6934	6	18	18	5
+276	sector	0.7811	-0.4546	1	16	18	4
+277	security	0.3012	-0.7556	5	38	63	16
+278	selection	0.7111	-0.3107	8	33	39	10
+279	simulation	0.7079	-0.2023	8	23	27	10
+280	skin	0.5222	-0.4157	3	14	18	7
+281	skin irritation	0.3277	-0.2739	2	11	17	4
+282	software	0.579	-0.8737	4	34	44	11
+283	standardisation	0.384	-0.8821	5	4	27	9
+284	standards	0.3671	-0.7616	5	40	53	12
+285	sterilization	0.3907	-0.3521	2	14	14	7
+286	strategies	0.7351	-0.3197	8	20	23	7
+287	strategy	0.3871	-0.2497	2	35	41	9
+288	supply chain	0.5665	-0.8431	4	11	13	6
+289	supply chain management	0.5262	-0.7739	4	17	19	4
+290	support	0.7464	-0.6367	6	20	21	7
+291	surgery	0.565	-0.5857	3	42	52	18
+292	surveillance	0.7436	-0.6768	6	21	24	5
+293	survival	0.4731	-0.235	2	10	10	4
+294	sustainability	0.7225	-0.2828	8	36	48	11
+295	technologies	0.8273	-0.4375	1	44	49	12
+296	technology	0.6551	-0.7995	4	62	72	24
+297	telemedicine	0.3452	-0.8945	5	11	11	5
+298	testing	0.367	-0.8243	5	14	37	12
+299	therapy	0.8447	-0.4604	1	36	38	11
+300	things	0.3406	-0.6693	5	18	27	6
+301	time	0.4914	-0.6099	3	12	12	5
+302	tissue	0.3744	-0.3514	2	14	14	4
+303	tool	0.6142	-0.7272	4	21	22	6
+304	topsis	0.2207	-0.5767	9	19	23	4
+305	toxicity	0.3615	-0.3404	2	15	15	5
+306	traceability	0.491	-0.8562	4	10	11	4
+307	training	0.6727	-0.5052	3	18	20	5
+308	transfer function	0.1348	-0.3604	7	17	23	4
+309	transfer function (tf)	0.236	-0.3492	7	15	22	4
+310	transmission	0.4057	-0.5075	3	17	18	4
+311	trends	0.8803	-0.4133	1	19	19	5
+312	trials	0.8463	-0.5564	1	20	23	8
+313	trust	0.4967	-0.7941	4	14	15	4
+314	ulcer	0.5392	-0.4552	3	18	23	5
+315	ulcer prevention	0.4951	-0.4607	3	11	16	4
+316	ulcers	0.575	-0.4992	3	42	126	28
+317	ultrasound	0.2302	-0.4694	7	10	10	4
+318	unit	0.6462	-0.4641	3	15	24	4
+319	united-states	0.8564	-0.4718	1	39	44	11
+320	usability	0.5849	-0.799	4	34	58	20
+321	usability engineering	0.6609	-0.8949	4	9	9	4
+322	usability testing	0.6828	-0.7207	6	22	22	5
+323	user-centered design	0.5512	-0.7654	4	14	16	5
+324	users	0.8747	-0.4322	1	14	15	5
+325	validation	0.6025	-0.8598	4	52	67	25
+326	validity	0.589	-0.5619	3	27	36	7
+327	ventilator	0.6936	-0.6101	6	11	12	4
+328	ventricular assist device	0.3989	-0.2069	2	10	11	4
+329	verification	0.567	-0.8265	4	35	43	9
+330	waste	0.6811	-0.311	8	19	19	6
+331	water	0.6169	-0.2849	8	6	6	5
+332	wires	0.2028	-0.3085	7	17	24	4
+333	wound care	0.5101	-0.5001	3	15	17	5
