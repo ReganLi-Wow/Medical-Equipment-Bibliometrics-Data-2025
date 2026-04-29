@@ -1,0 +1,7 @@
+label	replace by
+peoples r china	china
+taiwan	china
+hongkong	china
+north ireland	england
+scotland	england
+wales	england
