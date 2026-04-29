@@ -1,0 +1,2945 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, Y
+   Jasim, DJ
+   Sajadi, SM
+   Smaisim, GF
+   Hadrawi, SK
+   Nasajpour-Esfahani, N
+   Alizade, M
+   Zarringhalam, M
+   Salahshour, S
+   Toghraie, D
+AF Wang, Yu
+   Jasim, Dheyaa J.
+   Sajadi, S. Mohammad
+   Smaisim, Ghassan Fadhil
+   Hadrawi, Salema K.
+   Nasajpour-Esfahani, Navid
+   Alizade, Morteza
+   Zarringhalam, Majid
+   Salahshour, Soheil
+   Toghraie, D.
+TI Experimental study of phase change material (PCM) based spiral heat sink
+   for the cooling process of electronic equipment
+SO AIN SHAMS ENGINEERING JOURNAL
+LA English
+DT Article
+DE Phase change materials (PCMs); Heat sink; Thermal management; Heat
+   exchanger; Spiral heat sink
+AB Today, every device that a person uses depends on electronic equipment, frequent and long-term use of it causes to heat up and as a result, slow down the speed and performance of that device. In more important and sensitive equipment such as medical equipment, slow speed and reduced performance cause irreparable damage. Therefore, to cool these devices, their internal electronic equipment must be cooled. In studies by others, the simultaneous use of several phase change materials and airflow in the form of layer-by-layer contact was usually less studied. In this study, using CNC machining, a heatsink consisting of 2 spirals was produced. In the first spiral, PCM Paraffin Wax with different volume percentages and in the second spiral, the presence or absence of forced airflow in heat transfer rate 2.9 W to 3.7 W was tested with a step of 0.4 W and the results were that by adding %50 PCM and adding 100 % PCM to the system, its performance increases by 7.19 % and 44.91 %, respectively, which shows using the maximum volume capacity of PCM increases efficiency. Also, by adding forced airflow to the system, its performance has increased by 7.71 %. It can be said that if the forced airflow in the system is used layer by layer, it prevents the heat from concentrating in certain parts of the heatsink and the circuit, which results in the same heating of the whole system and the heat is evenly distributed throughout the heatsink.
+C1 [Wang, Yu] Shanxi Engn Vocat Coll, Taiyuan 030009, Shanxi, Peoples R China.
+   [Jasim, Dheyaa J.] Al Amarah Univ Coll, Dept Petr Engn, Maysan, Iraq.
+   [Sajadi, S. Mohammad] Cihan Univ Erbil, Dept Nutr, Erbil, Kurdistan Reg, Iraq.
+   [Smaisim, Ghassan Fadhil] Univ Kufa, Fac Engn, Dept Mech Engn, Kufa, Iraq.
+   [Smaisim, Ghassan Fadhil] Univ Kufa, Fac Engn, Nanotechnol & Adv Mat Res Unit NAMRU, Kufa, Iraq.
+   [Hadrawi, Salema K.] Islamic Univ, Coll Tech Engn, Refrigerat & Air conditioning Tech Engn Dept, Najaf, Iraq.
+   [Hadrawi, Salema K.] Imam Reza Univ, Comp Engn Dept, Mashhad, Iran.
+   [Alizade, Morteza] Islamic Azad Univ, Dept Mech Engn, South Tehran Branch, Tehran, Iran.
+   [Zarringhalam, Majid] Islamic Azad Univ, South Tehran Branch, Young Researchers & Elite Club, Tehran, Iran.
+   [Salahshour, Soheil] Istanbul Okan Univ, Fac Engn & Nat Sci, Istanbul, Turkiye.
+   [Salahshour, Soheil] Bahcesehir Univ, Fac Engn & Nat Sci, Istanbul, Turkiye.
+   [Salahshour, Soheil] Lebanese Amer Univ, Dept Comp Sci & Math, Beirut, Lebanon.
+   [Nasajpour-Esfahani, Navid] Georgia Inst Technol, Dept Mat Sci & Engn, Atlanta, GA 30332 USA.
+   [Toghraie, D.] Islamic Azad Univ, Dept Mech Engn, Khomeinishahr branch, Khomeinishahr, Iran.
+C3 Al-Amarah University College; Cihan University-Erbil; University of
+   Kufa; University of Kufa; Islamic University College; Imam Reza
+   International University; Islamic Azad University; Islamic Azad
+   University; Okan University; Bahcesehir University; Lebanese American
+   University; University System of Georgia; Georgia Institute of
+   Technology; Islamic Azad University
+RP Wang, Y (通讯作者)，Shanxi Engn Vocat Coll, Taiyuan 030009, Shanxi, Peoples R China.; Toghraie, D (通讯作者)，Islamic Azad Univ, Dept Mech Engn, Khomeinishahr branch, Khomeinishahr, Iran.
+EM raincy930520@163.com; Toghraee@iaukhsh.ac.ir
+RI Sajadi, Prof. Dr. S./D-9086-2014; Zarringhalam, Majid/AAY-6903-2020;
+   Jasim, Dheyaa/GPS-5013-2022; Toghraie, Davood/AAH-4258-2019
+FU First batch of national vocational education teachers' teaching
+   innovation team project of Ministry of Education [YB2020010302]; The
+   14th five year plan of Educational Science in Shanxi Province
+   [GH-220451]
+FX This work was supported by: The first batch of national vocational
+   education teachers' teaching innovation team project of Ministry of
+   Education (YB2020010302) . The 14th five year plan of Educational
+   Science in Shanxi Province (GH-220451)
+CR Al Siyabi I, 2018, ENERGIES, V11, DOI 10.3390/en11071629
+   Alizade M, 2022, J ENERGY STORAGE, V55, DOI 10.1016/j.est.2022.105532
+   Anzar A, 2013, nternational Journal of Research. Eng Technol
+   Ashraf MJ, 2017, INT J HEAT MASS TRAN, V115, P251, DOI 10.1016/j.ijheatmasstransfer.2017.07.114
+   Bahiraei M, 2021, CHEM ENG PROCESS, V162, DOI 10.1016/j.cep.2021.108326
+   Dolado P, 2011, ENERG CONVERS MANAGE, V52, P1890, DOI 10.1016/j.enconman.2010.11.017
+   2019, International Journal of communication and computer Technologies, V7, DOI [10.31838/ijccts/07.sp01.06, 10.31838/ijccts/07.SP01.06, DOI 10.31838/IJCCTS/07.SP01.06]
+   Feng XB, 2022, J ENERGY CHEM, V75, P173, DOI 10.1016/j.jechem.2022.08.001
+   Habib N, 2022, THERM SCI, V26, P1519, DOI 10.2298/TSCI210612317H
+   Huang ZW, 2022, ENERGY, V261, DOI 10.1016/j.energy.2022.125228
+   Jaworski M, 2012, APPL THERM ENG, V35, P212, DOI 10.1016/j.applthermaleng.2011.10.036
+   Kalbasi R, 2021, INT J HEAT MASS TRAN, V169, DOI 10.1016/j.ijheatmasstransfer.2021.120914
+   Kheirabadi AC, 2016, APPL THERM ENG, V105, P622, DOI 10.1016/j.applthermaleng.2016.03.056
+   Khor CY, 2021, J Phys Conf Ser
+   Koo JM, 2005, J HEAT TRANS-T ASME, V127, P49, DOI 10.1115/1.1839582
+   Laame GJ, 2021, RENEW ENERG RES APPL, V2, P129, DOI 10.22044/RERA.2021.10573.1050
+   Lin LC, 2003, INT J HEAT MASS TRAN, V46, P3737, DOI 10.1016/S0017-9310(03)00217-5
+   Liu XD, 2013, INT J THERM SCI, V65, P224, DOI 10.1016/j.ijthermalsci.2012.10.012
+   Otake S, 2019, 2019 INTERNATIONAL CONFERENCE ON ELECTRONICS PACKAGING (ICEP 2019), P46, DOI [10.23919/icep.2019.8733558, 10.23919/ICEP.2019.8733558]
+   Prieto C, 2021, J ENERGY STORAGE, V33, DOI 10.1016/j.est.2020.101926
+   Soupremanien U, 2016, INTERSOC C THERMAL T, P125, DOI 10.1109/ITHERM.2016.7517539
+   Sultan SM, 2020, RENEW ENERG RES APPL, V1, P187, DOI 10.22044/rera.2020.9355.1024
+   Vandersande JW, 1996, PROCEEDINGS ICT '96 - FIFTEENTH INTERNATIONAL CONFERENCE ON THERMOELECTRICS, P252, DOI 10.1109/ICT.1996.553311
+   Zhu L, 2011, SOL ENERG MAT SOL C, V95, P538, DOI 10.1016/j.solmat.2010.08.037
+NR 24
+TC 19
+Z9 20
+U1 1
+U2 15
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2090-4479
+EI 2090-4495
+J9 AIN SHAMS ENG J
+JI Ain Shams Eng. J.
+PD JUL
+PY 2024
+VL 15
+IS 7
+AR 102793
+DI 10.1016/j.asej.2024.102793
+EA MAY 2024
+PG 12
+WC Engineering, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA TJ5J9
+UT WOS:001240906600001
+OA gold
+DA 2026-01-12
+ER
+
+PT J
+AU Sayed, A
+   Alhomsi, Y
+   Alsalemi, A
+   Bensaali, F
+   Meskin, N
+   Hssain, AA
+AF Sayed, Aya
+   Alhomsi, Yahya
+   Alsalemi, Abdullah
+   Bensaali, Faycal
+   Meskin, Nader
+   Hssain, Ali Ait
+TI IoT-based mock oxygenator for extracorporeal membrane oxygenation
+   simulator
+SO ARTIFICIAL ORGANS
+LA English
+DT Article
+DE blood oxygenation; blood simulation; extracorporeal membrane
+   oxygenation; high-realism simulation; mock oxygenator; simulation-based
+   training; thermochromic ink
+ID ECMO
+AB Background Training is an essential aspect of providing high-quality treatment and ensuring patient safety in any medical practice. Because extracorporeal membrane oxygenation (ECMO) is a complicated operation with various elements, variables, and irregular situations, doctors must be experienced and knowledgeable about all conventional protocols and emergency procedures. The conventional simulation approach has a number of limitations. The approach is intrinsically costly since it relies on disposable medical equipment (i.e., oxygenators, heat exchangers, and pumps) that must be replaced regularly due to the damage caused by the liquid used to simulate blood. The oxygenator, which oxygenates the blood through a tailored membrane in ECMO, acts as a replacement for the patient's natural lung. For the context of simulation-based training (SBT) oxygenators are often expensive and cannot be recycled owing to contamination issues. Methods Consequently, it is advised that the training process include a simulated version of oxygenators to optimize reusability and decrease training expenses. Toward this goal, this article demonstrates a mock oxygenator for ECMO SBT, designed to precisely replicate the real machine structure and operation. Results The initial model was reproduced using 3D modeling and printing. Additionally, the mock oxygenator could mimic frequent events such as pump noise and clotting. Furthermore, the oxygenator is integrated with the modular ECMO simulator using cloud-based communication technology that goes in hand with the internet of things technology to provide remote control via an instructor tablet application. Conclusions The final 3D modeled oxygenator body was tested and integrated with the other simulation modules at Hamad Medical Corporation with several participants to evaluate the effectiveness of the training session.
+C1 [Sayed, Aya; Alhomsi, Yahya; Alsalemi, Abdullah; Bensaali, Faycal; Meskin, Nader] Qatar Univ, Dept Elect Engn, Doha 2713, Qatar.
+   [Alsalemi, Abdullah] De Montfort Univ, Inst Artificial Intelligence, Leicester, Leics, England.
+   [Hssain, Ali Ait] Hamad Med Corp, Med Intens Care Unit, Doha, Qatar.
+C3 Qatar University; De Montfort University; Hamad Medical Corporation
+RP Sayed, A (通讯作者)，Qatar Univ, Dept Elect Engn, Doha 2713, Qatar.
+EM as1516645@qu.edu.qa; p2621877@my365.dmu.ac.uk; f.bensaali@qu.edu.qa;
+   nader.meskin@qu.edu.qa; ahssain@hamad.qa
+RI Bensaali, Faycal/AFS-0521-2022; Meskin, Nader/AAR-9342-2020
+OI AIT HSSAIN, Ali/0000-0002-7764-5793; Meskin, Nader/0000-0003-3098-9369;
+   Sayed, Aya Nabil/0000-0001-6141-5785; Bensaali,
+   Faycal/0000-0002-9273-4735
+FU Qatar University Internal Grant [M-CTP-CENG-2020-1]
+FX Qatar University Internal Grant, Grant/Award Number: M-CTP-CENG-2020-1
+CR Al Disi M, 2019, PERFUSION-UK, V34, P183, DOI 10.1177/0267659118802749
+   Al Disi M, 2019, PERFUSION-UK, V34, P106, DOI 10.1177/0267659118798140
+   Al Disi M, 2018, AM J EMERG MED, V36, P1310, DOI 10.1016/j.ajem.2017.11.036
+   Alsalemi A., 2017, 4 INT C ADV BIOMEDIC
+   Alsalemi A., 2019, Patent, Patent No. [16/271,651, 16271651]
+   Alsalemi A, 2018, SIMULAT GAMING, V49, P497, DOI 10.1177/1046878118794984
+   Caswell Hal, 2001, pi
+   Colasanti S, 2021, ARTIF ORGANS, V45, P399, DOI 10.1111/aor.13842
+   Gannon WD, 2020, ATS SCHOLAR, V1, P406, DOI 10.34197/ats-scholar.2020-0028IN
+   Glass KM M., 2021, Comprehensive Healthcare Simulation: ECMO Simulation, P147, DOI [10.1007/978-3-030-53844-617, DOI 10.1007/978-3-030-53844-617]
+   Graefe R, 2010, ARTIF ORGANS, V34, P930, DOI 10.1111/j.1525-1594.2010.01157.x
+   Hong XY, 2020, INT J INFECT DIS, V94, P78, DOI 10.1016/j.ijid.2020.03.058
+   Lansdowne William, 2012, J Extra Corpor Technol, V44, P250
+   Lindfors M, 2017, ARTIF ORGANS, V41, P75, DOI 10.1111/aor.12700
+   Noorizadeh M, 2021, MEMBRANES-BASEL, V11, DOI 10.3390/membranes11070520
+   Puslecki M, 2018, J THORAC DIS, V10, DOI 10.21037/jtd.2018.07.25
+   White Alexander, 2016, Am J Respir Crit Care Med, V193, pP9, DOI [10.1164/rccm.1936p9, 10.1164/rccm.1936P9]
+   Zakhary BM, 2017, CRIT CARE MED, V45, P1367, DOI 10.1097/CCM.0000000000002437
+NR 18
+TC 2
+Z9 2
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0160-564X
+EI 1525-1594
+J9 ARTIF ORGANS
+JI Artif. Organs
+PD NOV
+PY 2022
+VL 46
+IS 11
+BP 2135
+EP 2146
+DI 10.1111/aor.14318
+EA MAY 2022
+PG 12
+WC Engineering, Biomedical; Transplantation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Transplantation
+GA 5T3AV
+UT WOS:000800509200001
+PM 35578949
+OA Green Submitted, hybrid
+DA 2026-01-12
+ER
+
+PT J
+AU Fernández-Sánchez, AM
+   López-Díaz, A
+   Jiménez-Alonso, C
+   Saenz-Nuño, MA
+   Oliva, JDY
+AF Marin Fernandez-Sanchez, Alfonso
+   Lopez-Diaz, Alfonso
+   Jimenez-Alonso, Carlos
+   Saenz-Nuno, Maria Ana
+   De Vicente y Oliva, Jesus
+TI Analysis of gaps in standardization in metrological traceability for
+   medical devices: case of clinical thermometers, ultrasounds and
+   shortwave
+SO DYNA
+LA Spanish
+DT Article
+DE Electromedicine; medical unit; traceability; metrology; biomedicine; UNE
+   rule
+AB The metrology or study of the measures, it was found at all levels of the reality of the society.
+   The correct measure requires that international organizations that establish the market rules and the quality of life, defined what and how they're obtained. To this end, there is the international system of units and the International Bureau of Weights and Measures (IBWM), which define the units and to carry out experiments. Making that countries can recourse for a metrological traceability that guarantees all the variables that are used in the world.
+   In the daily lives of the people there are multitude of magnitudes that are measured with a determined accuracy, as the water pressure or the electricity power. The calibrations are the processes for verifying the accuracy of the measures, by means of accuracy. The processes of calibration and verification of the magnitudes should be reproducible.
+   The unified standards are documents that under the international recognition and with the participation of all the officers involved have been developed to establish a series of common requirements for which there is a compatibility in everything that is manufactured. There must be rules establishing the metrological traceability of measures or magnitudes, ensuring any measure or magnitude. In this set of rules have to be dealt with the magnitudes and medical measures, taking its relevant standardization.
+   By time has not been a specific study with the standardization in terms of metrological traceability for medical equipment. This article aims to give a response to the situation for the clinical thermometers, ultrasound, and shortwave.
+C1 [Marin Fernandez-Sanchez, Alfonso] Hosp & Ctr Rehabil, FREMAP, Carretera Pozuelo 61, Majadahonda 28222, Madrid, Spain.
+   [Lopez-Diaz, Alfonso] Univ Catolica Avila, Calle Canteros S-N, Avila 05005, Spain.
+   [Jimenez-Alonso, Carlos] Colegio Oficial Ingn Ind Madrid, Calle Hernan Cortes 13, Madrid 28004, Spain.
+   [Saenz-Nuno, Maria Ana] Univ Pontificia Comillas, Escuela Tecn Super Ingn ICAI, Dpto Ingn Mecan, Calle Alberto Aguilera 25, Madrid 28015, Spain.
+   [De Vicente y Oliva, Jesus] Univ Politecn Madrid, ETSII, Calle Jose Gutierrez Abascal 2, Madrid 28006, Spain.
+C3 Comillas Pontifical University; Universidad Politecnica de Madrid
+RP Fernández-Sánchez, AM (通讯作者)，Hosp & Ctr Rehabil, FREMAP, Carretera Pozuelo 61, Majadahonda 28222, Madrid, Spain.
+RI de Vicente y Oliva, Jesús/L-2449-2017; Sáenz-Nuño, María/AAC-4054-2021
+OI de Vicente y Oliva, Jesús/0000-0001-5746-1543; 
+CR AEC Grupo de Metrologia de la Salud formado por vocales del Comite AEC de Metrologia y por vocales del Comite AEC de Salud, 2013, PROC COMPR TERM CLIN
+   AENOR, 1996, 60601231996 AENOR UN
+   AENOR, 2015, 90012015 AENOR UNEEN
+   AENOR, 1996, 611611996 AENOR UNEE
+   AENOR, 2013, 134852013 AENOR UNEE
+   AENOR, 2009, 623532009 AENOR UNEE
+   AENOR, 2003, 100122003 AENOR UNEE
+   AENOR, 1999, 616891999 AENOR UNEE
+   AENOR, 2008, 6060112008 AENOT UNE
+   AENOR, 2009, 606012372009 AENOR U
+   AENOR, 2005, 170252005 AENOR UNEE
+   AENOR, 2000, 6060123A12000 AENOR
+   AENOR, 1985, 2061323 AENOR UNE
+   AENOR, 1996, 611571996 AENOR UNEE
+   AENOR, 2013, 806011562013 AENOR U
+   AENOR, 1981, 206401981 AENOR UNE
+   Argos Lucia, 1991, PRENSA DIARIA   1012, P1
+   Artho PA, 2002, PHYS THER, V82, P257, DOI 10.1093/ptj/82.3.257
+   Chinchurreta Segovia Francisco Jose, 2006, PACS4358VB CSIC I AC
+   Europen Commission, 2005, HLTH EL FIELS
+   Fernandez Alfonso, 2015, AENOR REV NORMALIZAC, P38
+   FREMAP, 2013, FREMAP MUT COL SEG S
+   Giannetti R., 2013, IOP PUBLISHING IMEKO, V459, P2013, DOI [10.1088/1742-6596/459/1/012018, DOI 10.1088/1742-6596/459/1/012018]
+   JCGM (BIPM IEC IFCC ILAC ISO IUPAC IUPAP y OIML), 2012, VOC INT METR CONC FU
+   Laboral Ponencia de Alertas de Salud Publica y Planes de Preparacion y Respuesta, 2014, PON AL SALUD PUBL PL
+   Secretaria General de Sanidad y Consumo, 2014, DIR GEN SALUD PUBL C
+   WHO (World Health Organization), 2015, EL FIELDS EMF
+NR 27
+TC 1
+Z9 1
+U1 0
+U2 5
+PU FEDERACION ASOCIACIONES INGENIEROS INDUSTRIALES ESPANA
+PI BILBAO
+PA ALAMEDA DE MAZARREDO, BILBAO, 69-48009, SPAIN
+SN 0012-7361
+EI 1989-1490
+J9 DYNA-BILBAO
+JI Dyna
+PD SEP-OCT
+PY 2016
+VL 91
+IS 5
+BP 536
+EP 540
+DI 10.6036/7854
+PG 5
+WC Engineering, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA DY0UU
+UT WOS:000384812500019
+DA 2026-01-12
+ER
+
+PT J
+AU Wu, ZY
+   Huang, ZD
+   Tang, NH
+   Wang, K
+   Bian, CJ
+   Li, DD
+   Kuraki, V
+   Schmid, F
+AF Wu, Zhiyong
+   Huang, Zhida
+   Tang, Nianhua
+   Wang, Kai
+   Bian, Chuanjie
+   Li, Dandan
+   Kuraki, Vumika
+   Schmid, Felix
+TI Research on Sports Injury Rehabilitation Detection Based on IoT Models
+   for Digital Health Care
+SO BIG DATA
+LA English
+DT Article
+DE athletes; sports rehabilitation detection; Internet of Things; digital
+   health care; health care Internet of Things; body area networks
+AB Physical therapists specializing in sports rehabilitation detection help injured athletes recover from their wounds and avoid further harm. Sports rehabilitators treat not just commonplace sports injuries but also work-related musculoskeletal injuries, discomfort, and disorders. Sensor-equipped Internet of Things (IoT) monitors the real-time location of medical equipment such as scooters, cardioverters, nebulizer treatments, oxygenation pumps, or other monitor gear. Analysis of medicine deployment across sites is possible in real time. Health care delivery based on digital technology to improve access, affordability, and sustainability of medical treatment is known as digital health care. The challenging characteristics of such sports injury rehabilitation for digital health care are playing position, game strategies, and cybersecurity. Hence, in this research, health care IoT-enabled body area networks (HIoT-BAN) have been designed to improve sports injury rehabilitation detection for digital health care. The health care sector may benefit significantly from IoT adoption since it allows for enhanced patient safety; health care investment management includes controlling the hospital's pharmaceutical stock and monitoring the heat and humidity levels. Digital health describes a group of programmers made to aid health care delivery, whether by assisting with clinical decision-making or streamlining back-end operations in health care institutions. A HIoT-BAN effectively predicts the rise in sports injury rehabilitation detection with faster digital health care based on IoT. The research concludes that the HIoT-BAN effectively indicates sports injury rehabilitation detection for digital health care. The experimental analysis of HIoT-BAN outperforms the IoT method in terms of performance, accuracy, prediction ratio, and mean square error rate.
+C1 [Wu, Zhiyong; Huang, Zhida] Nanchang Inst Sci & Technol, Sch Phys Educ & Hlth, Nanchang, Peoples R China.
+   [Tang, Nianhua] Yuzhang Normal Univ, Sch Ecol & Environm, Nanchang, Peoples R China.
+   [Wang, Kai] Nanchang Univ Technol, Sch Phys Educ & Hlth, Nanchang 330108, Jiangxi, Peoples R China.
+   [Bian, Chuanjie] Deakin Univ, Master Business Sport Management, Burwood, Australia.
+   [Li, Dandan] Jiangsu Ocean Univ, Pharmaceut Engn, Pharmaceut Engn Part, Lianyungang 222005, Peoples R China.
+   [Kuraki, Vumika] Kobe Univ, Dept Comprehens Rehabil, Kobe, Japan.
+   [Schmid, Felix] Carleton Univ, Coll Engn & Design, Ottawa, ON, Canada.
+C3 Yuzhang Normal University; Deakin University; Jiangsu Ocean University;
+   Kobe University; Carleton University
+RP Wang, K (通讯作者)，Nanchang Univ Technol, Sch Phys Educ & Hlth, Nanchang 330108, Jiangxi, Peoples R China.; Li, DD (通讯作者)，Jiangsu Ocean Univ, Pharmaceut Engn, Pharmaceut Engn Part, Lianyungang 222005, Peoples R China.
+EM 403528075@qq.com; 2016123716@jou.edu.cn
+RI huang, zhida/HPH-1498-2023; Zhiyong, Wu/LLK-1044-2024
+CR Almaiah MA, 2022, SENSORS-BASEL, V22, DOI 10.3390/s22041448
+   [Anonymous], About Us
+   Awotunde J., 2022, Machine Learning for Critical Internet of Medical Things, P229, DOI DOI 10.1007/978-3-030-80928-710
+   Ba HB, 2020, J MED IMAG HEALTH IN, V10, P1091, DOI 10.1166/jmihi.2020.2892
+   Carbone A, 2017, J ORTHOP RES, V35, P397, DOI 10.1002/jor.23341
+   Ding Y, 2020, IEEE ACCESS, V8, P96065, DOI 10.1109/ACCESS.2020.2992283
+   Fotouhi M, 2020, COMPUT NETW, V177, DOI 10.1016/j.comnet.2020.107333
+   Gokulakrishnan S, 2023, J COMB OPTIM, V45, DOI 10.1007/s10878-022-00939-x
+   Gotlin MJ., 2023, SOFT COMPUT, V27, P5678
+   Hosseinzadeh M, 2021, J SUPERCOMPUT, V77, P2590, DOI 10.1007/s11227-020-03357-0
+   Jabeen T, 2021, J AMB INTEL HUM COMP, V12, P9841, DOI 10.1007/s12652-020-02728-y
+   King E, 2021, AM J SPORT MED, V49, P609, DOI 10.1177/0363546520985283
+   Kumar PM, 2022, IEEE J BIOMED HEALTH, V26, P973, DOI 10.1109/JBHI.2021.3106387
+   Saifalddin DL, 2023, Indonesian Journal of Sport Science and Coaching, V5, P64, DOI 10.22437/ijssc.v5i1.24174
+   Liu L, 2022, BIOMED RES INT, V2022, DOI 10.1155/2022/5989819
+   Mehmood G, 2020, IEEE ACCESS, V8, P69134, DOI 10.1109/ACCESS.2020.2986268
+   Mohammed SS, 2022, Journal of Coaching and Sports Science, V1, P34, DOI [10.58524/jcss.v1i2.157, 10.58524/jcss.v1i2.157, DOI 10.58524/JCSS.V1I2.157]
+   Mohanarangan VD., 2023, IOS PRESS CONTENT LI, V27, p161 180
+   Munn J, 2002, J SPORT REHABIL, V11, P40, DOI 10.1123/jsr.11.1.40
+   Qiu YH, 2022, T EMERG TELECOMMUN T, V33, DOI 10.1002/ett.4258
+   Rigamonti L, 2020, CURR SPORT MED REP, V19, P157, DOI 10.1249/JSR.0000000000000704
+   Song HS, 2021, J AMB INTEL HUM COMP, V12, P3399, DOI 10.1007/s12652-020-02560-4
+   Su LS, 2020, J PEDIATR ORTHOPED, V40, pE237, DOI 10.1097/BPO.0000000000001414
+   Tang DP, 2020, IEEE ACCESS, V8, P118969, DOI 10.1109/ACCESS.2020.3005189
+   Ting TY, 2021, 1ST NATIONAL BIOMEDICAL ENGINEERING CONFERENCE (NBEC 2021): ADVANCED TECHNOLOGY FOR MODERN HEALTHCARE, P95, DOI 10.1109/NBEC53282.2021.9618757
+   Wang H, 2020, J MED IMAG HEALTH IN, V10, P918, DOI 10.1166/jmihi.2020.2954
+   Wang HF, 2020, COMPUT COMMUN, V160, P588, DOI 10.1016/j.comcom.2020.04.025
+   Wang K, 2022, Internet of Things and Cyber-Physical Systems, V2, P1, DOI [10.1016/j.iotcps.2022.02.001, DOI 10.1016/J.IOTCPS.2022.02.001, 10.1016/j.iotcps.2022.02.001, 10.1016/J.IOTCPS.2022.02.001]
+   Wang S., 2023, IEEE T IND INFORM, V19, P1234
+   Wang XY, 2022, COMPUT INTEL NEUROSC, V2022, DOI 10.1155/2022/4623561
+   Wang Y, 2021, MICROPROCESS MICROSY, V81, DOI 10.1016/j.micpro.2020.103723
+   2020, American Journal of Medical Research, V7, P61, DOI [10.22381/ajmr7120209, DOI 10.22381/AJMR7120209]
+   Yu HY, 2020, T EMERG TELECOMMUN T, V31, DOI 10.1002/ett.3929
+   Zhan K, 2021, MICROPROCESS MICROSY, V80, DOI 10.1016/j.micpro.2020.103363
+   Zhong CL, 2020, MEASUREMENT, V159, DOI 10.1016/j.measurement.2020.107774
+NR 35
+TC 6
+Z9 7
+U1 8
+U2 15
+PU MARY ANN LIEBERT, INC
+PI NEW ROCHELLE
+PA 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, NY 10801 USA
+EI 2167-647X
+J9 BIG DATA-US
+JI Big Data
+PD APR 1
+PY 2025
+VL 13
+IS 2
+BP 144
+EP 160
+DI 10.1089/big.2023.0134
+EA DEC 2024
+PG 17
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 1AQ5U
+UT WOS:001378889100001
+PM 39689860
+DA 2026-01-12
+ER
+
+PT J
+AU Homma, Y
+   Masubuchi, Y
+   Shirogane, Y
+   Amano, H
+   Muramoto, Y
+   Nagao, M
+   Okuno, R
+   Baba, T
+   Yamaji, K
+   Tamura, N
+   Kaneko, K
+   Ishijima, M
+AF Homma, Yasuhiro
+   Masubuchi, Yosuke
+   Shirogane, Yuichi
+   Amano, Hirofumi
+   Muramoto, Yuko
+   Nagao, Masashi
+   Okuno, Ryuji
+   Baba, Tomonori
+   Yamaji, Ken
+   Tamura, Naoto
+   Kaneko, Kazuo
+   Ishijima, Muneaki
+TI Grafting of autologous concentrated bone marrow processed using a
+   point-of-care device for patients with osteonecrosis of the femoral
+   head: A phase 1 feasibility and safety study
+SO REGENERATIVE THERAPY
+LA English
+DT Article
+DE Osteonecrosis of the femoral head; Bone marrow; Point -of -care device
+ID EARLY-STAGE OSTEONECROSIS; 5-YEAR FOLLOW-UP; CORE DECOMPRESSION;
+   AVASCULAR NECROSIS; MONONUCLEAR-CELLS; IMPLANTATION; EFFICACY
+AB Introduction: Along with the accumulating reports of autologous concentrated bone marrow (CBM) grafting for osteonecrosis of the femoral head (ONFH), the related medical device, a "point-of-care device" has also been recently developed. However, no study has confirmed the feasibility, safety, and efficiency of CBM grafting using a specific point-of-care device. Materials and methods: We designed this phase I, prospective clinical study to evaluate the feasibility and safety of autologous CBM grafting processed using a point-of-care device, the BioCUE system, in patients with ONFH. The primary outcomes were the safety and adverse event (AE), the secondary outcomes included pain score; hip function score; ONFH stage using X-ray; and the volume of the osteonecrotic area on 3T MRI. Besides, safety quality tests on the final product of concentrated bone marrow were performed. Results: Two patients (a 34-year-old man and a 33-year-old woman; three hips) with systemic lupus erythematosus were included. The incidence of AEs was 100% such as pain or transient fever after the operation, but all AEs were non serious. No peri-operative complications were observed. Pain and hip function score remained unchanged from the preoperative to the postoperative observational periods. Safety quality test demonstrated were all negative or under the threshold. Conclusion: The feasibility and safety of grafting of concentrated autologous CBM in patients with ONFH using a point-of-care device were confirmed. A further clinical study aiming for the authorization of this procedure should be conducted in the future. (c) 2022, The Japanese Society for Regenerative Medicine. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/ 4.0/).
+C1 [Homma, Yasuhiro; Shirogane, Yuichi; Nagao, Masashi; Okuno, Ryuji; Baba, Tomonori; Kaneko, Kazuo; Ishijima, Muneaki] Juntendo Univ, Fac Med, Dept Orthopaed, Tokyo, Japan.
+   [Homma, Yasuhiro; Masubuchi, Yosuke; Nagao, Masashi] Juntendo Univ, Med Technol Innovat Ctr, Tokyo, Japan.
+   [Amano, Hirofumi; Muramoto, Yuko; Yamaji, Ken; Tamura, Naoto] Juntendo Univ, Fac Med, Dept Internal Med & Rheumatol, Tokyo, Japan.
+C3 Juntendo University; Juntendo University; Juntendo University
+RP Homma, Y (通讯作者)，Juntendo Univ, Fac Med, Dept Orthopaed, Bunkyo Ku, 2-1-1 Hongo, Tokyo 1130033, Japan.
+EM yhomma@juntendo.ac.jp
+FU Juntendo University Capture of Outstanding Clinical Research and
+   Evolution (CORE) project; Grants-in-Aid for Scientific Research
+   [22K11611] Funding Source: KAKEN
+FX This research was supported by Juntendo University Capture of
+   Outstanding Clinical Research and Evolution (CORE) project.
+CR Aarvold A, 2013, SURG-J R COLL SURG E, V11, P319, DOI 10.1016/j.surge.2013.02.008
+   Ando W, 2021, J ORTHOP SCI, V26, P46, DOI 10.1016/j.jos.2020.06.013
+   Chughtai M, 2017, BONE JOINT J, V99B, P1267, DOI 10.1302/0301-620X.99B10.BJJ-2017-0233.R2
+   Gangji V, 2011, BONE, V49, P1005, DOI 10.1016/j.bone.2011.07.032
+   Hede K, 2021, CARTILAGE, V13, p937S, DOI 10.1177/1947603519876329
+   Hernigou J, 2014, INT ORTHOP, V38, P2377, DOI 10.1007/s00264-014-2343-9
+   Hernigou P, 2002, CLIN ORTHOP RELAT R, P14, DOI 10.1097/01.blo.0000038472.05771.79
+   Hernigou P, 2013, J BONE JOINT SURG AM, V95A, P2215, DOI 10.2106/JBJS.M.00261
+   Liang TW, 2016, J VASC SURG, V63, P1541, DOI 10.1016/j.jvs.2016.01.022
+   Ma YC, 2014, STEM CELL RES THER, V5, DOI 10.1186/scrt505
+   Mao Q, 2013, BONE, V57, P509, DOI 10.1016/j.bone.2013.08.022
+   Matsumoto T, 2012, J ORTHOP SCI, V17, P25, DOI 10.1007/s00776-011-0166-8
+   Pepke W, 2016, ORTHOP REV, V8, P5, DOI 10.4081/or.2016.6162
+   Sugano Nobuhiko, 2002, J Orthop Sci, V7, P601, DOI 10.1007/s007760200108
+   Tabatabaee RM, 2015, J ARTHROPLASTY, V30, P11, DOI 10.1016/j.arth.2015.06.022
+   Tomaru Y, 2019, BMC MUSCULOSKEL DIS, V20, DOI 10.1186/s12891-019-2797-4
+   Tomaru Y, 2018, INT ORTHOP, V42, P1623, DOI 10.1007/s00264-018-3959-y
+   Torres J, 2014, BIOMED RES INT, V2014, DOI 10.1155/2014/451781
+   Woodell-May JE, 2015, BIORESEARCH OPEN ACC, V4, P417, DOI 10.1089/biores.2015.0006
+   Yamasaki T, 2010, J BONE JOINT SURG BR, V92B, P337, DOI 10.1302/0301-620X.92B3.22483
+   Zhao DW, 2012, BONE, V50, P325, DOI 10.1016/j.bone.2011.11.002
+NR 21
+TC 3
+Z9 3
+U1 1
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-3204
+J9 REGEN THER
+JI Regen. Ther.
+PD JUN
+PY 2022
+VL 20
+BP 18
+EP 25
+DI 10.1016/j.reth.2022.03.002
+EA MAR 2022
+PG 8
+WC Cell & Tissue Engineering; Engineering, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Cell Biology; Engineering
+GA 0Z6QR
+UT WOS:000791201100001
+PM 35350421
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Rosa, BMG
+   Anastasova, S
+   Yang, GZ
+AF Rosa, Bruno M. G.
+   Anastasova, Salzitsa
+   Yang, Guang Z.
+TI NFC-Powered Implantable Device for On-Body Parameters Monitoring With
+   Secure Data Exchange Link to a Medical Blockchain Type of Network
+SO IEEE TRANSACTIONS ON CYBERNETICS
+LA English
+DT Article
+DE Security; Radio frequency; Implants; Blockchain; Biomedical monitoring;
+   Mobile handsets; Encryption; Blockchain; data security; implantable
+   medical device (IMD); lightweight encryption; physiological signals;
+   power harvesting
+ID WIRELESS POWER; ENERGY; SCHEME; AUTHENTICATION; ECG
+AB Implantable devices represent the future of remote medical monitoring and administration of both chemical and physical therapies to the patients. Although some of these devices are already in the market, the security mechanisms deployed inside them to withstand deliberate external influence are still decades away from the robust digital data security schemes employed in modern distributed networks these days. Medical data theft, spoofing, and disclosure pose serious threats that can ultimately lead to individual and social stigmas or even death. In this article, we present a small-form and batteryless implantable device with acquisition channels for biopotential (30-dB gain and 16-Hz bandwidth), arterial pulse oximetry, and temperature (0.12 degrees C accuracy) recordings, suitable for cardiovascular, neuronal, and endocrine parameters assessment. The proposed device is powered by the near-field communication (NFC) interface with an external mobile phone, with a power consumption of 0.9 mW and achieving the full operation for distances close to 1 cm under the skin. In situ encryption of the acquired physiological signals is performed by a lightweight and short-term symmetric-key distribution scheme with data stream hopping, in order to ensure secure data transference over the air between the patient and trusted entities only, complemented by data storage, processing, and recovery through a medical blockchain type of network that involves the main stakeholders inside a medical community.
+C1 [Rosa, Bruno M. G.; Anastasova, Salzitsa] Imperial Coll London, Hamlyn Ctr, South Kensington Campus, London SW7 2AZ, England.
+   [Yang, Guang Z.] Shanghai Jiao Tong Univ, Inst Med Robot, Shanghai 200240, Peoples R China.
+C3 Imperial College London; Shanghai Jiao Tong University
+RP Rosa, BMG (通讯作者)，Imperial Coll London, Hamlyn Ctr, South Kensington Campus, London SW7 2AZ, England.
+EM b.gil-rosa@imperial.ac.uk
+OI Gil Rosa, Bruno/0000-0001-8054-059X; Anastasova,
+   Salzitsa/0000-0003-1475-296X
+FU Engineering and Physical Sciences Research Council [EP/L014149/1,
+   EP/R026092/1]; Engineering and Physical Sciences Research Council
+   [EP/L014149/1, EP/H009744/1, EP/R026092/1, EP/P012779/1] Funding Source:
+   researchfish; EPSRC [EP/L014149/1, EP/H009744/1, EP/P012779/1] Funding
+   Source: UKRI; ISCF [EP/R026092/1] Funding Source: UKRI
+FX This work was supported by the Engineering and Physical Sciences
+   Research Council under Grant EP/L014149/1 and Grant EP/R026092/1
+CR Amendola S, 2016, IEEE SENS J, V16, P7250, DOI 10.1109/JSEN.2016.2594582
+   Ayazian S, 2012, IEEE T BIOMED CIRC S, V6, P336, DOI 10.1109/TBCAS.2011.2179030
+   Bai T, 2019, FUTURE GENER COMP SY, V92, P800, DOI 10.1016/j.future.2018.01.031
+   Baranchuk A, 2018, J AM COLL CARDIOL, V71, P1284, DOI 10.1016/j.jacc.2018.01.023
+   Bazaka K, 2013, ELECTRONICS-SWITZ, V2, P1, DOI 10.3390/electronics2010001
+   Belkhouja T, 2019, FUTURE GENER COMP SY, V98, P109, DOI 10.1016/j.future.2019.02.002
+   Bera B, 2021, IEEE INTERNET THINGS, V8, P5744, DOI 10.1109/JIOT.2020.3030308
+   Camara C, 2015, J BIOMED INFORM, V55, P272, DOI 10.1016/j.jbi.2015.04.007
+   Cong P, 2009, IEEE J SOLID-ST CIRC, V44, P3631, DOI 10.1109/JSSC.2009.2035551
+   Ellouze N, 2018, J NETW COMPUT APPL, V107, P1, DOI 10.1016/j.jnca.2018.01.009
+   Esposito C, 2018, IEEE CLOUD COMPUT, V5, P31
+   González-Manzano L, 2017, FUTURE GENER COMP SY, V77, P136, DOI 10.1016/j.future.2017.07.018
+   He Q, 2014, SENSOR ACTUAT A-PHYS, V219, P65, DOI 10.1016/j.sna.2014.07.008
+   Hei XL, 2013, IEEE INFOCOM SER, P3030
+   Jung WS, 2015, SCI REP-UK, V5, DOI 10.1038/srep09309
+   Kiani M, 2015, IEEE T BIOMED CIRC S, V9, P1, DOI 10.1109/TBCAS.2014.2304956
+   Kim HJ, 2017, IEEE ACCESS, V5, P21264, DOI 10.1109/ACCESS.2017.2757267
+   Liu JL, 2021, IEEE T CYBERNETICS, V51, P4000, DOI 10.1109/TCYB.2020.3003752
+   Mercier PP, 2012, NAT BIOTECHNOL, V30, P1240, DOI 10.1038/nbt.2394
+   Mulyadi AW, 2022, IEEE T CYBERNETICS, V52, P9684, DOI 10.1109/TCYB.2021.3053599
+   Olivo J, 2011, SCI ADV MATER, V3, P420, DOI 10.1166/sam.2011.1175
+   Pycroft L, 2016, WORLD NEUROSURG, V92, P454, DOI 10.1016/j.wneu.2016.05.010
+   Qadri YA, 2020, IEEE COMMUN SURV TUT, V22, P1121, DOI 10.1109/COMST.2020.2973314
+   Rosa BMG, 2019, IEEE T BIOMED CIRC S, V13, P1603, DOI 10.1109/TBCAS.2019.2956810
+   Rushanan M, 2014, P IEEE S SECUR PRIV, P524, DOI 10.1109/SP.2014.40
+   Usman M, 2018, IEEE ACCESS, V6, P58064, DOI 10.1109/ACCESS.2018.2873825
+   Vijayakumar P, 2017, COMPUT ELECTR ENG, V63, P232, DOI 10.1016/j.compeleceng.2017.04.014
+   Voiculescu I, 2012, BIOSENS BIOELECTRON, V33, P1, DOI 10.1016/j.bios.2011.12.041
+   Wang X, 2021, IEEE T CYBERNETICS, V51, P4924, DOI 10.1109/TCYB.2020.3034374
+   Wang YQ, 2022, IEEE T CYBERNETICS, V52, P4323, DOI 10.1109/TCYB.2020.3026083
+   Wazid M, 2020, J NETW COMPUT APPL, V150, DOI 10.1016/j.jnca.2019.102496
+   Wazid M, 2018, IEEE J BIOMED HEALTH, V22, P1299, DOI 10.1109/JBHI.2017.2721545
+   Wu C.-C, 2015, 2015 International Symposium on VLSI Design, Automation and Test (VLSI-DAT). Proceedings, P1, DOI 10.1109/VLSI-DAT.2015.7114521
+   Xia Q, 2017, IEEE ACCESS, V5, P14757, DOI 10.1109/ACCESS.2017.2730843
+   Xu FY, 2011, IEEE INFOCOM SER, P1862, DOI 10.1109/INFCOM.2011.5934987
+   Xu S, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2553
+   Xu XQ, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2020.102436
+   Yang BY, 2022, IEEE T CYBERNETICS, V52, P3394, DOI 10.1109/TCYB.2020.3011934
+   Yang G.-Z., 2018, IMPLANTABLE SENSORS
+   Zhang H, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw0873
+   Zhang H, 2015, NANO ENERGY, V12, P296, DOI 10.1016/j.nanoen.2014.12.038
+   Zhang M, 2014, P IEEE, V102, P1174, DOI 10.1109/JPROC.2014.2322103
+   Zhang Y, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw5296
+   Zhang ZY, 2012, IEEE T INF TECHNOL B, V16, P1070, DOI 10.1109/TITB.2012.2206115
+   Zheng GL, 2014, IEEE ICC, P647, DOI 10.1109/ICC.2014.6883392
+NR 45
+TC 22
+Z9 25
+U1 4
+U2 28
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2168-2267
+EI 2168-2275
+J9 IEEE T CYBERNETICS
+JI IEEE T. Cybern.
+PD JAN
+PY 2023
+VL 53
+IS 1
+BP 31
+EP 43
+DI 10.1109/TCYB.2021.3088711
+EA JUL 2021
+PG 13
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Computer Science, Cybernetics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Automation & Control Systems; Computer Science
+GA 8Q1ND
+UT WOS:000732384600001
+PM 34197334
+DA 2026-01-12
+ER
+
+PT J
+AU Córcoles, J
+   Zastrow, E
+   Kuster, N
+AF Corcoles, Juan
+   Zastrow, Earl
+   Kuster, Niels
+TI On the estimation of the worst-case implant-induced RF-heating in
+   multi-channel MRI
+SO PHYSICS IN MEDICINE AND BIOLOGY
+LA English
+DT Article
+DE active implantable medical device; magnetic resonance imaging; parallel
+   transmit systems; worst-case; safety assessment
+ID ANATOMICAL MODELS; OPTIMIZATION; EXPOSURE
+AB The increasing use of multiple radiofrequency (RF) transmit channels in magnetic resonance imaging (MRI) systems makes it necessary to rigorously assess the risk of RF-induced heating. This risk is especially aggravated with inclusions of medical implants within the body. The worst-case RF-heating scenario is achieved when the local tissue deposition in the at-risk region (generally in the vicinity of the implant electrodes) reaches its maximum value while MRI exposure is compliant with predefined general specific absorption rate (SAR) limits or power requirements. This work first reviews the common approach to estimate the worst-case RF-induced heating in multi-channel MRI environment, based on the maximization of the ratio of two Hermitian forms by solving a generalized eigenvalue problem. It is then shown that the common approach is not rigorous and may lead to an underestimation of the worst-case RF-heating scenario when there is a large number of RF transmit channels and there exist multiple SAR or power constraints to be satisfied. Finally, this work derives a rigorous SAR-based formulation to estimate a preferable worst-case scenario, which is solved by casting a semidefinite programming relaxation of this original non-convex problem, whose solution closely approximates the true worst-case including all SAR constraints. Numerical results for 2, 4, 8, 16, and 32 RF channels in a 3T-MRI volume coil for a patient with a deep-brain stimulator under a head imaging exposure are provided as illustrative examples.
+C1 [Corcoles, Juan] Univ Autonoma Madrid, Escuela Politecn Super, Dept Elect & Commun Technol, C Francisco Tomas y Valiente 11, E-28049 Madrid, Spain.
+   [Zastrow, Earl; Kuster, Niels] ITIS Fdn, Zurich, Switzerland.
+   [Kuster, Niels] ETH, Dept Informat Technol & Elect Engn, Zurich, Switzerland.
+C3 Autonomous University of Madrid; Swiss Federal Institutes of Technology
+   Domain; ETH Zurich
+RP Córcoles, J (通讯作者)，Univ Autonoma Madrid, Escuela Politecn Super, Dept Elect & Commun Technol, C Francisco Tomas y Valiente 11, E-28049 Madrid, Spain.
+EM juan.corcoles@uam.es; zastrow@itis.ethz.ch
+RI Córcoles, Juan/C-5018-2014; Kuster, Niels/B-9706-2008
+OI Córcoles, Juan/0000-0002-9595-3992; Kuster, Niels/0000-0002-5827-3728
+FU AEI/FEDER, UE [TEC2016-76070-C3-1-R]; MINECO, Spain
+   [TEC2013-47106-C3-2-R]; UAM-Banco Santander [2015/ASIA/03]; Spanish
+   Ministry of Education under Jose Castillejo Research Mobility Programme
+   [JC2015-00116]
+FX The work of J Corcoles was supported by contracts TEC2016-76070-C3-1-R
+   (AEI/FEDER, UE), TEC2013-47106-C3-2-R (MINECO, Spain) and 2015/ASIA/03
+   (UAM-Banco Santander), and by the Spanish Ministry of Education under
+   grant JC2015-00116 from the Jose Castillejo Research Mobility Programme.
+CR Boyd Stephen., 2009, Convex optimization, DOI DOI 10.1017/CBO9780511804441
+   Brunner D O, 2009, 17 P INT SOC MAGN RE, P4803
+   Cabot E, 2014, P INT S EL COMP TOK, P237
+   Cabot E, 2013, BIOELECTROMAGNETICS, V34, P104, DOI 10.1002/bem.21745
+   Corcoles J, 2015, P 30 URSI SPAN S PAM, P95
+   Córcoles J, 2015, PHYS MED BIOL, V60, P7293, DOI 10.1088/0031-9155/60/18/7293
+   Eckart C, 1936, PSYCHOMETRIKA, V1, P211, DOI 10.1007/BF02288367
+   Eryaman Y, 2015, MAGN RESON MED, V73, P1896, DOI 10.1002/mrm.25324
+   GANTMACHER FR, 1959, THEORY MATRICES, V1
+   Gosselin MC, 2014, PHYS MED BIOL, V59, P5287, DOI 10.1088/0031-9155/59/18/5287
+   Graesslin I, 2012, MAGN RESON MED, V68, P1664, DOI 10.1002/mrm.24138
+   Grant MC, 2008, LECT NOTES CONTR INF, V371, P95, DOI 10.1007/978-1-84800-155-8_7
+   Homann H, 2012, MAGN RESON MATER PHY, V25, P193, DOI 10.1007/s10334-011-0281-8
+   IEC, 2010, 606012332010 IEC
+   ISO International Organization for Standardization, 2015, 109742015 ISO TS
+   Luo ZQ, 2010, IEEE SIGNAL PROC MAG, V27, P20, DOI 10.1109/MSP.2010.936019
+   Meyer C., 2000, Matrix Analysis and Applied Linear Algebra, V2
+   Murbach M, 2016, JOINT M BIOEL SOC EU
+   Murbach M, 2016, MAGN RESON MED, V76, P986, DOI 10.1002/mrm.25986
+   Nemirovski A, 1999, MATH PROGRAM, V86, P463, DOI 10.1007/s101070050100
+   Neufeld E, 2011, PHYS MED BIOL, V56, P4649, DOI 10.1088/0031-9155/56/15/002
+   Park SM, 2007, J MAGN RESON IMAGING, V26, P1278, DOI 10.1002/jmri.21159
+   Rockafellar R.T., 1970, PRINCETON MATH SERIE, V28
+   Seifert F., 2015, P INT SOC MAGN RES M, V23, P3212
+   So AMC, 2007, MATH PROGRAM, V110, P93, DOI 10.1007/s10107-006-0064-6
+   Toh KC, 1999, OPTIM METHOD SOFTW, V11-2, P545, DOI 10.1080/10556789908805762
+   Tütüncü RH, 2003, MATH PROGRAM, V95, P189, DOI 10.1007/s10107-002-0347-5
+   Wilkoff BL, 2013, HEART RHYTHM, V10, P1815, DOI 10.1016/j.hrthm.2013.10.009
+   Zastrow E, 2014, 30 URSI GEN ASS SCI
+   Zastrow E, 2016, 25 P INT SOC MAGN RE, P913
+   Zastrow E, 2014, IEEE INT SYMP ELEC, P241
+   Zhu YD, 2004, MAGNET RESON MED, V51, P775, DOI 10.1002/mrm.20011
+NR 32
+TC 12
+Z9 12
+U1 0
+U2 11
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0031-9155
+EI 1361-6560
+J9 PHYS MED BIOL
+JI Phys. Med. Biol.
+PD JUN 21
+PY 2017
+VL 62
+IS 12
+BP 4711
+EP 4727
+DI 10.1088/1361-6560/aa641b
+PG 17
+WC Engineering, Biomedical; Radiology, Nuclear Medicine & Medical Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Radiology, Nuclear Medicine & Medical Imaging
+GA EV2VS
+UT WOS:000401615200006
+PM 28252443
+DA 2026-01-12
+ER
+
+PT J
+AU Kozlov, M
+   Angelone, LM
+   Rajan, S
+AF Kozlov, Mikhail
+   Angelone, Leonardo M.
+   Rajan, Sunder
+TI Effect of Multiple Scattering on Heating Induced by Radio Frequency
+   Energy
+SO IEEE TRANSACTIONS ON ELECTROMAGNETIC COMPATIBILITY
+LA English
+DT Article
+DE Phantoms; Magnetic resonance imaging; Radio frequency; Coils; Implants;
+   Numerical models; Temperature measurement; Computational modeling; gel
+   phantom; heating; implanted medical device; radio frequency (RF) safety
+AB Heating induced by radio frequency (RF) energy may be generated in tissues near active or passive devices implanted in a patient undergoing magnetic resonance imaging (MRI) examination. Recent normative documents for the assessment of RF energy-induced heating state that the net temperature increase (Delta T) depends on the physical characteristics of the surrounding tissues and on the squared incident tangential electric field (E-tan(l)). The documents do not address the possible effect of multiple scattering from surrounding reflective interfaces, such as, for example, a plastic enclosure of the container ("phantom") used for implant testing. In our study, we investigated the effect of multiple scattering on Delta T/E-tan(l)(2) in relation to the implant location when tested in a phantom filled with a gel. The test implant was a titanium alloy rod of 100 mm in length, used as a reference implant in standard documents. The applied RF was in the 128 MHz band, corresponding to the RF generated in a 3 T MRI system. Both the numerical model and measurement provided substantial evidence that Delta T/E-tan(l)(2) depends on the distance between the rod and phantom box enclosure. In the numerical model, up to 38% variation of this quantity was observed, suggesting that location of the implant with respect to the phantom enclosure would need to be included as a parameter when evaluating RF-induced heating of implants.
+C1 [Kozlov, Mikhail] Max Plank Inst Human Cognit & Brain Sci, Dept Neurophys, D-04103 Leipzig, Germany.
+   [Angelone, Leonardo M.; Rajan, Sunder] US FDA, CDRH, Off Sci & Engn Labs, Div Biomed Phys, Silver Spring, MD 20993 USA.
+   [Angelone, Leonardo M.] NIH, Bldg 10, Bethesda, MD 20892 USA.
+C3 Max Planck Society; US Food & Drug Administration (FDA); National
+   Institutes of Health (NIH) - USA
+RP Kozlov, M (通讯作者)，Max Plank Inst Human Cognit & Brain Sci, Dept Neurophys, D-04103 Leipzig, Germany.
+EM kozlov@cbs.mpg.de; leonardo.angelone@nih.gov; sunder.rajan@fda.hhs.gov
+OI Kozlov, Mikhail/0000-0003-1702-4140
+CR [Anonymous], 2019, F218211A ASTM, DOI [10.1520/F2182-19E02, DOI 10.1520/F2182-19E02]
+   ISO TS, 2018, ISO TS 10974_2018
+   Kozlov M, 2015, IEEE ENG MED BIO, P5797, DOI 10.1109/EMBC.2015.7319709
+   Kozlov M, 2018, IEEE ANTENNAS PROP, P891, DOI 10.1109/APUSNCURSINRSM.2018.8609200
+   Kozlov M, 2018, IEEE J ELECTROMAG RF, V2, P286, DOI 10.1109/JERM.2018.2865459
+   Kozlov M, 2009, J MAGN RESON, V200, P147, DOI 10.1016/j.jmr.2009.06.005
+   Makarov S., BRAIN HUMAN BODY MOD, DOI [10.1007/978-3-030-21293-3_13, DOI 10.1007/978-3-030-21293-3_13]
+   Missoffe A, 2019, MAGN RESON MATER PHY, V32, P449, DOI 10.1007/s10334-019-00744-4
+   Panagiotelis Ioannis., 2009, Magnetom Flash, V40, P114
+   Song T, 2018, MAGN RESON MED, V80, P2726, DOI 10.1002/mrm.27346
+   Wang ZW, 2007, J MAGN RESON IMAGING, V26, P437, DOI 10.1002/jmri.20977
+NR 11
+TC 3
+Z9 3
+U1 0
+U2 9
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9375
+EI 1558-187X
+J9 IEEE T ELECTROMAGN C
+JI IEEE Trans. Electromagn. Compat.
+PD OCT
+PY 2020
+VL 62
+IS 5
+BP 2311
+EP 2316
+DI 10.1109/TEMC.2019.2950170
+PG 6
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+GA OA7SZ
+UT WOS:000577982400074
+DA 2026-01-12
+ER
+
+PT J
+AU Feng, J
+   Emerson, S
+   Simon, N
+AF Feng, Jean
+   Emerson, Scott
+   Simon, Noah
+TI Approval policies for modifications to machine learning-based software
+   as a medical device: A study of bio-creep
+SO BIOMETRICS
+LA English
+DT Article
+DE AI; ML-based SaMD; alpha-investing; gate-keeping; group-sequential;
+   online hypothesis testing
+ID MULTIPLE END-POINTS; CLINICAL-TRIALS; DESIGN
+AB Successful deployment of machine learning algorithms in healthcare requires careful assessments of their performance and safety. To date, the FDA approves locked algorithms prior to marketing and requires future updates to undergo separate premarket reviews. However, this negates a key feature of machine learning-the ability to learn from a growing dataset and improve over time. This paper frames the design of an approval policy, which we refer to as an automatic algorithmic change protocol (aACP), as an online hypothesis testing problem. As this process has obvious analogy with noninferiority testing of new drugs, we investigate how repeated testing and adoption of modifications might lead to gradual deterioration in prediction accuracy, also known as "biocreep" in the drug development literature. We consider simple policies that one might consider but do not necessarily offer any error-rate guarantees, as well as policies that do provide error-rate control. For the latter, we define two online error-rates appropriate for this context: bad approval count (BAC) and bad approval and benchmark ratios (BABR). We control these rates in the simple setting of a constant population and data source using policies aACP-BAC and aACP-BABR, which combine alpha-investing, group-sequential, and gate-keeping methods. In simulation studies, bio-creep regularly occurred when using policies with no error-rate guarantees, whereas aACP-BAC and aACP-BABR controlled the rate of bio-creep without substantially impacting our ability to approve beneficial modifications.
+C1 [Feng, Jean; Emerson, Scott; Simon, Noah] Univ Washington, Dept Biostat, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle
+RP Feng, J (通讯作者)，Univ Washington, Dept Biostat, Seattle, WA 98195 USA.
+EM jeanfeng@uw.edu
+FU NIH Office of the Director [5DP5OD019820]
+FX NIH Office of the Director, Grant/Award Number: 5DP5OD019820
+CR ALTMAN DG, 1988, STAT MED, V7, P629, DOI 10.1002/sim.4780070602
+   Asakura K, 2014, STAT MED, V33, P2897, DOI 10.1002/sim.6154
+   BENJAMINI Y, 1995, J ROY STAT SOC B, V57, P289, DOI 10.1111/j.2517-6161.1995.tb02031.x
+   Bloch DA, 2001, BIOMETRICS, V57, P1039, DOI 10.1111/j.0006-341X.2001.01039.x
+   Bloch DA, 2007, STAT MED, V26, P1193, DOI 10.1002/sim.2611
+   Cook Richard John, 1994, Controlled Clinical Trials, V15, P187, DOI 10.1016/0197-2456(94)90056-6
+   DEMETS DL, 1994, STAT MED, V13, P1341, DOI 10.1002/sim.4780131308
+   Dmitrienko A, 2007, PHARM STAT, V6, P171, DOI 10.1002/pst.291
+   Dwork C, 2015, SCIENCE, V349, P636, DOI 10.1126/science.aaa9375
+   FDA, 2019, TECHNICAL REPORT
+   Fisher R.A., 1932, STAT METHODS RES WOR, V4th, DOI [DOI 10.1007/978-1-4612-4380-96, 10.1056/NEJMc061160, DOI 10.1007/978-1-4612-4380-9_6]
+   Flerning TR, 2008, STAT MED, V27, P317, DOI 10.1002/sim.2855
+   Foster DP, 2008, J R STAT SOC B, V70, P429, DOI 10.1111/j.1467-9868.2007.00643.x
+   Gottlieb S., 2019, FDA WORKING LIFT BAR
+   Gupta H, 2010, J PHARM BIOALLIED SC, V2, P2, DOI 10.4103/0975-7406.62694
+   Hardt M, 2015, PR MACH LEARN RES, V37, P1006
+   Heagerty PJ, 2005, BIOMETRICS, V61, P92, DOI 10.1111/j.0006-341X.2005.030814.x
+   Hitchings AW, 2012, BMJ-BRIT MED J, V345, DOI 10.1136/bmj.e7941
+   International Conference on Harmonisation, 1998, ETHN FACT ACC FOR CL
+   Javanmard A., 2015, ARXIV150206197
+   Offen W, 2007, DRUG INF J, V41, P31, DOI 10.1177/009286150704100105
+   POCOCK SJ, 1977, BIOMETRIKA, V64, P191, DOI 10.1093/biomet/64.2.191
+   Ramdas A, 2018, PR MACH LEARN RES, V80
+   Ramdas A, 2017, ADV NEUR IN, V30
+   Robinson D, 2006, J ROY STAT SOC A STA, V169, P656, DOI 10.1111/j.1467-985X.2006.00430_9.x
+   Shalev-Shwartz S, 2012, FOUND TRENDS MACH LE, V4, P107, DOI 10.1561/2200000018
+   Tamhane AC, 2018, BIOMETRICS, V74, P40, DOI 10.1111/biom.12732
+   Tang D., 2010, P 16 ACM SIGKDD INT, DOI [10.1145/1835804.1835810, DOI 10.1145/1835804.1835810]
+   US Food and Drug Administration, 2017, Multiple Endpoints in Clinical Trials-Guidance for Industry
+   WASSERMAN S, 1988, J EDUC STAT, V13, P75
+   Zrnic T., 2018, ARXIV181205068
+NR 31
+TC 14
+Z9 19
+U1 0
+U2 7
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0006-341X
+EI 1541-0420
+J9 BIOMETRICS
+JI Biometrics
+PD MAR
+PY 2021
+VL 77
+IS 1
+BP 31
+EP 44
+DI 10.1111/biom.13379
+EA OCT 2020
+PG 14
+WC Biology; Mathematical & Computational Biology; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics; Mathematical & Computational
+   Biology; Mathematics
+GA QT5TL
+UT WOS:000576594900001
+PM 32981103
+OA Green Submitted
+DA 2026-01-12
+ER
+
+PT J
+AU Hsieh, HH
+   Ni, YC
+   Chang, CH
+   Shen, YH
+   Lin, ZK
+   Hsu, SL
+   Tseng, FP
+AF Hsieh, Ho-Hui
+   Ni, Yu-Ching
+   Chang, Chia-Hao
+   Shen, Yu-Hsiang
+   Lin, Zhi-Kun
+   Hsu, Shiang-Lin
+   Tseng, Fan-Pin
+TI Mathematical observer for 3D radiographic scanner design
+SO APPLIED MATHEMATICAL MODELLING
+LA English
+DT Article; Proceedings Paper
+CT 5th International Multi-Conference on Engineering and Technology
+   Innovation (IMETI)
+CY OCT 30-NOV 03, 2015
+CL Kaohsiung, TAIWAN
+DE Model observer; X-ray imaging; Medical device
+ID TOMOSYNTHESIS
+AB In the engineering processes of medical 3D radiographic scanner, detailed design elaborates each aspect of the device with complete descriptions, which may include operating parameters as well as the scanner specifications. For assessing the developments mathematically and objectively, task-based approaches are advocated for the optimization of image quality through the scanner design and imaging parameters. In this paper, we present a framework for assessing tomosynthesis scanner performance in lung lesion signal detectability through imaging parameters such as projection frames, lesion depths and anatomical background by using Hotelling observer (HO). Moreover, a channelized Hotelling observer (CHO) with efficient choices of non-linear iterative partial least squares (NIPALS) channels is implemented to reduce the large data dimensionality for computations. Area under the receiver operating characteristic curve (AUC) is computed as an objective figure-of-merit for the performance measurement that described the entire imaging chain. The presented framework is validated with our laboratory x-ray scanner and an anthropomorphic chest phantom. In our result, the performance is, evaluated as functions of AUC to the imaging parameters. Performance map shows 5 mm lung lesion detectability is worsened with cardiac projection-overlapping. Scanner performance is highly related to anatomical structures at the image background. The developed framework has presented its value on assess tomosynthesis scanner performance through anthropomorphic phantom imaging. It can be an objective method for determining scanner detailed design and imaging parameters. (C) 2017 Elsevier Inc. All rights reserved.
+C1 [Hsieh, Ho-Hui; Ni, Yu-Ching; Chang, Chia-Hao; Shen, Yu-Hsiang; Lin, Zhi-Kun; Hsu, Shiang-Lin; Tseng, Fan-Pin] Inst Nucl Energy Res, Div Hlth Phys, 1000 Wenhua Rd, Taoyuan 32546, Taiwan.
+C3 Institute of Nuclear Energy Research - Taiwan
+RP Hsieh, HH (通讯作者)，Inst Nucl Energy Res, Div Hlth Phys, 1000 Wenhua Rd, Taoyuan 32546, Taiwan.
+EM billhsies@iner.gov.tw
+OI Chang, Chia-Hao/0000-0002-4862-9436
+CR Barrett H.H., 2003, FDN IMAGE SCI
+   Brankov JG, 2009, IEEE T MED IMAGING, V28, P991, DOI 10.1109/TMI.2008.2008956
+   DEJONG S, 1993, CHEMOMETR INTELL LAB, V18, P251, DOI 10.1016/0169-7439(93)85002-X
+   Eck BL, 2015, MED PHYS, V42, P6098, DOI 10.1118/1.4929973
+   Gang GJ, 2010, MED PHYS, V37, P1948, DOI 10.1118/1.3352586
+   GELADI P, 1986, ANAL CHIM ACTA, V185, P1, DOI 10.1016/0003-2670(86)80028-9
+   Kalayeh MM, 2013, IEEE T NUCL SCI, V60, P1609, DOI 10.1109/TNS.2013.2257183
+   Kramer R., 1998, CHEMOMETRIC TECHNIQU
+   Kwan ALC, 2007, MED PHYS, V34, P275, DOI 10.1118/1.2400830
+   MYERS KJ, 1987, J OPT SOC AM A, V4, P2447, DOI 10.1364/JOSAA.4.002447
+   Park S, 2016, IEEE T MED IMAGING, V35, P1431, DOI 10.1109/TMI.2016.2515027
+   Park S, 2010, MED PHYS, V37, P6253, DOI 10.1118/1.3488910
+   Park S, 2009, IEEE T MED IMAGING, V28, P657, DOI 10.1109/TMI.2008.2008967
+   Reiser I., 2014, TOMOSYNTHESIS IMAGIN
+   ROLLAND JP, 1992, J OPT SOC AM A, V9, P649, DOI 10.1364/JOSAA.9.000649
+   Sanchez AA, 2013, MED PHYS, V40, DOI 10.1118/1.4789590
+   Sechopoulos I, 2013, MED PHYS, V40, DOI 10.1118/1.4770279
+   Smith AP, 2008, LECT NOTES COMPUT SC, V5116, P61, DOI 10.1007/978-3-540-70538-3_9
+   Wallis MG, 2012, RADIOLOGY, V262, P788, DOI 10.1148/radiol.11103514
+   Witten JM, 2010, IEEE T MED IMAGING, V29, P1050, DOI 10.1109/TMI.2010.2041514
+   Xia D, 2008, PROC SPIE, V6913, DOI 10.1117/12.772687
+   Young S, 2013, MED PHYS, V40, DOI 10.1118/1.4800501
+   Zhang J, 2010, MED PHYS, V37, P4186, DOI 10.1118/1.3460341
+NR 23
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0307-904X
+EI 1872-8480
+J9 APPL MATH MODEL
+JI Appl. Math. Model.
+PD JAN
+PY 2018
+VL 53
+BP 722
+EP 730
+DI 10.1016/j.apm.2017.09.021
+PG 9
+WC Engineering, Multidisciplinary; Mathematics, Interdisciplinary
+   Applications; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Mathematics; Mechanics
+GA FT6EO
+UT WOS:000423247300045
+DA 2026-01-12
+ER
+
+PT J
+AU Jarow, JP
+   Baxley, JH
+AF Jarow, Jonathan P.
+   Baxley, John H.
+TI Medical devices: US medical device regulation
+SO UROLOGIC ONCOLOGY-SEMINARS AND ORIGINAL INVESTIGATIONS
+LA English
+DT Article
+DE Medical devices; Regulations; Investigational device exemption
+AB Medical devices are regulated by the US Food and Drug Administration (FDA) within the Center for Devices and Radiological Health. Center for Devices and Radiological Health is responsible for protecting and promoting the public health by ensuring the safety, effectiveness, and quality of medical devices, ensuring the safety of radiation-emitting products, fostering innovation, and providing the public with accurate, science-based information about the products we oversee, throughout the total product life cycle. The FDA was granted the authority to regulate the manufacturing and marketing of medical devices in 1976. It does not regulate the practice of medicine. Devices are classified based on complexity and level of risk, and "pre-1976" devices were allowed to remain on the market after being classified without FDA review. Post-1976 devices of lower complexity and risk that are substantially equivalent to a marketed "predicate" device may be cleared through the 510(k) premarket notification process. Clinical data are typically not needed for 510(k) clearance. In contrast, higher-risk devices typically require premarket approval. Premarket approval applications must contain data demonstrating reasonable assurance of safety and efficacy, and this information typically includes clinical data. For novel devices that are not high risk, the de novo process allows FDA to simultaneously review and classify new devices. Devices that are not legally marketed are permitted to be used for clinical investigation purposes in the United States under the Investigational Device Exemptions regulation. Published by Elsevier Inc.
+C1 [Jarow, Jonathan P.; Baxley, John H.] US FDA, Silver Spring, MD 20993 USA.
+C3 US Food & Drug Administration (FDA)
+RP Jarow, JP (通讯作者)，US FDA, Silver Spring, MD 20993 USA.
+EM jonathan.jarow@fda.hhs.gov
+CR Kessler L, 1998, AM J MANAG CARE, V4, pSP129
+   Monsein LH, 1997, RADIOLOGY, V205, P1
+NR 2
+TC 38
+Z9 55
+U1 0
+U2 63
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1078-1439
+EI 1873-2496
+J9 UROL ONCOL-SEMIN ORI
+JI Urol. Oncol.-Semin. Orig. Investig.
+PD MAR
+PY 2015
+VL 33
+IS 3
+BP 128
+EP 132
+DI 10.1016/j.urolonc.2014.10.004
+PG 5
+WC Oncology; Urology & Nephrology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology; Urology & Nephrology
+GA CU1IS
+UT WOS:000363275000025
+PM 25458071
+DA 2026-01-12
+ER
+
+PT J
+AU Aronson, JK
+   Heneghan, C
+   Ferner, RE
+AF Aronson, Jeffrey K.
+   Heneghan, Carl
+   Ferner, Robin E.
+TI Medical Devices: Definition, Classification, and Regulatory Implications
+SO DRUG SAFETY
+LA English
+DT Article
+ID DESIGN; CLARIFICATION; MEDICINES; UK
+AB We propose the following definition of a medical device: "A contrivance designed and manufactured for use in healthcare, and not solely medicinal or nutritional." Current regulatory classifications of medical devices are complex and designed primarily for regulators. We propose a simpler classification, based on (1) the site of application of the device, (2) the time scale of its use, and (3) whether it has an external power source. The regulation of medical devices is less well developed than the regulation of medicinal products, which it could follow more closely. In particular, devices that incorporate medicines should be required to meet the same regulatory standards as medicinal products. This would remove the anomaly that some delivery systems that incorporate medicines are classified as devices while other similar systems that deliver the same medicines are classified as medicinal products. Some improvements might also result from more widespread use of registries, such as those used for prosthetic joint replacements. Registries would allow both a prospective examination of the performance of high-risk devices and a retrospective analysis when signals from other sources of information suggest problems. Those who apply for a marketing authorization for a new device should have to assure regulators of its quality of manufacture, safety, and efficacy before licensing. Even the most straightforward device should be shown to be useable in practice. Trials on patients, or at least simulations of use in the real world, should be practicable for most devices.
+C1 [Aronson, Jeffrey K.; Heneghan, Carl] Univ Oxford, Ctr Evidence Based Med, Nuffield Dept Primary Care Hlth Sci, Radcliffe Observ Quarter, Woodstock Rd, Oxford OX2 6GG, England.
+   [Aronson, Jeffrey K.; Ferner, Robin E.] City Hosp, West Midlands Ctr Adverse Drug React, Birmingham, W Midlands, England.
+   [Ferner, Robin E.] Univ Birmingham, Inst Clin Sci, Birmingham, W Midlands, England.
+   [Ferner, Robin E.] UCL, Inst Cardiovasc Med, London, England.
+C3 University of Oxford; University of Birmingham; University of
+   Birmingham; University of London; University College London
+RP Aronson, JK (通讯作者)，Univ Oxford, Ctr Evidence Based Med, Nuffield Dept Primary Care Hlth Sci, Radcliffe Observ Quarter, Woodstock Rd, Oxford OX2 6GG, England.; Aronson, JK (通讯作者)，City Hosp, West Midlands Ctr Adverse Drug React, Birmingham, W Midlands, England.
+EM jeffrey.aronson@phc.ox.ac.uk
+RI Aronson, Jeffrey/MFJ-1659-2025
+OI Aronson, Jeffrey/0000-0003-1139-655X
+CR Alexander K, 2000, J MED ENG TECHNOL, V24, P5
+   Altomare L, 2018, INT J ARTIF ORGANS, V41, P337, DOI 10.1177/0391398818765323
+   [Anonymous], 2019, OED ONLINE
+   [Anonymous], 2015, JAP PHARM MAN ASS PH
+   [Anonymous], 2010, Practical aspects of signal detection in pharmacovigilance: report of CIOMS Working Group VIII: Practical aspects of signal detection in pharmacovigilance: report of CIOMS Working Group VIII
+   Aronson JK, 2017, BRIT J CLIN PHARMACO, V83, P2615, DOI 10.1111/bcp.13394
+   Aronson JK, 2017, BRIT J CLIN PHARMACO, V83, P8, DOI 10.1111/bcp.12935
+   Aronson JK, 2005, DRUG SAFETY, V28, P851, DOI 10.2165/00002018-200528100-00003
+   Breckenridge A, 2004, BRIT J CLIN PHARMACO, V58, P571, DOI 10.1111/j.1365-2125.2004.02196.x
+   CEN/CLC/JTC, 2019, 3 CENCLCJTC, P3
+   European Commission, 2019, MDCG 2018 2 FUT EU M
+   European Commission, 2021, EUDAMED EUR DAT MED
+   European Medicines Agency, 2019, MED DEV
+   Frumento C, 2011, WRITE STUFF, V20, P84
+   Heneghan CJ, 2017, BMJ OPEN, V7, DOI 10.1136/bmjopen-2017-017125
+   International Medical Device Regulators Forum, 2019, IMDRF
+   Lübbeke A, 2018, HEALTH POLICY, V122, P548, DOI 10.1016/j.healthpol.2018.03.010
+   Luk A, 2013, THER DELIV, V4, P471, DOI [10.4155/TDE.13.17, 10.4155/tde.13.17]
+   Maisel WH, 2004, ANN INTERN MED, V140, P296, DOI 10.7326/0003-4819-140-4-200402170-00012
+   Medicines and Healthcare products Regulatory Agency (MHRA), 2019, FURTH GUID NOT REG M
+   Morrison RJ, 2015, CTS-CLIN TRANSL SCI, V8, P594, DOI 10.1111/cts.12315
+   Privitera MB, 2017, APPL ERGON, V59, P251, DOI 10.1016/j.apergo.2016.08.034
+   US Food and Drug Administration, 2019, MED DEV OV
+   US Food and Drug Administration, 2019, COMB PROD GUID DOC
+   US Food and Drug Administration, 2019, DEV CLASS PLAN
+   US Food and Drug Administration, 2019, PROD COD CLASS FIL
+   US Food and Drug Administration, 2019, PROD CLASS COR DRUG
+   US Food and Drug Administration, 2019, GLOB UN DEV ID DAT G
+   Wang CL, 2010, PEDIATRICS, V126, P247, DOI 10.1542/peds.2010-0528
+   Wilkinson J, 2016, BIOMED ENG-BIOMED TE, V61, P233, DOI 10.1515/bmt-2015-0142
+   World Health Organization, 2019, Medical Devices
+NR 31
+TC 69
+Z9 78
+U1 3
+U2 28
+PU ADIS INT LTD
+PI NORTHCOTE
+PA 5 THE WAREHOUSE WAY, NORTHCOTE 0627, AUCKLAND, NEW ZEALAND
+SN 0114-5916
+EI 1179-1942
+J9 DRUG SAFETY
+JI Drug Saf.
+PD FEB
+PY 2020
+VL 43
+IS 2
+BP 83
+EP 93
+DI 10.1007/s40264-019-00878-3
+PG 11
+WC Public, Environmental & Occupational Health; Pharmacology & Pharmacy;
+   Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Pharmacology & Pharmacy;
+   Toxicology
+GA KI8RF
+UT WOS:000511624700002
+PM 31845212
+DA 2026-01-12
+ER
+
+PT J
+AU Rodriguez, A
+   Smielewski, P
+   Rosenthal, E
+   Moberg, D
+AF Rodriguez, Anna
+   Smielewski, Peter
+   Rosenthal, Eric
+   Moberg, Dick
+TI Medical Device Connectivity Challenges Outline the Technical
+   Requirements and Standards For Promoting Big Data Research and
+   Personalized Medicine in Neurocritical Care
+SO MILITARY MEDICINE
+LA English
+DT Article; Proceedings Paper
+CT Military Health System Research Symposium (MHSRS)
+CY 2016
+CL FL
+ID TRAUMATIC BRAIN-INJURY
+AB Brain injuries are complicated medical problems and their management requires data from disparate sources to extract actionable information. In neurocritical care, interoperability is lacking despite the perceived benefits. Several efforts have been underway, but none have been widely adopted, underscoring the difficulty of achieving this goal. We have identified the current pain points of data collection and integration based on the experience with two large multi-site clinical studies: Transforming Research And Clinical Knowledge in Traumatic Brain Injury (TRACK-TBI) in the United States and Collaborative European Neuro Trauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) in Europe. The variability of measurements across sites remains a barrier to uniform data collection. We found a need for annotation standards and for a standardized archive format for high-resolution data. Overall, the hidden cost for successful data collection was initially underestimated. Although the use of bedside data integration solutions, such as the Moberg's Component Neuromonitoring System (Moberg Research, Inc., Ambler, PA, USA) or ICM+ software (Cambridge Enterprise, Cambridge, UK), facilitated the homogenous collection of synchronized data, there remain issues that need to be addressed by the neurocritical care community. To this end, we have organized a Working Group on Neurocritical Care Informatics, whose next step is to create an overarching informatics framework that takes advantage of the collected information to answer scientific questions and to accelerate the translation of trial results to actions benefitting military medicine.
+C1 [Rodriguez, Anna; Moberg, Dick] Moberg Res Inc, 224 South Maple St, Ambler, PA 19002 USA.
+   [Smielewski, Peter] Univ Cambridge, Dept Clin Neurosci, Brain Phys Lab, Div Neurosurg, Cambridge Biomed Campus,Hills Rd, Cambridge CB2 0QQ, England.
+   [Rosenthal, Eric] Massachusetts Gen Hosp, Dept Neurol, Lunder Neurosci ICU 6, 55 Fruit St, Boston, MA 02114 USA.
+C3 University of Cambridge; Harvard University; Harvard University Medical
+   Affiliates; Massachusetts General Hospital
+RP Rodriguez, A (通讯作者)，Moberg Res Inc, 224 South Maple St, Ambler, PA 19002 USA.
+RI Rosenthal, Eric/A-2085-2017
+OI Rosenthal, Eric/0000-0003-3900-356X
+FU U.S. Army Medical Research and Materiel Command [W81XWH-09-C-0055]
+FX This study was supported in part by the U.S. Army Medical Research and
+   Materiel Command under contract no. W81XWH-09-C-0055.
+CR [Anonymous], 2015, J NEUROANAESTH CRIT
+   Aries MJH, 2012, CRIT CARE MED, V40, P2456, DOI 10.1097/CCM.0b013e3182514eb6
+   Cabeleira M, 16 INT S INT PRESS N
+   Citerio G, 2015, CURR OPIN CRIT CARE, V21, P113, DOI 10.1097/MCC.0000000000000179
+   Czosnyka Marek, 2007, Neurosurg Focus, V22, pE10
+   Defense and Veterans Brain Injury Center, DOD NUMB TRAUM BRAIN
+   Faul MX., 2010, Centers for Disease Control and Prevention, National Center for Injury Prevention and Control
+   Feyen BFE, 2012, MINERVA ANESTESIOL, V78, P949
+   Lazaridis C, 2016, ACTA NEUROCHIR SUPPL, V122, P117, DOI 10.1007/978-3-319-22533-3_23
+   Le Roux P., 2014, Neurocritical care, V21
+   Maas AIR, 2015, NEUROSURGERY, V76, P67, DOI 10.1227/NEU.0000000000000575
+   Maas AIR, 2012, J NEUROTRAUM, V29, P32, DOI 10.1089/neu.2010.1599
+   Moberg RS, 2013, MONITORING NEUROCRIT, P391
+   Oddo M, 2012, CURR OPIN CRIT CARE, V18, P111, DOI 10.1097/MCC.0b013e32835132a5
+   Olson DM, 2012, NEUROCRIT CARE, V16, P55, DOI 10.1007/s12028-011-9613-9
+   Rodriguez A, 2015, Iproceedings, V1, pe12, DOI 10.2196/iproc.4697
+   Stead M, 2016, J CLIN NEUROPHYSIOL, V33, P403, DOI 10.1097/WNP.0000000000000257
+   Vespa P, 2014, NEUROCRIT CARE, V21, P270, DOI 10.1007/s12028-014-0049-x
+   Yue JK, 2013, J NEUROTRAUM, V30, P1831, DOI 10.1089/neu.2013.2970
+NR 19
+TC 13
+Z9 16
+U1 0
+U2 5
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0026-4075
+EI 1930-613X
+J9 MIL MED
+JI Milit. Med.
+PD MAR-APR
+PY 2018
+VL 183
+SU S
+BP 99
+EP 104
+DI 10.1093/milmed/usx146
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC General & Internal Medicine
+GA GC0JM
+UT WOS:000429463600014
+PM 29635618
+DA 2026-01-12
+ER
+
+PT J
+AU Singh, A
+   Chatterjee, K
+   Satapathy, SC
+AF Singh, Ashish
+   Chatterjee, Kakali
+   Satapathy, Suresh Chandra
+TI TrIDS: an intelligent behavioural trust based IDS for smart healthcare
+   system
+SO CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND
+   APPLICATIONS
+LA English
+DT Article
+DE Smart healthcare system; Smart medical devices; Intrusion detection
+   system; Medical cyber-physical system; SMD behavioural trust; Decision
+   rules; Analytical hierarchy process; Beta reputation model
+ID INTRUSION DETECTION SYSTEM; ACCESS-CONTROL MODEL; MANAGEMENT; SELECTION;
+   NETWORKS; FUTURE; AWARE
+AB The Medical Cyber-Physical Systems (MCPS) are composed of several medical devices and low-cost sensors for real-time diagnosis, monitoring, and decision-making. Often, the MCPS sensitive data are processed by a trusted third party. Thus, the movement of MCPS sensitive data from the data owner to the third party becomes vulnerable to many malicious activities. Also, insider attacks can be easily performed, leaking the patient's confidential data. To overcome such security issues, the MCPS needed an Intrusion Detection System (IDS) to identify malicious activities and monitor network traffic in real-time. This paper proposes an IDS based on the behavioural trust of the Smart Medical Device (SMD) like the Medical Smart Phone (MSP). The trust value of the SMD/MSP can be evaluated using different behavioural parameters with the beta reputation model. A set of decision rules based on the dynamically computed trust degree has been proposed to check the node's intrusive level and alert generation process. The performance of the proposed model shows 93.9% accuracy. The time and space complexity (time complexity = O(n(3)) and space complexity = O(1)) and CPU overhead of the proposed model is also computed. These results show the improved performance of the proposed model.
+C1 [Singh, Ashish; Satapathy, Suresh Chandra] KIIT Deemed Univ, Sch Comp Engn, Bhubaneswar 751024, Odisha, India.
+   [Chatterjee, Kakali] Natl Inst Technol Patna, Dept Comp Sci & Engn, Patna 800005, Bihar, India.
+C3 Kalinga Institute of Industrial Technology (KIIT); National Institute of
+   Technology (NIT System); National Institute of Technology Patna
+RP Singh, A (通讯作者)，KIIT Deemed Univ, Sch Comp Engn, Bhubaneswar 751024, Odisha, India.
+EM ashishashish307@gmail.com; kakali@nitp.ac.in;
+   suresh.satapathyfcs@kiit.ac.in
+RI Singh, Ashish/OEP-3107-2025
+OI Singh, Ashish/0000-0001-5974-0415
+CR Ackerman MJ, 2010, TELEMED J E-HEALTH, V16, P93, DOI 10.1089/tmj.2009.0153
+   Agu Emmanuel, 2013, 2013 IEEE International Conference on Sensing, Communications and Networking (SECON), P76, DOI 10.1109/SAHCN.2013.6644964
+   Aishwarya R., 2022, ICT Systems and Sustainability: Proceedings of ICT4SD 2021. Lecture Notes in Networks and Systems (321), P65, DOI 10.1007/978-981-16-5987-4_7
+   Alohali MA, 2022, COGN NEURODYNAMICS, V16, P1045, DOI 10.1007/s11571-022-09780-8
+   Althobaiti MM, 2021, MEASUREMENT, V186, DOI 10.1016/j.measurement.2021.110145
+   Alyona S., 2014, Inf. Technol. Manag. Sci, V17, P126
+   Anguraj DK, 2019, WIRELESS PERS COMMUN, V104, P1, DOI 10.1007/s11277-018-6005-x
+   [Anonymous], 2008 CYBERATTACK US
+   Ashtiani M, 2016, SOFT COMPUT, V20, P399, DOI 10.1007/s00500-014-1516-1
+   Chatterjee K., 2019, INT J COMPUT INTELL, V2, P515
+   Chin T., 2001, AM MED NEWS, V44, P18
+   Chun BN., 2003, INTEL RES BERKELEY T, V33, P1
+   Daabaj K., 2010, Proceedings 2010 IEEE/IFIP 8th International Conference on Embedded and Ubiquitous Computing (EUC 2010), P666, DOI 10.1109/EUC.2010.106
+   Deshpande S, 2018, Int. J. Netw. Secur., V20, P291
+   Dey N, 2018, J MED SYST, V42, DOI 10.1007/s10916-018-0921-x
+   Duma C, 2006, INT WORKSHOP DATABAS, P692, DOI 10.1109/DEXA.2006.21
+   Dutta AK, 2021, LECT NOTES COMPUT SC, V12716, P86, DOI 10.1007/978-3-030-78086-9_6
+   Eltanbouly S. S., 2021, MASTERS THESIS
+   Fang WD, 2016, J NETW COMPUT APPL, V59, P88, DOI 10.1016/j.jnca.2015.06.013
+   Ghugar Umashankar, 2018, International Journal of Information Technology, V10, P489, DOI [10.1007/s41870-018-0147-7, 10.1007/s41870-018-0147-7]
+   Ghugar U, 2019, J COMPUT NETW COMMUN, V2019, DOI 10.1155/2019/2054298
+   Giraldo J, 2018, ACM COMPUT SURV, V51, DOI 10.1145/3203245
+   Guo J, 2011, IEEE INT CONF TRUST, P142, DOI 10.1109/TrustCom.2011.21
+   Guzman NCH, 2020, SYSTEMS ENG, V23, P189, DOI 10.1002/sys.21509
+   Haque SA, 2014, INT J DISTRIB SENS N, DOI 10.1155/2014/217415
+   Hawrylak P. J., 2012, Proceedings of the 2012 5th International Symposium on Resilient Control Systems (ISRCS), P161, DOI 10.1109/ISRCS.2012.6309311
+   Hu H, 2017, PEER PEER NETW APPL, V10, P262, DOI 10.1007/s12083-015-0425-0
+   Hu L., 2012, 2012 IEEE 15th International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing Workshops, P25, DOI DOI 10.1109/ISORCW.2012.15
+   Huebsch R., 2005, CIDR 2005 2 BIENNIAL, P28
+   Celdrán AH, 2018, SUSTAIN COMPUT-INFOR, V19, P138, DOI 10.1016/j.suscom.2018.02.010
+   Idowu SA., 2015, AM J SOFTW ENG APPL, V4, P71
+   INTELLIGENCE T.:, SAMSAM TARGETED RANS
+   Jagtap SS, 2021, FUTURE GENER COMP SY, V119, P84, DOI 10.1016/j.future.2021.02.001
+   Jiang WJ, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2906151
+   Jing SW, 2018, MATH PROBL ENG, V2018, DOI 10.1155/2018/9253643
+   Jsang A., 2002, P 15 BLED EL COMM C, P1
+   Junqi Zhang, 2010, Proceedings 2010 IEEE/IFIP 8th International Conference on Embedded and Ubiquitous Computing (EUC 2010), P484, DOI 10.1109/EUC.2010.80
+   Kerrache CA, 2017, VEH COMMUN, V9, P254, DOI 10.1016/j.vehcom.2016.11.010
+   Kocsis Imre, 2016, International Journal of Cloud Computing, V5, P91, DOI 10.1504/ijcc.2016.075101
+   Kshirsagar Deepak, 2023, Cyber Physical Systems, P244, DOI [10.1080/23335777.2021.2023651, 10.1080/23335777.2021.2023651]
+   Lamba A, 2020, SSRN Electronic Journal, DOI 10.2139/ssrn.3517474
+   Lee I, 2010, DES AUT CON, P743, DOI 10.1145/1837274.1837463
+   Li W., 2014, IFIP INT C TRUST MAN, P61
+   Li Zhichun., 2006, 2006 SIGCOMM Workshop on Large- Scale Attack Defence (LSAD), Pisa, Italy, P115, DOI DOI 10.1145/1162666.1162669
+   Loukas G, 2018, IEEE ACCESS, V6, P3491, DOI 10.1109/ACCESS.2017.2782159
+   Lu K, 2016, PROCEDIA COMPUT SCI, V94, P366, DOI 10.1016/j.procs.2016.08.056
+   Luo Yadan., 2020, P 37 INT C MACH LEAR, P6468
+   Manuel P, 2015, ANN OPER RES, V233, P281, DOI 10.1007/s10479-013-1380-x
+   Markoff J., 2008, New York Times, V12, P27
+   Meng WZ, 2020, FUTURE GENER COMP SY, V108, P1258, DOI 10.1016/j.future.2018.06.007
+   Meng WZ, 2018, IEEE ACCESS, V6, P7234, DOI 10.1109/ACCESS.2017.2772294
+   Meng WZ, 2017, J NETW COMPUT APPL, V78, P162, DOI 10.1016/j.jnca.2016.11.012
+   Meng YX, 2013, INT J COMPUT INT SYS, V6, P626, DOI 10.1080/18756891.2013.802114
+   Milenkovic A, 2006, COMPUT COMMUN, V29, P2521, DOI 10.1016/j.comcom.2006.02.011
+   Mui L., 2002, Proceedings of the 35th Annual Hawaii International Conference on System Sciences, P2431, DOI 10.1109/HICSS.2002.994181
+   Neha, 2019, WIRELESS PERS COMMUN, V108, P281, DOI 10.1007/s11277-019-06403-0
+   Peng K, 2010, INT CONF COMP SCI, P1, DOI 10.1109/ICCSIT.2010.5564459
+   Porras P.A., 1997, 1997 NATL INFORM SYS, P1
+   Raghebi Z, 2013, INT ISC CONF INFO SE
+   Rajeshkumar G, 2017, WIRELESS PERS COMMUN, V94, P1993, DOI 10.1007/s11277-016-3349-y
+   Ruan X, 2016, IEEE T INF FOREN SEC, V11, P176, DOI 10.1109/TIFS.2015.2482465
+   Sabater J., 2001, Proceedings of the Fifth International Conference on Autonomous Agents, P194, DOI 10.1145/375735.376110
+   Sadreazami H, 2018, IEEE T SIGNAL INF PR, V4, P137, DOI 10.1109/TSIPN.2017.2749976
+   Sampigethaya K, 2013, P IEEE, V101, P1834, DOI 10.1109/JPROC.2012.2235131
+   Schirner G, 2013, COMPUTER, V46, P36, DOI 10.1109/MC.2013.31
+   Semwal P., 2022, HDB BIG DATA ANALYTI, P131, DOI DOI 10.1007/978-3-030-74753-4_9
+   Shaikh RA, 2009, IEEE T PARALL DISTR, V20, P1698, DOI 10.1109/TPDS.2008.258
+   Sharma M, 2021, IEEE CAN J ELECT COM, V44, P246, DOI 10.1109/ICJECE.2021.3053231
+   Singh A., 2018, INT J COMPUT INTELL, V2, P771
+   Singh A., 2017, 2017 14 IEEE INDIA C, P16
+   Singh A, 2020, J AMB INTEL HUM COMP, V11, P2117, DOI 10.1007/s12652-019-01240-2
+   Singh A, 2019, J AMB INTEL HUM COMP, V10, P4547, DOI 10.1007/s12652-018-1138-z
+   Singh A, 2019, MULTIMED TOOLS APPL, V78, P28309, DOI 10.1007/s11042-019-07923-4
+   SNAPP SR, 1991, 14TH NATIONAL COMPUTER SECURITY CONFERENCE - INFORMATION SYSTEMS SECURITY: REQUIREMENTS & PRACTICES, PROCEEDINGS, VOLS 1 AND 2, P167
+   Sunagar PC, 2022, Deep learning applications for cyber-physical systems, P160
+   Thakur S, 2021, COMPUT ELECTR ENG, V91, DOI 10.1016/j.compeleceng.2021.107044
+   Tofallis C, 2015, J OPER RES SOC, V66, P1352, DOI 10.1057/jors.2014.103
+   Vasani V, 2019, LECT NOTE NETW SYST, V56, P339, DOI 10.1007/978-981-13-2354-6_36
+   Wang K, 2016, ACM T EMBED COMPUT S, V16, DOI 10.1145/2886100
+   Willmott CJ, 2005, CLIMATE RES, V30, P79, DOI 10.3354/cr030079
+   Xia H, 2011, IET WIREL SENS SYST, V1, P248, DOI 10.1049/iet-wss.2011.0042
+   Yaacoub JPA, 2020, MICROPROCESS MICROSY, V77, DOI 10.1016/j.micpro.2020.103201
+   Yilmaz T, 2010, SENSORS-BASEL, V10, P10837, DOI 10.3390/s101210837
+   Zhang YC, 2011, IEEE T SMART GRID, V2, P796, DOI 10.1109/TSG.2011.2159818
+   Zimmer C., 2010, Proceedings of the 1st ACM/IEEE International Conference on Cyber-Physical Systems, P109
+NR 85
+TC 11
+Z9 11
+U1 0
+U2 4
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1386-7857
+EI 1573-7543
+J9 CLUSTER COMPUT
+JI Cluster Comput.
+PD APR
+PY 2023
+VL 26
+IS 2
+BP 903
+EP 925
+DI 10.1007/s10586-022-03614-2
+EA MAY 2022
+PG 23
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA A9XA3
+UT WOS:000800966100001
+DA 2026-01-12
+ER
+
+PT J
+AU Lukowski, G
+   Weihe, T
+   Köhnlein, J
+   Schlüter, R
+   Schultze, N
+   Quade, A
+   Wendler, C
+   Rackow, K
+   Dittrich, A
+   Werner, S
+   Ehlbeck, J
+   Weltmann, KD
+AF Lukowski, G.
+   Weihe, T.
+   Koehnlein, J.
+   Schlueter, R.
+   Schultze, N.
+   Quade, A.
+   Wendler, C.
+   Rackow, K.
+   Dittrich, A.
+   Werner, S.
+   Ehlbeck, J.
+   Weltmann, K. -D.
+TI Renewable nano-structured coatings on medical devices prevent the
+   transmission of clinically relevant pathogens
+SO SURFACE & COATINGS TECHNOLOGY
+LA English
+DT Article
+DE Nano-structure; Renewable coating; Physical plasma; Medical devices;
+   Disease transmission; Multiple drug resistant pathogens
+ID PLASMA SURFACE MODIFICATION; WALL TEICHOIC-ACIDS; BIOFILM FORMATION;
+   ESCHERICHIA-COLI; ADHESION; POLYMERS; MANAGEMENT; BACTERIA; STATE
+AB Multi-resistant pathogens are one of the main challenges in health care as resistance genes vastly spread globally. One of the major causes for the dissemination of nosocomial infections is the contamination of medical devices. However, the common authorized sterilization processes are not suitable for heat sensitive medical devices. Against that background, a coating technique has been developed, which deposits a renewable layer on the surface of a medical device. For that reason, nanostructured coatings with cetyl palmitate (CTP) and silicium (Sicarstar)-nanoparticles have been tested. The different types of nanoparticles have been applied on polyethylene (PE) surfaces. PE is a material, which has been frequently used for medical devices like angiographic catheters. Before every coating, the surfaces have been treated in an anisothermal physical plasma, which has been carried out in a low-pressure discharge regime. The freshly coated specimens have been tested by several physical methods and biological techniques to obtain surface parameters such as the layer coverage of the substrate or the roughness and the cytotoxicity or the antimicrobial efficacy, respectively. First investigations confirm that the coatings considerably decrease the adsorption of microbial deposits. The coatings can be detached in a subsequent cleaning process. This process could be embedded in the reprocessing process as well as into an industrial context.
+C1 [Lukowski, G.; Schultze, N.] Inst Marine Biotechnol, Walther Rathenau Str 49A, D-17489 Greifswald, Germany.
+   [Weihe, T.; Quade, A.; Rackow, K.; Dittrich, A.; Ehlbeck, J.; Weltmann, K. -D.] Leibniz Inst Plasma Sci & Technol, Felix Hausdorff Str 2, D-17489 Greifswald, Germany.
+   [Koehnlein, J.; Werner, S.] HygCen Germany GmbH, Accredited Testing Lab Hyg & Med Devices, Bornhovedstr 78, D-19055 Schwerin, Germany.
+   [Schlueter, R.] Univ Greifswald, Dept Biol, Imaging Ctr, FL Jahn Str 15, D-17489 Greifswald, Germany.
+   [Wendler, C.] Micromod Partikeltechnol GmbH, Friedrich Barnewitz Str 4, Rostock, Germany.
+C3 Leibniz Institut fur Plasmaforschung und Technologie; Universitat
+   Greifswald
+RP Lukowski, G (通讯作者)，Inst Marine Biotechnol, Walther Rathenau Str 49A, D-17489 Greifswald, Germany.
+EM lukowski@uni-greifswald.de
+FU German Federal Ministry of Education and Research [13N11354, 13N11355,
+   13N11357, 13N11358]
+FX This work has been supported by the German Federal Ministry of Education
+   and Research (grant number: 13N11354, 13N11355, 13N11357, and 13N11358).
+CR Aertsen A, 2004, CRIT REV MICROBIOL, V30, P263, DOI 10.1080/10408410490884757
+   Barnes SL, 2014, INFECT CONT HOSP EP, V35, P1156, DOI 10.1086/677632
+   Besnard V, 2002, VET RES, V33, P359, DOI 10.1051/vetres:2002022
+   Briandet R, 2001, COLLOID SURFACE B, V21, P299, DOI 10.1016/S0927-7765(00)00213-7
+   Brown S, 2013, ANNU REV MICROBIOL, V67, P313, DOI 10.1146/annurev-micro-092412-155620
+   Campanile F, 2009, ANN CLIN MICROB ANTI, V8, DOI 10.1186/1476-0711-8-22
+   Canal C, 2004, J ADHES SCI TECHNOL, V18, P1077, DOI 10.1163/1568561041257487
+   Cerca N, 2005, RES MICROBIOL, V156, P506, DOI 10.1016/j.resmic.2005.01.007
+   Cheng G, 2008, ANGEW CHEM INT EDIT, V47, P8831, DOI 10.1002/anie.200803570
+   Cooper BS, 2004, BMJ-BRIT MED J, V329, P533, DOI 10.1136/bmj.329.7465.533
+   Cunningham E, 2009, FOOD CONTROL, V20, P1141, DOI 10.1016/j.foodcont.2009.03.005
+   David P, 2018, INFINI, P99
+   Dettenkofer  M., 2011, DEFINITIONEN NOSOKOM
+   Edgeworth JA, 2009, P NATL ACAD SCI USA, V106, P3479, DOI 10.1073/pnas.0813342106
+   Ehlbeck J, 2011, J PHYS D APPL PHYS, V44, DOI 10.1088/0022-3727/44/1/013002
+   Fätkenheuer G, 2003, ANN HEMATOL, V82, pS149, DOI 10.1007/s00277-003-0769-z
+   Fricke K, 2012, PLASMA CHEM PLASMA P, V32, P801, DOI 10.1007/s11090-012-9378-8
+   Fu GF, 2005, J PHYS CHEM B, V109, P8889, DOI 10.1021/jp0502196
+   Garcia-Armisen T, 2004, J MICROBIOL METH, V58, P269, DOI 10.1016/j.mimet.2004.04.014
+   GOTTENBOS B, J BIOMEDICAL MAT RES, V50, P208
+   Guruvenket S, 2004, APPL SURF SCI, V236, P278, DOI 10.1016/j.apsusc.2004.04.033
+   Handtke S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0085625
+   Hegemann D, 2003, NUCL INSTRUM METH B, V208, P281, DOI 10.1016/S0168-583X(03)00644-X
+   Hermansson M, 1999, COLLOID SURFACE B, V14, P105, DOI 10.1016/S0927-7765(99)00029-6
+   Holland LM, 2011, MICROBIOL-SGM, V157, P408, DOI 10.1099/mic.0.042234-0
+   Jakobsen RA, 2011, FOOD MICROBIOL, V28, P492, DOI 10.1016/j.fm.2010.10.017
+   Japanese Standards Association, 2000, Z2801 JIS JAP STAND
+   Jokinen V, 2012, BIOMICROFLUIDICS, V6, DOI 10.1063/1.3673251
+   Kammari R., 2017, Emerging Nanotechnologies for Diagnostics, Drug Delivery and Medical Devices, P105, DOI DOI 10.1016/B978-0-323-42978-8.00006-1
+   Kikani P, 2013, SURF ENG, V29, P211, DOI 10.1179/1743294413Y.0000000111
+   Koprivnjak T, 2008, INFECT IMMUN, V76, P2169, DOI 10.1128/IAI.01705-07
+   Lindbäck T, 2010, VET RES, V41, DOI 10.1051/vetres/2009056
+   LISTON EM, 1993, J ADHES SCI TECHNOL, V7, P1091, DOI 10.1163/156856193X00600
+   Liu JY, 2017, RES MICROBIOL, V168, P188, DOI 10.1016/j.resmic.2016.11.002
+   Magill SS, 2014, NEW ENGL J MED, V370, P1198, DOI 10.1056/NEJMoa1306801
+   Mahltig B, 2004, J SOL-GEL SCI TECHN, V32, P219, DOI 10.1007/s10971-004-5791-7
+   Maki DG, 1997, ANN INTERN MED, V127, P257, DOI 10.7326/0003-4819-127-4-199708150-00001
+   Matthes R, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0070462
+   McLain VC, 2007, INT J TOXICOL, V26, P115, DOI 10.1080/10915810601163962
+   Monteiro DR, 2009, INT J ANTIMICROB AG, V34, P103, DOI 10.1016/j.ijantimicag.2009.01.017
+   Necas  D., 2013, GWYDDION
+   Nepal D, 2008, NANO LETT, V8, P1896, DOI 10.1021/nl080522t
+   Neuhaus FC, 2003, MICROBIOL MOL BIOL R, V67, P686, DOI 10.1128/MMBR.67.4.686-723.2003
+   Novák I, 2006, PLASMA PROCESS POLYM, V3, P355, DOI 10.1002/ppap.200500163
+   O'Toole G, 2000, ANNU REV MICROBIOL, V54, P49, DOI 10.1146/annurev.micro.54.1.49
+   Oliver J.D., 1993, STARVATION BACTERIA, P239, DOI [DOI 10.1007/978-1-4899-2439-1_11, 10.1007/978-1-4899-2439-1_11]
+   Ong YL, 1999, LANGMUIR, V15, P2719, DOI 10.1021/la981104e
+   RAHMAN I, 1994, APPL ENVIRON MICROB, V60, P3573, DOI 10.1128/AEM.60.10.3573-3578.1994
+   Rai A, 2010, J MATER CHEM, V20, P6789, DOI 10.1039/c0jm00817f
+   Ramamurthy T, 2014, FRONT PUBLIC HEALTH, V2, DOI 10.3389/fpubh.2014.00103
+   Ramires PA, 2000, J BIOMED MATER RES, V51, P535, DOI 10.1002/1097-4636(20000905)51:3<535::AID-JBM31>3.0.CO;2-P
+   Reader J., 1980, NSRDS NBS, V68
+   Rice S A, 2000, J Infect Chemother, V6, P115, DOI 10.1007/PL00012150
+   Seil JT, 2012, INT J NANOMED, V7, P2767, DOI 10.2147/IJN.S24805
+   Snyder  A., 2005, GOOGLE PATENTS
+   Tacconelli E., 2017, Global priority list of antibiotic-resistant bacteria to guide research, discovery, and development of new antibiotics
+   Teixeira P, 1999, J ADHES SCI TECHNOL, V13, P1287, DOI 10.1163/156856199X00190
+   Voigt N, 2014, EUR J PHARM BIOPHARM, V87, P19, DOI 10.1016/j.ejpb.2014.02.013
+   von Eiff C, 2005, DRUGS, V65, P179, DOI 10.2165/00003495-200565020-00003
+   Vuong C, 2002, MICROBES INFECT, V4, P481, DOI 10.1016/S1286-4579(02)01563-0
+   Winstel V, 2014, INT J MED MICROBIOL, V304, P215, DOI 10.1016/j.ijmm.2013.10.009
+   Yoda I, 2014, BMC MICROBIOL, V14, DOI 10.1186/s12866-014-0234-2
+   2006, ANGEW CHEM INT EDIT, V45, P6759, DOI DOI 10.1002/ANIE.200602738
+   2015, MUCOSAL IMMUNOL, V8, P362, DOI DOI 10.1038/MI.2014.73
+   2015, NATURE, V525, P247, DOI DOI 10.1038/NATURE15369
+   2010, INFECT CONT HOSP EP, V31, P107, DOI DOI 10.1086/650197
+   2012, INTENS CARE MED, V38, P1662, DOI DOI 10.1007/S00134-012-2645-6
+   2010, BIOMATERIALS, V31, P3674, DOI DOI 10.1016/J.BIOMATERIALS.2010.01.071
+   2015, NATURE, V525, P193
+NR 69
+TC 8
+Z9 8
+U1 1
+U2 16
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0257-8972
+EI 1879-3347
+J9 SURF COAT TECH
+JI Surf. Coat. Technol.
+PD MAY 25
+PY 2019
+VL 366
+BP 227
+EP 237
+DI 10.1016/j.surfcoat.2019.02.066
+PG 11
+WC Materials Science, Coatings & Films; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA HU6CN
+UT WOS:000465366400027
+DA 2026-01-12
+ER
+
+PT J
+AU Allard, B
+   Begri, R
+   Mercadal, L
+AF Allard, B.
+   Begri, R.
+   Mercadal, L.
+TI Regulatory and medico-economic aspects
+SO NEPHROLOGIE & THERAPEUTIQUE
+LA French
+DT Article
+DE On-line hemodiafiltration; HDF; Dialysate; Dialysis fluid; Analytical
+   control; Dialysis water
+ID COST-EFFECTIVENESS ANALYSIS; ONLINE HEMODIAFILTRATION; HEMODIALYSIS;
+   MORTALITY
+AB HDF is used by 35% of the hemodialysis patients in France, according to the REIN registry. The extra cost per session was evaluated at 1 euro per session and the extra cost in QALYS mainly depends on the survival increase imputed to HDF.
+   From a regulatory standpoint, dialysis water is neither a medicinal product nor a medical device, but plays a major role in the treatment of dialysis patients. The controls and acceptable limits for water and dialysis fluid produced for conventional high-flux hemodialysis and on-line hemodiafiltration are described in various national and international guidelines applicable in France.
+   The French circulars of 2000 and 2007 relating to the OL-HDF technique are sometimes in contradiction or inconsistent with the international AFNOR recommendations applicable in France since 2019, particularly in terms of microbiological requirements for ultrafiltered dialysates.
+   The ISO 23500 standard indicates that it is not necessary to test dialysis fluid for bacterial growth and endotoxins when the production system is equipped with an endotoxin retention filter validated by the manufacturer, and used and monitored according to the manufacturer's instructions.
+   Thus, according to the international standard, dialysis care facilities could disregard microbiological controls on dialysates that have been ultrafiltered once or twice; care facilities are encouraged to determine their monitoring policy based on a risk analysis of their process for producing water for the dilution of concentrated dialysis solutions and various dialysis fluids. The various stakeholders and their interfaces in the management of the risks associated with the supply of injectable quality liquids must be taken into account: the drinking water supplier, the device manufacturers of the sector and the multidisciplinary team of the health institutions. The essential revision of the French circulars must be based on the ISO 23500 Standard which corresponds to the state of the art, and if necessary be accompanied by specifically French recommendations such as the requirement to use a double pass reverse osmosis or equivalent system in the OL-HDF dialysate production process.
+   Authorizing the OL-HDF technique for self-care dialysis units including home treatment, if the risk analysis of the dialysate production process is favorable would allow patients treated in these institutions to benefit from this technique. (C) 2022 Societe francophone de nephrologie, dialyse et transplantation. Published by Elsevier Masson SAS. All rights reserved.
+C1 [Allard, B.; Begri, R.] ECHO, Nantes, France.
+   [Mercadal, L.] Hop Sorbonne Univ, Serv Nephrol, Paris, France.
+RP Begri, R (通讯作者)，ECHO, Nantes, France.
+EM rbegri@echo-sante.com; lucile.mercadal@aphp.fr
+CR [Anonymous], 2004, S93310 AFNOR NF
+   [Anonymous], 2008, S93315 AFNOR NF
+   [Anonymous], RENAL REPLACEMENT TH
+   Belmouaz M, 2020, NEPHROL DIAL TRANSPL, V35, P328, DOI 10.1093/ndt/gfz189
+   Lebourg L, 2013, NEPHROL THER, V9, P209, DOI 10.1016/j.nephro.2013.03.010
+   Lévesque R, 2015, APPL HEALTH ECON HEA, V13, P647, DOI 10.1007/s40258-015-0179-0
+   Maduell F, 2013, J AM SOC NEPHROL, V24, P487, DOI 10.1681/ASN.2012080875
+   Mercadal L, 2016, AM J KIDNEY DIS, V68, P247, DOI 10.1053/j.ajkd.2015.11.016
+   Norme ISO, 23500 ISO
+   Peters SAE, 2016, NEPHROL DIAL TRANSPL, V31, P978, DOI 10.1093/ndt/gfv349
+   Ramponi F, 2016, CLINICOECONOMIC OUTC, V8, P531, DOI 10.2147/CEOR.S109649
+   Susantitaphong P, 2013, NEPHROL DIAL TRANSPL, V28, P438, DOI 10.1093/ndt/gfs514
+   Touzard Farah Allard, 1997, PHARM HOSP, V32
+   van der Tol A, 2020, NEPHROL DIAL TRANSPL, V35, P979, DOI 10.1093/ndt/gfaa035
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JLE
+PI ARCUEIL
+PA 30, RUE BERTHOLLET, BATIMENT A, 94110 ARCUEIL, ?, FRANCE
+SN 1769-7255
+EI 1872-9177
+J9 NEPHROL THER
+JI Nephrol. Ther.
+PD FEB
+PY 2022
+VL 17
+IS 3
+SU S
+DI 10.1016/S1769-7255(22)00037-2
+PG 9
+WC Urology & Nephrology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Urology & Nephrology
+GA ZW4TG
+UT WOS:000771206800007
+DA 2026-01-12
+ER
+
+PT J
+AU Chughtai, B
+   Cho, A
+   Simonyan, V
+   Mao, JL
+   Viviano, C
+   Marinac-Dabic, D
+   Menafee, S
+   Rardin, C
+   Sedrakyan, A
+AF Chughtai, Bilal
+   Cho, Ahra
+   Simonyan, Vahan
+   Mao, Jialin
+   Viviano, Charles
+   Marinac-Dabic, Danica
+   Menafee, Shawn
+   Rardin, Charles
+   Sedrakyan, Art
+TI Development and Usability Testing of a Mobile Application to Monitor
+   Patient-Reported Outcomes after Stress Urinary Incontinence Surgery
+SO UROLOGY
+LA English
+DT Article
+ID HEALTH APPLICATION; MEDICARE
+AB OBJECTIVE To develop and perform a usability testing of a mobile application (app) with representative users of surgeons and female patients undergoing stress urinary incontinence (SUI) surgery.
+   METHODS A mobile app was developed with the Medical Device Epidemiology Network (MDEpiNet) High-Performance Integrated Virtual Environment (HIVE) to streamline the collection of patient-reported outcomes following SUI surgery using validated questionnaires. It was designed as a collaborative effort with the Women's Health Initiative (WHI), including patient and surgeon involvement. The app evaluation questions addressed the user's rating on the clarity and length of the questions and the comfort level in using the interface for patients to report post-operative outcomes and surgeons to review them.
+   RESULTS A total of twenty patients and 5 surgeons tested the mobile app and reported their experience and level of satisfaction. The average patient experience score was 9 out of ten, with ten being the best. Eleven patients (55%) were interested in replacing in-person follow-up visits with the app. The surgeons reported an average user experience score of 8.6 out of ten. Four surgeons (80%) were interested in replacing in-person visits with the app. The combined experience score between all users was 8.9 out of ten. Fifteen out of twenty-five users (60%) showed interest in replacing in-person visits with the app.
+   CONCLUSION The mobile app for SUI captured important patient-reported outcomes with a high satisfaction reporting from patients and surgeons. (C) 2021 Elsevier Inc.
+C1 [Chughtai, Bilal] Weill Cornell Med Coll, Dept Urol, New York Presbyterian, 425 East 61st St,12th Floor, New York, NY 10065 USA.
+   US FDA, Ctr Biol Evaluat & Res, Silver Spring, MD USA.
+   Weill Cornell Med Coll, Dept Healthcare Policy & Res, New York Presbyterian, New York, NY 10065 USA.
+   US FDA, Ctr Devices & Radiol Hlth, Silver Spring, MD USA.
+   UC San Diego Hlth Syst, Div Female Pelv Med & Reconstruct Surg, Dept Reprod Med, San Diego, CA USA.
+   Brown Med Sch, Women & Infants Hosp, Dept Obstet & Gynecol, Div Urogynecol, Providence, RI USA.
+C3 Cornell University; Weill Cornell Medicine; NewYork-Presbyterian
+   Hospital; US Food & Drug Administration (FDA); Center for Biologics
+   Evaluation & Research (CBER); Cornell University; Weill Cornell
+   Medicine; NewYork-Presbyterian Hospital; US Food & Drug Administration
+   (FDA); Women & Infants Hospital Rhode Island; Brown University
+RP Chughtai, B (通讯作者)，Weill Cornell Med Coll, Dept Urol, New York Presbyterian, 425 East 61st St,12th Floor, New York, NY 10065 USA.
+EM bic9008@med.cornell.edu
+OI Mao, Jialin/0000-0001-6671-3474; Viviano, Charles/0000-0002-3114-6083
+FU U.S. FDA NESTcc grant [U01FD006292]; Food and Drug Administration
+   [U01FD006936] Funding Source: NIH RePORTER
+FX This study was funded by the U.S. FDA NESTcc grant U01FD006292.
+CR American Urogynecologic Soc, 2014, FEMALE PELVIC MED RE, V20, P248, DOI 10.1097/SPV.0000000000000113
+   [Anonymous], 2017, CHALLENGES OBSERVATI
+   AUGS, 2017, AQUIRE STRESS UR INC
+   Belarmino A, 2019, EUR UROL ONCOL, V2, P425, DOI 10.1016/j.euo.2018.08.016
+   Berger AA, 2019, AM J OBSTET GYNECOL, V221, DOI 10.1016/j.ajog.2019.09.006
+   Center CSR, 2020, CURR PUBL SEARCH RES
+   Chughtai B, 2021, J UROLOGY, V205, P183, DOI 10.1097/JU.0000000000001312
+   Chughtai B, 2020, OBSTET GYNECOL, V135, P591, DOI 10.1097/AOG.0000000000003689
+   Chughtai B, 2020, J UROLOGY, V203, P179, DOI 10.1097/JU.0000000000000462
+   Clarke KA, 2005, CONFLICT MANAG PEACE, V22, P341, DOI 10.1080/07388940500339183
+   Deshpande Prasanna R, 2011, Perspect Clin Res, V2, P137, DOI 10.4103/2229-3485.86879
+   Gurol-Urganci I, 2018, JAMA-J AM MED ASSOC, V320, P1659, DOI 10.1001/jama.2018.14997
+   Institute I, GROW VAL DIG HLTH
+   Karmakar D, 2017, INT UROGYNECOL J, V28, P95, DOI 10.1007/s00192-016-3070-0
+   Kumamaru H, 2014, CIRC-CARDIOVASC QUAL, V7, P611, DOI 10.1161/CIRCOUTCOMES.113.000743
+   Patel Ben, 2020, JMIR Perioper Med, V3, pe19099, DOI [10.2196/19099, 10.2196/19099]
+   Ponder Madison, 2020, JMIR Perioper Med, V3, pe21138, DOI [10.2196/21138, 10.2196/21138]
+   Rosen CB, 2020, ANN SURG, V272, pE159, DOI 10.1097/SLA.0000000000004098
+   Sertkaya A., 2014, Examination of clinical trial costs and barrier for drug development: report to the Assistant Secretary of Planning and Evaluation
+   Services USDoHH, 2013, SUMM HIPAA PRIV RUL
+   Simonyan V, 2016, DATABASE-OXFORD, DOI 10.1093/database/baw022
+   Staskin. D KC, INC 4 INT CONS INC
+   Symer MM, 2017, J GASTROINTEST SURG, V21, P1500, DOI 10.1007/s11605-017-3482-2
+   Thakkar J, 2016, JAMA INTERN MED, V176, P340, DOI 10.1001/jamainternmed.2015.7667
+   U.S. Department of Health and Human Services FDA Center for Drug Evaluation and Research, 2006, Health Qual Life Outcomes, V4, P79
+   Viers BR, 2015, EUR UROL, V68, P729, DOI 10.1016/j.eururo.2015.04.002
+   Wang PS, 2000, J CLIN EPIDEMIOL, V53, P571, DOI 10.1016/S0895-4356(00)00222-5
+   website, ER MOB REP
+   Wilson Carolyn A, 2014, PDA J Pharm Sci Technol, V68, P626, DOI 10.5731/pdajpst.2014.01024
+   Wu JM, 2014, OBSTET GYNECOL, V123, P1201, DOI 10.1097/AOG.0000000000000286
+NR 30
+TC 4
+Z9 4
+U1 0
+U2 4
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0090-4295
+EI 1527-9995
+J9 UROLOGY
+JI Urology
+PD JAN
+PY 2022
+VL 159
+BP 66
+EP 71
+DI 10.1016/j.urology.2021.10.011
+EA JAN 2022
+PG 6
+WC Urology & Nephrology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Urology & Nephrology
+GA YI5LL
+UT WOS:000743888900013
+PM 34706249
+DA 2026-01-12
+ER
+
+PT J
+AU Budowski, AD
+   Bergauer, L
+   Castellucci, C
+   Braun, J
+   Nöthiger, CB
+   Spahn, DR
+   Tscholl, DW
+   Roche, TR
+AF Budowski, Alexandra D.
+   Bergauer, Lisa
+   Castellucci, Clara
+   Braun, Julia
+   Nothiger, Christoph B.
+   Spahn, Donat R.
+   Tscholl, David W.
+   Roche, Tadzio R.
+TI Improved Task Performance, Low Workload, and User-Centered Design in
+   Medical Diagnostic Equipment Enhance Decision Confidence of Anesthesia
+   Providers: A Meta-Analysis and a Multicenter Online Survey
+SO DIAGNOSTICS
+LA English
+DT Article
+DE diagnostic confidence; diagnostic; gender; over-confidence;
+   self-assessment; online survey; under-confidence; user-centered design;
+   workload
+ID PATIENT; REPRESENTATION; UNCERTAINTY
+AB Decision confidence-the subjective belief to have made the right decision-is central in planning actions in a complex environment such as the medical field. It is unclear by which factors it is influenced. We analyzed a pooled data set of eight studies and performed a multicenter online survey assessing anesthesiologists' opinions on decision confidence. By applying mixed models and using multiple imputation to determine the effect of missing values from the dataset on the results, we investigated how task performance, perceived workload, the utilization of user-centered medical diagnostic devices, job, work experience, and gender affected decision confidence. The odds of being confident increased with better task performance (OR: 1.27, 95% CI: 0.94 to 1.7; p = 0.12; after multiple imputation OR: 3.19, 95% CI: 2.29 to 4.45; p < 0.001) and when user-centered medical devices were used (OR: 5.01, 95% CI: 3.67 to 6.85; p < 0.001; after multiple imputation OR: 3.58, 95% CI: 2.65 to 4.85; p < 0.001). The odds of being confident decreased with higher perceived workload (OR: 0.94, 95% CI: 0.93 to 0.95; p < 0.001; after multiple imputation, OR: 0.94, 95% CI: 0.93 to 0.95; p < 0.001). Other factors, such as gender, job, or professional experience, did not affect decision confidence. Most anesthesiologists who participated in the online survey agreed that task performance (25 of 30; 83%), perceived workload (24 of 30; 80%), work experience (28 of 30; 93%), and job (21 of 30; 70%) influence decision confidence. Improved task performance, lower perceived workload, and user-centered design in medical equipment enhanced the decision confidence of anesthesia providers.
+C1 [Budowski, Alexandra D.; Bergauer, Lisa; Castellucci, Clara; Nothiger, Christoph B.; Spahn, Donat R.; Tscholl, David W.; Roche, Tadzio R.] Univ Zurich, Univ Hosp Zurich, Dept Anesthesiol, CH-8091 Zurich, Switzerland.
+   [Braun, Julia] Univ Zurich, Dept Epidemiol & Biostat, CH-8006 Zurich, Switzerland.
+C3 University of Zurich; University Zurich Hospital; University of Zurich
+RP Roche, TR (通讯作者)，Univ Zurich, Univ Hosp Zurich, Dept Anesthesiol, CH-8091 Zurich, Switzerland.
+EM alexandra.budowski@usz.ch; lisa.bergauer@gmx.de;
+   clara.castellucci@usz.ch; julia.braun-gruebel@uzh.ch;
+   christoph.noethiger@usz.ch; donat.spahn@usz.ch; david.tscholl@usz.ch;
+   tadzioraoul.roche@usz.ch
+OI Roche, Tadzio Raoul/0000-0002-1072-5748; Nöthiger, Christoph
+   B/0000-0002-0336-1421; Budowski, Alexana/0000-0002-9721-3461; Tscholl,
+   David/0000-0002-3677-3705
+FU Institute of Anesthesiology of the University Hospital of Zurich,
+   Zurich, Switzerland; University of Zurich, Zurich, Switzerland
+FX The authors are very thankful to all study participants for their time
+   and effort. The Institute of Anesthesiology of the University Hospital
+   of Zurich, Zurich, Switzerland and the University of Zurich, Zurich,
+   Switzerland funded this study.
+CR Beldhuis IE, 2021, J CRIT CARE, V64, P144, DOI 10.1016/j.jcrc.2021.04.012
+   Bommer C, 2018, AM J SURG, V215, P266, DOI 10.1016/j.amjsurg.2017.09.038
+   Brinkman DJ, 2015, J CLIN PHARMACOL, V55, P825, DOI 10.1002/jcph.474
+   Castellucci C, 2022, DIAGNOSTICS, V12, DOI 10.3390/diagnostics12051269
+   Daw ND, 2005, NAT NEUROSCI, V8, P1704, DOI 10.1038/nn1560
+   Dayan P, 2008, COGN AFFECT BEHAV NE, V8, P429, DOI 10.3758/CABN.8.4.429
+   Drugowitsch J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096511
+   Endsley M.R., 2016, DESIGNING SITUATION, V2, DOI DOI 10.1201/9780203485088
+   Garot O, 2020, BMC MED INFORM DECIS, V20, DOI 10.1186/s12911-020-1032-4
+   Grinband J, 2006, NEURON, V49, P757, DOI 10.1016/j.neuron.2006.01.032
+   Juslin P, 2000, PSYCHOL REV, V107, P384, DOI 10.1037//0033-295X.107.2.384
+   Kataife ED, 2021, ANAESTHESIA, V76, P902, DOI 10.1111/anae.15314
+   Kepecs A, 2008, NATURE, V455, P227, DOI 10.1038/nature07200
+   Kiani R, 2009, SCIENCE, V324, P759, DOI 10.1126/science.1169405
+   Krannich M, 2019, LEARN INDIVID DIFFER, V69, P206, DOI 10.1016/j.lindif.2018.10.004
+   Kruger J, 1999, J PERS SOC PSYCHOL, V77, P1121, DOI 10.1037/0022-3514.77.6.1121
+   McNeer RR, 2018, ANESTHESIOLOGY, V129, P58, DOI 10.1097/ALN.0000000000002234
+   Merkle EC, 2009, PSYCHON B REV, V16, P204, DOI 10.3758/PBR.16.1.204
+   Meyniel F, 2015, NEURON, V88, P78, DOI 10.1016/j.neuron.2015.09.039
+   Miller KA, 2019, ACAD PEDIATR, V19, P822, DOI 10.1016/j.acap.2019.06.013
+   Minter RM, 2005, AM J SURG, V189, P647, DOI 10.1016/j.amjsurg.2004.11.035
+   Pfarr J, 2020, J CLIN MONIT COMPUT, V34, P1369, DOI 10.1007/s10877-019-00429-2
+   Pouget A, 2016, NAT NEUROSCI, V19, P366, DOI 10.1038/nn.4240
+   Rezaiefar P, 2019, CLIN TEACH, V16, P197, DOI 10.1111/tct.12797
+   Roche TR, 2021, BRIT J ANAESTH, V127, P769, DOI 10.1016/j.bja.2021.07.015
+   Roche TR, 2021, BRIT J ANAESTH, V126, P1046, DOI 10.1016/j.bja.2021.01.015
+   Rössler J, 2020, ANAESTHESIA, V75, P1059, DOI 10.1111/anae.14985
+   Said S, 2021, J MED INTERNET RES, V23, DOI 10.2196/27124
+   Said S, 2020, J MED INTERNET RES, V22, DOI 10.2196/19472
+   Saposnik G, 2016, BMC MED INFORM DECIS, V16, DOI 10.1186/s12911-016-0377-1
+   Tscholl DW, 2018, BMC ANESTHESIOL, V18, DOI 10.1186/s12871-018-0650-1
+   van der Steen JT, 2008, PALLIATIVE MED, V22, P750, DOI 10.1177/0269216308094102
+   Webster CS, 2019, BRIT J ANAESTH, V122, P723, DOI 10.1016/j.bja.2019.02.023
+   Yang HQ, 2012, BMC MED INFORM DECIS, V12, DOI 10.1186/1472-6947-12-113
+NR 34
+TC 4
+Z9 4
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2075-4418
+J9 DIAGNOSTICS
+JI Diagnostics
+PD AUG
+PY 2022
+VL 12
+IS 8
+AR 1835
+DI 10.3390/diagnostics12081835
+PG 11
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 4D3UQ
+UT WOS:000847069600001
+PM 36010187
+OA Green Submitted, Green Published, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Tokaya, JP
+   Raaijmakers, AJE
+   Luijten, PR
+   van den Berg, CAT
+AF Tokaya, Janot P.
+   Raaijmakers, Alexander J. E.
+   Luijten, Peter R.
+   van den Berg, Cornelis A. T.
+TI MRI-based, wireless determination of the transfer function of a linear
+   implant: Introduction of the transfer matrix
+SO MAGNETIC RESONANCE IN MEDICINE
+LA English
+DT Article
+DE active implantable medical device (AIMD); safety; transfer function; EM
+   simulations; RF heating; SAR
+ID ELECTRICAL-CONDUCTIVITY; ABSORPTION RATE; BIRDCAGE COIL; RF SAFETY;
+   FIELD; LEAD; DEVICES; BRAIN; WIRES; TRANSMISSION
+AB Purpose: We introduce the transfer matrix (TM) that makes MR-based wireless determination of transfer functions (TFs) possible. TFs are implant specific measures for RF-safety assessment of linear implants. The TF relates an incident tangential electric field on an implant to a scattered electric field at its tip that generally governs local heating. The TM extends this concept and relates an incident tangential electric field to a current distribution in the implant therewith characterizing the RF response along the entire implant. The TM is exploited to measure TFs with MRI without hardware alterations.
+   Theory and Methods: A model of rightward and leftward propagating attenuated waves undergoing multiple reflections is used to derive an analytical expression for the TM. This allows parameterization of the TM of generic implants, e.g., (partially) insulated single wires, in a homogeneous medium in a few unknowns that simultaneously describe the TF. These unknowns can be determined with MRI making it possible to measure the TM and, therefore, also the TF.
+   Results: The TM is able to predict an induced current due to an incident electric field and can be accurately parameterized with a limited number of unknowns. Using this description the TF is determined accurately (with a Pearson correlation coefficient R >= 0.9 between measurements and simulations) from MRI acquisitions.
+   Conclusion: The TM enables measuring of TFs with MRI of the tested generic implant models. The MR-based method does not need hardware alterations and is wireless hence making TF determination in more realistic scenarios conceivable.
+C1 [Tokaya, Janot P.; Raaijmakers, Alexander J. E.; van den Berg, Cornelis A. T.] Univ Med Ctr Utrecht, Dept Radiotherapy, Heidelberglaan 100,POB 85500, NL-3508 GA Utrecht, Netherlands.
+   [Luijten, Peter R.] Univ Med Ctr Utrecht, Dept Radiol, Utrecht, Netherlands.
+C3 Utrecht University; Utrecht University Medical Center; Utrecht
+   University; Utrecht University Medical Center
+RP Tokaya, JP (通讯作者)，Univ Med Ctr Utrecht, Dept Radiotherapy, Heidelberglaan 100,POB 85500, NL-3508 GA Utrecht, Netherlands.
+EM j.p.tokaya@umcutrecht.nl
+CR Acikel V, 2011, MED PHYS, V38, P6623, DOI 10.1118/1.3662865
+   Alecci M, 2001, MAGN RESON MED, V46, P379, DOI 10.1002/mrm.1201
+   [Anonymous], 2012, 109742012EN ISOTS
+   Arfken G. B., 2013, MATH METHODS PHYS, DOI DOI 10.1016/C2009-0-30629-7
+   Barker GJ, 1998, BRIT J RADIOL, V71, P59, DOI 10.1259/bjr.71.841.9534700
+   Bernstein MA, 2004, HDB MRI PULSE SEQUEN
+   Bottomley PA, 2010, MED PHYS, V37, P3828, DOI 10.1118/1.3439590
+   Buchenau S, 2013, MAGN RESON MATER PHY, V26, P463, DOI 10.1007/s10334-013-0367-6
+   DENKLEEF JJEI, 1987, MAGN RESON MED, V5, P513, DOI 10.1002/mrm.1910050602
+   Eryaman Y, 2013, MAGN RESON MED, V69, P845, DOI 10.1002/mrm.24316
+   Feng S, 2015, IEEE T MICROW THEORY, V63, P305, DOI 10.1109/TMTT.2014.2376523
+   Golestanirad L, 2017, MAGN RESON MED, V77, P1701, DOI 10.1002/mrm.26220
+   Griffin GH, 2015, MAGN RESON MED, V73, P427, DOI 10.1002/mrm.25103
+   Gupte AA, 2011, STEREOT FUNCT NEUROS, V89, P131, DOI 10.1159/000324906
+   Han Wen, 2003, Proceedings of the SPIE - The International Society for Optical Engineering, V5030, P471, DOI 10.1117/12.480000
+   Hargreaves BA, 2011, AM J ROENTGENOL, V197, P547, DOI 10.2214/AJR.11.7364
+   Henderson JM, 2005, NEUROSURGERY, V57, P414, DOI 10.1093/neurosurgery/57.2.414b
+   Katscher U, 2017, NMR BIOMED, V30, DOI 10.1002/nbm.3729
+   Katscher U, 2012, MAGN RESON MED, V68, P1911, DOI 10.1002/mrm.24215
+   KING RWP, 1983, IEEE T MICROW THEORY, V31, P574, DOI 10.1109/TMTT.1983.1131547
+   Klassen LM, 2004, MAGN RESON MED, V51, P881, DOI 10.1002/mrm.20094
+   Langman DA, 2012, MAGN RESON MED, V68, P606, DOI 10.1002/mrm.23235
+   McElcheran CE, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134379
+   Nehrke K, 2014, MAGN RESON MED, V71, P246, DOI 10.1002/mrm.24667
+   Nordbeck P, 2008, MAGN RESON MED, V60, P312, DOI 10.1002/mrm.21475
+   Overall WR, 2010, MAGN RESON MED, V64, P823, DOI 10.1002/mrm.22468
+   Park SM, 2007, J MAGN RESON IMAGING, V26, P1278, DOI 10.1002/jmri.21159
+   Sacolick LI, 2010, MAGN RESON MED, V63, P1315, DOI 10.1002/mrm.22357
+   Sbrizzi A, 2014, MAGN RESON MED, V71, P394, DOI 10.1002/mrm.24640
+   SHEN LC, 1968, IEEE T ANTENN PROPAG, VAP16, P542, DOI 10.1109/TAP.1968.1139241
+   Tokaya JP, 2017, MAGN RESON MED, V78, P2449, DOI 10.1002/mrm.26613
+   van den Bosch MR, 2010, MED PHYS, V37, P814, DOI 10.1118/1.3298006
+   van Lier ALHMW, 2012, MAGN RESON MED, V67, P552, DOI 10.1002/mrm.22995
+   Venook R, 2008, P 16 ANN M ISMRM TOR
+   Yarnykh VL, 2007, MAGN RESON MED, V57, P192, DOI 10.1002/mrm.21120
+   Yeh P., 2005, OPTICAL WAVES LAYERE
+   Yeung CJ, 2002, MAGNET RESON MED, V47, P187, DOI 10.1002/mrm.10037
+   Yeung CJ, 2002, MAGNET RESON MED, V48, P1096, DOI 10.1002/mrm.10310
+   Zastrow E, 2014, IEEE INT SYMP ELEC, P241
+NR 39
+TC 15
+Z9 18
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0740-3194
+EI 1522-2594
+J9 MAGN RESON MED
+JI Magn. Reson. Med.
+PD DEC
+PY 2018
+VL 80
+IS 6
+BP 2771
+EP 2784
+DI 10.1002/mrm.27218
+PG 14
+WC Radiology, Nuclear Medicine & Medical Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA HA4HO
+UT WOS:000450220400040
+PM 29687916
+OA Green Submitted, Bronze
+DA 2026-01-12
+ER
+
+PT J
+AU Bourne, C
+   Cabelguenne, D
+   David, JS
+   Rioufol, C
+   Piriou, V
+AF Bourne, C.
+   Cabelguenne, D.
+   David, J. -S.
+   Rioufol, C.
+   Piriou, V.
+TI Massive transfusion: Analysis of practices according to available
+   medical devices
+SO ANNALES FRANCAISES D ANESTHESIE ET DE REANIMATION
+LA French
+DT Article
+DE Massive transfusion; Medical device; Flow rate; IV blood transfusion
+   set; Fast-flow fluid warmer; Pressure cuff
+ID RAPID TRANSFUSION; HEMOLYSIS; PRESSURE
+AB Introduction. - An assessment of practices and available medical devices during the treatment of a massive haemorrhage has been realised in the shock unit of our hospital.
+   Material and methods. - Parameters influencing transfusion flow rate have been identified. Medical devices and equipment to accelerate the flow rate were analyzed on the basis of manufacturers data and users opinion in relation with their practices.
+   Results. - The system, from blood bags to venous access, influences flow rate: red blood cell viscosity, catheter and pressure gradient. Three types of acceleration systems are available: accelerated transfusion set, pressure cuff with a gravity blood IV set and fast-flow fluid warmers. Their benefits and disadvantages are presented and discussed.
+   Discussion. - Maximum flow rates noted by manufacturers are not the real values because some parameters such as venous catheter diameter (limitative factor) and the red blood cell viscosity (diluted or not) are not considered. The choice of an infusion system is mainly based on the technical capacities (flow rate fluctuations, pressure gradient on blood bags, warming, air purging), practical modalities of use (medical devices and assembly) and cost. The pressure cuff with transfusion gravity set should be limited to non-critical situations or during the assembly of the fast flow fluid warmers (but no warming fluids, no air embolism prevention). The accelerated transfusion set is not the best option for a shock unit because it needs an operator permanently. The fast-flow fluid warmers are recommended for all types of massive haemorrhages, they are more secure but they require a long time to be assembled. (C) 2012 Societe francaise d'anesthesie et de reanimation (Sfar). Published by Elsevier Masson SAS. All rights reserved.
+C1 [Bourne, C.; Cabelguenne, D.; Rioufol, C.] Hosp Civils Lyon, Ctr Hosp Lyon Sud, Sect Dispositifs Med, Serv Pharm, F-69495 Pierre Benite, France.
+   [David, J. -S.; Piriou, V.] Hosp Civils Lyon, Ctr Hosp Lyon Sud, Dept Anesthesie Reanimat, F-69495 Pierre Benite, France.
+   [David, J. -S.; Piriou, V.] Univ Lyon 1, Fac Med Charles Merieux, F-69921 Oullins, France.
+C3 CHU Lyon; CHU Lyon; Universite Claude Bernard Lyon 1
+RP Bourne, C (通讯作者)，Hosp Civils Lyon, Ctr Hosp Lyon Sud, Sect Dispositifs Med, Serv Pharm, 165 Chemin Grand Revoyet, F-69495 Pierre Benite, France.
+EM cindy.bourne@chu-lyon.fr
+RI piriou, vincent/AFV-4922-2022
+OI piriou, vincent/0000-0001-6900-1480
+CR [Anonymous], 2011, ATT CONF NORM EN ISO
+   [Anonymous], 2002, TRANSF GLOB ROUG HOM
+   Audibert G, 2009, ANESTEZIOL REANIMAT
+   BOYAN CP, 1964, ANN SURG, V160, P282, DOI 10.1097/00000658-196408000-00016
+   Committee on Trauma, 1997, ADV TRAUM LIF SUPP M, P103
+   Cotton BA, 2010, J TRAUMA, V69, pS33, DOI 10.1097/TA.0b013e3181e42411
+   Cotton BA, 2009, J TRAUMA, V66, P41, DOI 10.1097/TA.0b013e31819313bb
+   David JS, 2010, P LAS EL C QUANT EL, P1
+   David JS, 2008, 50 C NAT AN REAN, P665
+   DELAROCHE MRP, 1993, ANN EMERG MED, V22, P1551, DOI 10.1016/S0196-0644(05)81257-0
+   Eckmann DM, 2000, ANESTH ANALG, V91, P539, DOI 10.1213/00000539-200009000-00007
+   Frelich R, 2001, TRANSFUSION, V41, P799, DOI 10.1046/j.1537-2995.2001.41060799.x
+   Haberer JP, 2005, PRINCIPES REANIMATIO, P338
+   Harrois A, 2009, REANIMATION MED, P778
+   Kim P, 2004, CAN J SURG, V47, P295
+   Lagneau F, 2007, ANN FR ANESTH, V26, P23, DOI 10.1016/j.annfar.2006.09.007
+   Langeron O, 2004, JOURN ENS POST AN RE
+   Malone DL, 2006, J TRAUMA, V60, pS91, DOI 10.1097/01.ta.0000199549.80731.e6
+   NOIROT MT, 1990, ANN FR ANESTH, V9, P433, DOI 10.1016/S0750-7658(05)80950-5
+   Organisation internationale de normalisation, 382612003 NF EN ISO
+   Riou B, 2005, 47 C NAT AN REAN PAR, P457
+   Sihler KC, 2010, CHEST, V137, P209, DOI 10.1378/chest.09-0252
+   Societe Bexen, DOC TECHN TRANSF 410
+   Societe de reanimation de langue francaise, 2004, ANN FR ANESTH, V23, P765
+   Societe Doran International, DOSS TECHN TRANSF SA
+   Societe Sebac, MOD EMPL RECH ACC FL
+   Societe Smiths medical, 2005, H1025 SOC SMITHS MED
+NR 27
+TC 1
+Z9 2
+U1 0
+U2 3
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0750-7658
+EI 1769-6623
+J9 ANN FR ANESTH
+JI Ann. Fr. Anest. Reanim.
+PD JUN
+PY 2012
+VL 31
+IS 6
+BP 537
+EP 542
+DI 10.1016/j.annfar.2012.01.031
+PG 6
+WC Anesthesiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Anesthesiology
+GA 974NO
+UT WOS:000306443200008
+PM 22464166
+OA Green Submitted
+DA 2026-01-12
+ER
+
+PT J
+AU Chambers, JD
+   Silver, MC
+   Berklein, FC
+   Cohen, JT
+   Neumann, PJ
+AF Chambers, James D.
+   Silver, Madison C.
+   Berklein, Flora C.
+   Cohen, Joshua T.
+   Neumann, Peter J.
+TI Are Medical Devices Cost-Effective?
+SO APPLIED HEALTH ECONOMICS AND HEALTH POLICY
+LA English
+DT Article
+ID ELUTING STENT; HEALTH
+AB Objective Medical devices can offer important therapeutic advances but, as for any medical interventions, there are questions about their costs and benefits. We examined health benefits and costs for pre-market approved (PMA) devices approved by the US Food and Drug Administration (FDA) (1999-2015), grouping them by generic category (e.g., drug-eluting stents) and indication. Methods We searched PubMed for incremental health gain estimates [measured in quality-adjusted life-years (QALYs)] and incremental costs for each device category compared to previously available treatments. We calculated incremental cost-effectiveness ratios by dividing the average incremental costs by the average incremental QALY gains. In sensitivity analysis, we repeated the analysis when excluding industry-funded studies. Results We identified at least one relevant cost-utility or comparative-effectiveness study for 88 devices (15.9% of non-cosmetic devices approved from 1999 to 2015), and at least one device across 53 (26.2%) generic categories. The median (mean) incremental cost across generic device categories was $1701 ($13,320). The median (mean) incremental health gain across generic device categories was 0.13 (0.46) QALYs. We found that cost-effectiveness ratios for 36 of 53 (68%) and 43 of 53 (81%) device categories fell below (were more favorable than) $50,000 and $150,000 per QALY, respectively. Results were roughly similar when we excluded industry-funded studies. Conclusions We found that roughly one-quarter of the major PMA medical device categories have published cost-effectiveness evidence accessible through a large, publicly available database. Available evidence suggests that devices generally offer good value, as judged relative to established cost-effectiveness benchmarks.
+C1 [Chambers, James D.; Silver, Madison C.; Berklein, Flora C.; Cohen, Joshua T.; Neumann, Peter J.] Tufts Med Ctr, Ctr Evaluat Value & Risk Hlth, 35 Kneeland St, Boston, MA 02111 USA.
+C3 Tufts Medical Center
+RP Chambers, JD (通讯作者)，Tufts Med Ctr, Ctr Evaluat Value & Risk Hlth, 35 Kneeland St, Boston, MA 02111 USA.
+EM jchambers@tuftsmedicalcenter.org
+OI Chambers, James/0000-0001-5696-4894; Silver, Madison/0000-0002-0344-2002
+FU AdvaMed
+FX This study was funded by AdvaMed.
+CR [Anonymous], 2014, FOREIGN EXCHANGE RAT
+   [Anonymous], 2017, FIN VAL ASS FRAM UPD
+   [Anonymous], CONS PRIC IND
+   [Anonymous], 2014, HLTH SAV MED TECHN E
+   [Anonymous], 2015, BOSTON SCI RECEIVES
+   Basu A, 2019, JAMA-J AM MED ASSOC, V321, P1096, DOI 10.1001/jama.2019.1153
+   Bell CM, 2006, BMJ-BRIT MED J, V332, P699, DOI 10.1136/bmj.38737.607558.80
+   Chambers JD, 2020, J GEN INTERN MED, V35, P2629, DOI 10.1007/s11606-020-05805-2
+   Doble B, 2013, J THORAC CARDIOV SUR, V146, P52, DOI 10.1016/j.jtcvs.2012.06.018
+   Eastman Richard C, 2003, Pediatr Diabetes, V4, P82, DOI 10.1034/j.1399-5448.2003.00011.x
+   Eisenstein EL, 2009, JACC-CARDIOVASC INTE, V2, P1199, DOI 10.1016/j.jcin.2009.10.009
+   Ekman M, 2006, SCAND CARDIOVASC J, V40, P17, DOI 10.1080/14017430500296323
+   Gingles, 2017, VALUE OUTCOMES SPOTL, V4, P15
+   Grosse Scott D, 2008, Expert Rev Pharmacoecon Outcomes Res, V8, P165, DOI 10.1586/14737167.8.2.165
+   Husereau D, 2013, INT J TECHNOL ASSESS, V29, P117, DOI 10.1017/S0266462313000160
+   Kim DD, 2017, EXPERT REV PHARM OUT, V17, P615, DOI 10.1080/14737167.2017.1331432
+   Moreno SG, 2012, J HEART LUNG TRANSPL, V31, P450, DOI 10.1016/j.healun.2011.10.017
+   Neumann P. J., 2016, Cost-effectiveness in health and medicine
+   Neumann PJ, 2014, NEW ENGL J MED, V371, P796, DOI 10.1056/NEJMp1405158
+   PubMed, 2019, NAT CTR BIOT INF
+   Pulikottil-Jacob R, 2014, J HEART LUNG TRANSPL, V33, P350, DOI 10.1016/j.healun.2014.01.003
+   Reddy VY, 2018, STROKE, V49, P1464, DOI 10.1161/STROKEAHA.117.018825
+   Sanders GD, 2016, JAMA-J AM MED ASSOC, V316, P1093, DOI 10.1001/jama.2016.12195
+   Tarricone R, 2017, HEALTH ECON, V26, P5, DOI 10.1002/hec.3469
+   Taylor RS, 2009, VALUE HEALTH, V12, P404, DOI 10.1111/j.1524-4733.2008.00476_2.x
+NR 25
+TC 3
+Z9 4
+U1 2
+U2 10
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1175-5652
+EI 1179-1896
+J9 APPL HEALTH ECON HEA
+JI Appl. Health Econ. Health Policy
+PD MAR
+PY 2022
+VL 20
+IS 2
+BP 235
+EP 241
+DI 10.1007/s40258-021-00698-6
+EA NOV 2021
+PG 7
+WC Economics; Health Care Sciences & Services; Health Policy & Services
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Health Care Sciences & Services
+GA ZA0TW
+UT WOS:000722095200001
+PM 34820784
+DA 2026-01-12
+ER
+
+PT J
+AU Dabic, S
+   Azarbaijani, Y
+   Karapetyan, T
+   Loyo-Berrios, N
+   Simonyan, V
+   Kitchner, T
+   Brilliant, M
+   Torosyan, Y
+AF Dabic, Stefan
+   Azarbaijani, Yasameen
+   Karapetyan, Tiqran
+   Loyo-Berrios, Nilsa
+   Simonyan, Vahan
+   Kitchner, Terrie
+   Brilliant, Murray
+   Torosyan, Yelizaveta
+TI Development of an Integrated Platform Using Multidisciplinary Real-World
+   Data to Facilitate Biomarker Discovery for Medical Products
+SO CTS-CLINICAL AND TRANSLATIONAL SCIENCE
+LA English
+DT Article
+ID GNAS1 T393C POLYMORPHISM; TOTAL HIP-ARTHROPLASTY; GENETIC
+   SUSCEPTIBILITY; FEMORAL OSTEOLYSIS; OBESITY; RISK; ASSOCIATION;
+   REVISION; GENDER; WOMEN
+AB Translational multidisciplinary research is important for the Center for Devices and Radiological Health's efforts for utilizing real-world data (RWD) to enhance predictive evaluation of medical device performance in patient subpopulations. As part of our efforts for developing new RWD-based evidentiary approaches, including in silico discovery of device-related risk predictors and biomarkers, this study aims to characterize the sex/race-related trends in hip replacement outcomes and identify corresponding candidate single nucleotide polymorphisms (SNPs). Adverse outcomes were assessed by deriving RWD from a retrospective analysis of hip replacement hospital discharge data from the National Inpatient Sample (NIS). Candidate SNPs were explored using pre-existing data from the Personalized Medicine Research Project (PMRP). High-Performance Integrated Virtual Environment was used for analyzing and visualizing putative associations between SNPs and adverse outcomes. Ingenuity Pathway Analysis (IPA) was used for exploring plausibility of the sex-related candidate SNPs and characterizing gene networks associated with the variants of interest. The NIS-based epidemiologic evidence showed that periprosthetic osteolysis (PO) was most prevalent among white men. The PMRP-based genetic evidence associated the PO-related male predominance with rs7121 (odds ratio = 4.89; 95% confidence interval = 1.41-17.05) and other candidate SNPs. SNP-based IPA analysis of the expected gene expression alterations and corresponding signaling pathways suggested possible role of sex-related metabolic factors in development of PO, which was substantiated by ad hoc epidemiologic analysis identifying the sex-related differences in metabolic comorbidities in men vs. women with hip replacement-related PO. Thus, our in silico study illustrates RWD-based evidentiary approaches that may facilitate cost/time-efficient discovery of biomarkers for informing use of medical products.
+C1 [Dabic, Stefan; Azarbaijani, Yasameen; Karapetyan, Tiqran; Loyo-Berrios, Nilsa; Torosyan, Yelizaveta] US FDA, Ctr Devices & Radiol Hlth, Silver Spring, MD 20993 USA.
+   [Dabic, Stefan; Simonyan, Vahan] US FDA, High Performance Integrated Virtual Environm HIVE, Silver Spring, MD USA.
+   [Kitchner, Terrie; Brilliant, Murray] Marshfield Clin Res Inst, Ctr Human Genet, Marshfield, WI USA.
+C3 US Food & Drug Administration (FDA); US Food & Drug Administration (FDA)
+RP Torosyan, Y (通讯作者)，US FDA, Ctr Devices & Radiol Hlth, Silver Spring, MD 20993 USA.
+EM Yelizaveta.Torosyan@fda.hhs.gov
+OI Torosyan, Yelizaveta/0000-0002-2565-3118; Karapetyan,
+   Tigran/0000-0001-9911-5315
+FU Office of Women's Health; National Institutes of Health [NHGRI
+   UO1HG8701, NCATS UL1TR000427]; National Center for Advancing
+   Translational Sciences [UL1TR002373] Funding Source: NIH RePORTER
+FX The main body of work was performed at the FDA and was supported by a
+   grant from the Office of Women's Health. The PMRP was supported by
+   grants from the National Institutes of Health, NHGRI UO1HG8701 and NCATS
+   UL1TR000427, and by donated funds to the MCRI.
+CR Adkins RM, 2010, INT J PEDIATR OBES, V5, P177, DOI 10.3109/17477160903111714
+   Apalasamy YD, 2015, ASIA-PAC J PUBLIC HE, V27, pNP154, DOI 10.1177/1010539511430250
+   Bachmann HS, 2008, J ORTHOP RES, V26, P1562, DOI 10.1002/jor.20699
+   Bale TL, 2017, NEUROPSYCHOPHARMACOL, V42, P386, DOI 10.1038/npp.2016.215
+   Beck RT, 2012, J ORTHOP RES, V30, P541, DOI 10.1002/jor.21554
+   Chen M, 2005, P NATL ACAD SCI USA, V102, P7386, DOI 10.1073/pnas.0408268102
+   Chun Young-Soo, 2014, Hip Pelvis, V26, P136, DOI 10.5371/hp.2014.26.3.136
+   Cross DS, 2010, BMC GENET, V11, DOI 10.1186/1471-2156-11-51
+   Cross DS, 2009, BMC MED GENOMICS, V2, DOI 10.1186/1755-8794-2-17
+   Del Buono A, 2012, BRIT MED BULL, V101, P39, DOI 10.1093/bmb/ldr011
+   Demer LL, 2003, ARTERIOSCL THROM VAS, V23, P1739, DOI 10.1161/01.ATV.0000093547.63630.0F
+   Dragoman M, 2016, CONTRACEPTION, V94, P280, DOI 10.1016/j.contraception.2015.08.002
+   Electricwala AJ, 2016, J ARTHROPLASTY, V31, pS217, DOI 10.1016/j.arth.2016.02.073
+   Gallo J, 2010, J ORTHOP RES, V28, P1257, DOI 10.1002/jor.21143
+   Gallo J, 2009, BMC MED GENET, V10, DOI 10.1186/1471-2350-10-109
+   Gordon A, 2008, ARTHRITIS RHEUM-US, V58, P3157, DOI 10.1002/art.23863
+   Hahn S, 2006, EUR J ENDOCRINOL, V155, P763, DOI 10.1530/eje.1.02275
+   HARRIS WH, 1995, CLIN ORTHOP RELAT R, P46
+   Haughom BD, 2015, CLIN ORTHOP RELAT R, V473, P2521, DOI 10.1007/s11999-015-4227-8
+   Hellström L, 1999, J INTERN MED, V245, P253, DOI 10.1046/j.1365-2796.1999.0437e.x
+   Jämsen E, 2013, ANN RHEUM DIS, V72, P1975, DOI 10.1136/annrheumdis-2012-202064
+   Jamsen Esa, 2012, J Bone Joint Surg Am, V94, pe101, DOI 10.2106/JBJS.J.01935
+   Katz J, 2011, INT J ORAL MAX SURG, V40, P605, DOI 10.1016/j.ijom.2011.02.002
+   Kurtz S, 2007, J BONE JOINT SURG AM, V89A, P780, DOI 10.2106/JBJS.F.00222
+   Kurtz SM, 2009, CLIN ORTHOP RELAT R, V467, P2606, DOI 10.1007/s11999-009-0834-6
+   Leopold SS, 2018, CLIN ORTHOP RELAT R, V476, P917, DOI 10.1007/s11999.0000000000000259
+   Lübbeke A, 2013, J ORTHOP RES, V31, P814, DOI 10.1002/jor.22262
+   Lübbeke A, 2010, J BONE JOINT SURG AM, V92A, P1964, DOI 10.2106/JBJS.I.00749
+   MacInnes S.J., 2012, RECENT ADV ARTHROPLA, P275
+   MacInnes SJ, 2015, J ORTHOP RES, V33, P193, DOI 10.1002/jor.22755
+   Malik MHA, 2007, ANN RHEUM DIS, V66, P1116, DOI 10.1136/ard.2006.062018
+   McCarty Catherine A, 2005, Per Med, V2, P49, DOI 10.1517/17410541.2.1.49
+   Nicoletti CF, 2016, J NUTRIGENET NUTRIGE, V9, P222, DOI 10.1159/000452129
+   Pearson Mark J, 2017, HSS J, V13, P20, DOI [10.1007/s11420-016-9531-7, 10.1007/s11420-016-9531-7]
+   Pereira TV, 2011, OBESITY, V19, P1523, DOI 10.1038/oby.2010.322
+   Pinelli M, 2006, BMC MED GENET, V7, DOI 10.1186/1471-2350-7-85
+   Roche MW, 2017, J ARTHROPLASTY, V32, P499, DOI 10.1016/j.arth.2016.07.014
+   Shaparin N, 2016, J CLIN ANESTH, V32, P84, DOI 10.1016/j.jclinane.2015.12.037
+   Stelmach P, 2017, EUR J MED RES, V22, DOI 10.1186/s40001-017-0271-z
+   Tintut Y, 2004, ARTERIOSCL THROM VAS, V24, pE6, DOI 10.1161/01.ATV.0000112023.62695.7f
+   Torosyan Y, 2016, J AM MED INFORM ASSN, V23, P711, DOI 10.1093/jamia/ocw031
+   Varlamov O, 2015, FRONT ENDOCRINOL, V5, DOI 10.3389/fendo.2014.00241
+   von Knoch M, 2004, BIOMATERIALS, V25, P4675, DOI 10.1016/j.biomaterials.2004.02.069
+   Yang MM, 2016, J DIABETES RES, V2016, DOI 10.1155/2016/5412084
+   Yu SH, 2000, J CLIN INVEST, V105, P615, DOI 10.1172/JCI8437
+   Zhang H.Z., 2014, AREAL RES DEV, V2, P16, DOI DOI 10.1371/J0URNAL.P0NE.0100489
+NR 46
+TC 1
+Z9 1
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1752-8054
+EI 1752-8062
+J9 CTS-CLIN TRANSL SCI
+JI CTS-Clin. Transl. Sci.
+PD JAN
+PY 2020
+VL 13
+IS 1
+BP 98
+EP 109
+DI 10.1111/cts.12685
+EA SEP 2019
+PG 12
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA KB1ME
+UT WOS:000486265300001
+PM 31386280
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Rahman, A
+   Wadud, MAH
+   Islam, MJ
+   Kundu, D
+   Bhuiyan, TMAU
+   Muhammad, G
+   Ali, Z
+AF Rahman, Anichur
+   Wadud, Md. Anwar Hussen
+   Islam, Md. Jahidul
+   Kundu, Dipanjali
+   Bhuiyan, T. M. Amir-Ul-Haque
+   Muhammad, Ghulam
+   Ali, Zulfiqar
+TI Internet of medical things and blockchain-enabled patient-centric agent
+   through SDN for remote patient monitoring in 5G network
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+DE Internet of things; Internet of medical things; Blockchain; Software
+   defined networking; Patient monitoring; Remote patient monitoring;
+   Healthcare management; Patient centric agent
+ID SECURITY; CARE; FRAMEWORK
+AB During the COVID-19 pandemic, there has been a significant increase in the use of internet resources for accessing medical care, resulting in the development and advancement of the Internet of Medical Things (IoMT). This technology utilizes a range of medical equipment and testing software to broadcast patient results over the internet, hence enabling the provision of remote healthcare services. Nevertheless, the preservation of privacy and security in the realm of online communication continues to provide a significant and pressing obstacle. Blockchain technology has shown the potential to mitigate security apprehensions across several sectors, such as the healthcare industry. Recent advancements in research have included intelligent agents in patient monitoring systems by integrating blockchain technology. However, the conventional network configuration of the agent and blockchain introduces a level of complexity. In order to address this disparity, we present a proposed architectural framework that combines software defined networking (SDN) with Blockchain technology. This framework is specially tailored for the purpose of facilitating remote patient monitoring systems within the context of a 5G environment. The architectural design contains a patient-centric agent (PCA) inside the SDN control plane for the purpose of managing user data on behalf of the patients. The appropriate handling of patient data is ensured by the PCA via the provision of essential instructions to the forwarding devices. The suggested model is assessed using hyperledger fabric on docker-engine, and its performance is compared to that of current models in fifth generation (5G) networks. The performance of our suggested model surpasses current methodologies, as shown by our extensive study including factors such as throughput, dependability, communication overhead, and packet error rate.
+C1 [Rahman, Anichur] Mawlana Bhashani Sci & Technol Univ, Dept Comp Sci & Engn, Tangail, Bangladesh.
+   [Rahman, Anichur; Kundu, Dipanjali] Dhaka Univ, Natl Inst Text Engn & Res NITER, Dept Comp Sci & Engn, Constituent Inst, Dhaka 1350, Bangladesh.
+   [Islam, Md. Jahidul] Green Univ, Dept Comp Sci & Engn, Dhaka, Bangladesh.
+   [Wadud, Md. Anwar Hussen; Bhuiyan, T. M. Amir-Ul-Haque] Bangladesh Univ Engn & Technol BUET, Inst Informat & Commun Technol, Dhaka, Bangladesh.
+   [Muhammad, Ghulam] King Saud Univ, Coll Comp & Informat Sci, Dept Comp Engn, Riyadh, Saudi Arabia.
+   [Ali, Zulfiqar] Univ Essex, Sch Comp Sci & Elect Engn, Colchester, England.
+C3 Mawlana Bhashani Science & Technology University; University of Dhaka;
+   Bangladesh University of Engineering & Technology (BUET); King Saud
+   University; University of Essex
+RP Rahman, A (通讯作者)，Mawlana Bhashani Sci & Technol Univ, Dept Comp Sci & Engn, Tangail, Bangladesh.; Rahman, A (通讯作者)，Dhaka Univ, Natl Inst Text Engn & Res NITER, Dept Comp Sci & Engn, Constituent Inst, Dhaka 1350, Bangladesh.; Muhammad, G (通讯作者)，King Saud Univ, Coll Comp & Informat Sci, Dept Comp Engn, Riyadh, Saudi Arabia.
+EM anis_cse@niter.edu.bd; ghulam@ksu.edu.sa
+RI Rahman, Anichur/AAZ-2506-2020; Wadud, Md Anwar Hussen/GXG-6948-2022;
+   Ali, Zulfiqar/OOK-5258-2025; Muhammad, Ghulam/H-5884-2011
+OI Muhammad, Ghulam/0000-0002-9781-3969
+FU Researchers Supporting Project number (RSP2023R34), King Saud
+   University, Riyadh, Saudi Arabia [RSP2024R34]; King Saud University,
+   Riyadh, Saudi Arabia
+FX The authors acknowledge the Researchers Supporting Project number
+   (RSP2024R34), King Saud University, Riyadh, Saudi Arabia.
+CR Awotunde J.B., 2021, the Fusion of Internet of Things, Artificial Intelligence, and Cloud Computing in Health Care, P105, DOI [DOI 10.1007/978-3-030-75220-0_6, DOI 10.1007/978-3-030-75220-06]
+   Azad K., 2021, 2021 INT C AUTOMATIO, P1
+   Barka E, 2021, ELECTRONICS-SWITZ, V10, DOI 10.3390/electronics10151787
+   Çalhan A, 2021, COMPUT METH PROG BIO, V202, DOI 10.1016/j.cmpb.2021.106008
+   DAoust P., 2021, What is holochain?
+   Deebak BD, 2023, COMPLEX INTELL SYST, V9, P2629, DOI 10.1007/s40747-020-00231-7
+   Dilawar N, 2019, INT J ADV COMPUT SC, V10, P82
+   Gaetani E., 2017, Blockchain-based database to ensure data integrity in cloud computing environments
+   Gerli P, 2021, GOV INFORM Q, V38, DOI 10.1016/j.giq.2021.101581
+   Gope P, 2016, IEEE SENS J, V16, P1368, DOI 10.1109/JSEN.2015.2502401
+   Hasan MK, 2022, IEEE T IND INFORM, V18, P8895, DOI [10.1109/TII.2022.3148250, 10.4018/IJTD.304381]
+   Hu JQ, 2022, CONNECT SCI, V34, P139, DOI 10.1080/09540091.2021.1977243
+   Imran, 2021, ELECTRONICS-SWITZ, V10, DOI 10.3390/electronics10080880
+   Islam MM, 2023, IEEE INTERNET THINGS, V10, P3611, DOI 10.1109/JIOT.2022.3228795
+   Islam MM, 2022, COMPUT BIOL MED, V149, DOI 10.1016/j.compbiomed.2022.106060
+   Jaiswal Kavita, 2021, Advances in Biomedical Engineering and Technology. Select Proceedings of ICBEST 2018. Lecture Notes in Bioengineering (LNBE), P459, DOI 10.1007/978-981-15-6329-4_38
+   Juyal S, 2021, MATER TODAY-PROC, V46, P10815, DOI 10.1016/j.matpr.2021.01.718
+   Kaur Harleen, 2020, Advances in Intelligent Computing and Communication. Proceedings of ICAC 2019. Lecture Notes in Networks and Systems (LNNS 109), P475, DOI 10.1007/978-981-15-2774-6_56
+   Khadse DB, 2023, ARAB J SCI ENG, V48, P1793, DOI 10.1007/s13369-022-06961-9
+   Khan R, 2020, IEEE COMMUN SURV TUT, V22, P196, DOI 10.1109/COMST.2019.2933899
+   Koteluk O, 2021, J PERS MED, V11, DOI 10.3390/jpm11010032
+   Krawczyk H., 1997, HMAC: Keyed-Hashing for Message Authentication," ed, DOI [DOI 10.17487/RFC2104, 10.17487/RFC2104]
+   Kumar M, 2021, J NETW COMPUT APPL, V179, DOI 10.1016/j.jnca.2021.102975
+   Kuo TT, 2018, Arxiv, DOI [arXiv:1802.01746, 10.48550/arXiv.1802.01746, DOI 10.48550/ARXIV.1802.01746]
+   Kushniruk Andre, 2021, Multiple Perspectives on Artificial Intelligence in Healthcare: Opportunities and Challenges. Lecture Notes in Bioengineering, P3, DOI 10.1007/978-3-030-67303-1_1
+   Lee D, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18010271
+   Lee JS, 2022, J INF SECUR APPL, V65, DOI 10.1016/j.jisa.2022.103117
+   Li SS, 2022, IEEE SYST J, V16, P3096, DOI 10.1109/JSYST.2021.3073169
+   Lin K, 2016, IEEE ACCESS, V4, P6901, DOI 10.1109/ACCESS.2016.2616643
+   Magsi H, 2021, ELECTRONICS-SWITZ, V10, DOI 10.3390/electronics10040367
+   Mahmoud N, 2020, International Journal of Computer Applications, V176, P12, DOI [10.5120/ijca2020920274, 10.5120/ijca2020920274, DOI 10.5120/IJCA2020920274]
+   Malan David., 2004, INT WORKSHOP WEARABL
+   Masud M, 2021, IEEE INTERNET THINGS, V8, P15694, DOI 10.1109/JIOT.2020.3047662
+   Mohan Jaya Preethi, 2022, 2022 IEEE International Conference on Electro Information Technology (eIT)., P446, DOI 10.1109/eIT53891.2022.9813965
+   Mollajafari S, 2023, SUSTAINABILITY-BASEL, V15, DOI 10.3390/su151813401
+   Muhammad G, 2021, INFORM FUSION, V76, P355, DOI 10.1016/j.inffus.2021.06.007
+   Consuegra-Ayala JP, 2021, J BIOMED INFORM, V116, DOI 10.1016/j.jbi.2021.103716
+   Panwar A., 2020, 2 INT C DAT ENG APPL, P1
+   Preeth EN, 2015, 2015 INTERNATIONAL CONFERENCE ON CONTROL COMMUNICATION & COMPUTING INDIA (ICCC), P697, DOI 10.1109/ICCC.2015.7432984
+   Qu ZG, 2024, IEEE INTERNET THINGS, V11, P40, DOI 10.1109/JIOT.2023.3285388
+   Rahman Anichur, 2021, 2021 International Conference on Electronics, Communications and Information Technology (ICECIT), DOI 10.1109/ICECIT54077.2021.9641303
+   Rahman A, 2023, DIGIT COMMUN NETW, V9, P411, DOI 10.1016/j.dcan.2022.11.003
+   Rahman A, 2023, FUTURE GENER COMP SY, V138, P61, DOI 10.1016/j.future.2022.08.004
+   Rahman A, 2022, J NETW SYST MANAG, V30, DOI 10.1007/s10922-022-09682-4
+   Rahman A, 2023, CLUSTER COMPUT, V26, P2271, DOI 10.1007/s10586-022-03658-4
+   Rahman A, 2021, MATH BIOSCI ENG, V18, P9697, DOI 10.3934/mbe.2021475
+   Rahman A, 2022, CLUSTER COMPUT, V25, P2351, DOI 10.1007/s10586-021-03367-4
+   Rahman A, 2020, 2020 2ND INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI), DOI 10.1109/STI50764.2020.9350419
+   Rahman A, 2021, IEEE ACCESS, V9, P28361, DOI 10.1109/ACCESS.2021.3058244
+   Rahman A, 2020, INT J ADV COMPUT SC, V11, P674
+   Rahman A, 2020, IEEE ACCESS, V8, P209594, DOI 10.1109/ACCESS.2020.3039113
+   Rahman A, 2020, IEEE ACCESS, V8, P140008, DOI 10.1109/ACCESS.2020.3012435
+   Sahoo SS, 2021, J AMB INTEL HUM COMP, V12, P1419, DOI 10.1007/s12652-020-02213-6
+   Sharma A, 2020, ELECTRONICS-SWITZ, V9, DOI 10.3390/electronics9101609
+   Sharma P, 2023, INFORM SCIENCES, V629, P703, DOI 10.1016/j.ins.2023.01.148
+   Soni A, 2022, WIRELESS PERS COMMUN, V125, P2865, DOI 10.1007/s11277-022-09689-9
+   Taloba AI, 2023, ALEX ENG J, V65, P263, DOI 10.1016/j.aej.2022.09.031
+   Tuli S, 2019, J SYST SOFTWARE, V154, P22, DOI 10.1016/j.jss.2019.04.050
+   Uddin MA, 2018, IEEE ACCESS, V6, P32700, DOI 10.1109/ACCESS.2018.2846779
+   Uppal S, 2023, Healthcare Analytics, V3, P100175, DOI [10.1016/j.health.2023.100175, 10.1016/j.health.2023.100175, DOI 10.1016/J.HEALTH.2023.100175]
+   Vahdati M., 2021, Appl. Blockchain Healthc., P141
+   Wang HG, 2010, IEEE WIREL COMMUN, V17, P12, DOI 10.1109/MWC.2010.5416345
+   Wang S, 2018, IEEE T COMPUT SOC SY, V5, P942, DOI 10.1109/TCSS.2018.2865526
+   Yang Y, 2021, SKIN RES TECHNOL, V27, P74, DOI 10.1111/srt.12911
+   Zaman S, 2022, IEEE ACCESS, V10, P37064, DOI 10.1109/ACCESS.2022.3163580
+   Zou RP, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2021.102604
+NR 66
+TC 26
+Z9 29
+U1 2
+U2 13
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 4
+PY 2024
+VL 14
+IS 1
+AR 5297
+DI 10.1038/s41598-024-55662-w
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KL1Q4
+UT WOS:001180029300059
+PM 38438526
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Rathore, H
+   Fu, CL
+   Mohamed, A
+   Al-Ali, A
+   Du, XJ
+   Guizani, M
+   Yu, ZT
+AF Rathore, Heena
+   Fu, Chenglong
+   Mohamed, Amr
+   Al-Ali, Abdulla
+   Du, Xiaojiang
+   Guizani, Mohsen
+   Yu, Zhengtao
+TI Multi-layer security scheme for implantable medical devices
+SO NEURAL COMPUTING & APPLICATIONS
+LA English
+DT Article
+DE Multi-layer security; Deep learning; Medical devices; Authentication
+ID ECG
+AB Internet of Medical Things (IoMTs) is fast emerging, thereby fostering rapid advances in the areas of sensing, actuation and connectivity to significantly improve the quality and accessibility of health care for everyone. Implantable medical device (IMD) is an example of such an IoMT-enabled device. IMDs treat the patient's health and give a mechanism to provide regular remote monitoring to the healthcare providers. However, the current wireless communication channels can curb the security and privacy of these devices by allowing an attacker to interfere with both the data and communication. The privacy and security breaches in IMDs have thereby alarmed both the health providers and government agencies. Ensuring security of these small devices is a vital task to prevent severe health consequences to the bearer. The attacks can range from system to infrastructure levels where both the software and hardware of the IMD are compromised. In the recent years, biometric and cryptographic approaches to authentication, machine learning approaches to anomaly detection and external wearable devices for wireless communication protection have been proposed. However, the existing solutions for wireless medical devices are either heavy for memory constrained devices or require additional devices to be worn. To treat the present situation, there is a requirement to facilitate effective and secure data communication by introducing policies that will incentivize the development of security techniques. This paper proposes a novel electrocardiogram authentication scheme which uses Legendre approximation coupled with multi-layer perceptron model for providing three levels of security for data, network and application levels. The proposed model can reach up to 99.99% testing accuracy in identifying the authorized personnel even with 5 coefficients.
+C1 [Rathore, Heena] Hiller Measuremnts, 14121 W HWY 290,Bldg 15, Austin, TX 78737 USA.
+   [Fu, Chenglong; Du, Xiaojiang] Temple Univ, 1801 N Broad St, Philadelphia, PA 19122 USA.
+   [Mohamed, Amr; Al-Ali, Abdulla] Qatar Univ, Al Jamiaa St, Doha, Qatar.
+   [Guizani, Mohsen] Univ Idaho, 875 Perimeter Dr, Moscow, ID 83844 USA.
+   [Yu, Zhengtao] Kunming Univ Sci & Technol, Kunming 650221, Yunnan, Peoples R China.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); Temple
+   University; Qatar University; University of Idaho; Kunming University of
+   Science & Technology
+RP Rathore, H (通讯作者)，Hiller Measuremnts, 14121 W HWY 290,Bldg 15, Austin, TX 78737 USA.
+EM heena.rathore@hillermeas.com; tug63476@temple.edu; amrm@qu.edu.qa;
+   abdulla.alali@qu.edu.qa; xjdu@temple.edu; mguizani@ieee.org;
+   ztyu@hotmail.com
+RI Mohsen, Guizani/D-9103-2018; Mohamed, Amr/AFP-6226-2022; Fu,
+   Chenglong/ITU-3027-2023
+OI Rathore, Heena/0000-0002-9403-8071; Mohamed, Amr/0000-0002-1583-7503;
+   Fu, Chenglong/0000-0002-8955-5429; Yu, Zhengtao/0000-0003-1094-5668
+CR [Anonymous], ARXIV160502688
+   Chi H, 2018, ARXIV180402447
+   Chollet Francis., 2015, Keras: Theano-Based Deep Learning Library
+   Denning T, 2008, P HOTSEC
+   FRIESEN GM, 1990, IEEE T BIO-MED ENG, V37, P85, DOI 10.1109/10.43620
+   Gollakota S, 2011, ACM SIGCOMM COMP COM, V41, P2, DOI 10.1145/2043164.2018438
+   Halperin D, 2008, P IEEE S SECUR PRIV, P129, DOI 10.1109/SP.2008.31
+   Hei X., 2011, P IEEE INFOCOM
+   Hei XL, 2010, GLOB TELECOMM CONF
+   Herrero-Collantes M, 2017, REV MOD PHYS, V89, DOI 10.1103/RevModPhys.89.015004
+   Khalil I, 2008, ISSNIP 2008: PROCEEDINGS OF THE 2008 INTERNATIONAL CONFERENCE ON INTELLIGENT SENSORS, SENSOR NETWORKS, AND INFORMATION PROCESSING, P297, DOI 10.1109/ISSNIP.2008.4762003
+   Kim Y, 2012, ASMC PROC, P327, DOI 10.1109/ASMC.2012.6212921
+   Krizhevsky Alex, 2012, ADV NEURAL INF PROCE, DOI DOI 10.1145/3065386
+   Lee DU, 2008, IEEE T COMPUT, V57, P686, DOI 10.1109/TC.2007.70847
+   Meste O, 2005, IEEE T BIO-MED ENG, V52, P1921, DOI 10.1109/TBME.2005.856257
+   PHILIPS W, 1992, IEEE T BIO-MED ENG, V39, P330, DOI 10.1109/10.126605
+   Rappaport T., 1996, WIRELESS COMMUNICATI
+   Rasmussen KB, 2009, CCS'09: PROCEEDINGS OF THE 16TH ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P410
+   Rathore H, 2017, IEEE GLOB COMM CONF
+   Rathore H, 2018, INT WIREL COMMUN, P476, DOI 10.1109/IWCMC.2018.8450419
+   Rathore H, 2017, INT WIREL COMMUN, P1495, DOI 10.1109/IWCMC.2017.7986505
+   Rathore S, 2018, IEEE ACCESS, V6, DOI 10.1109/ACCESS.2017.2774837
+   Rathore TS, 2014, 2014 INTERNATIONAL CONFERENCE ON CIRCUITS, SYSTEMS, COMMUNICATION AND INFORMATION TECHNOLOGY APPLICATIONS (CSCITA), P1, DOI 10.1109/CSCITA.2014.6839225
+   Rieback MR, 2005, LECT NOTES COMPUT SC, V3574, P184
+   Rostami M., 2013, Proc. of ACM CCS'13, P1099, DOI 10.1145/2508859.2516658
+   Shen TW, 2002, P ANN INT IEEE EMBS, P62
+   Singh K, 2007, PROCEEDINGS OF THE 2007 INTERNATIONAL CONFERENCE ON INTELLIGENT SENSORS, SENSOR NETWORKS AND INFORMATION PROCESSING, P353, DOI 10.1109/ISSNIP.2007.4496869
+   Sufi F, 2010, SECUR COMMUN NETW, V3, P303, DOI 10.1002/sec.76
+   Tuzcu V, 2005, IEEE SYS MAN CYBERN, P182
+   Weisman S, US TODAY
+   Xu FY, 2011, IEEE INFOCOM SER, P1862, DOI 10.1109/INFCOM.2011.5934987
+   Zhang M, 2013, IEEE T BIOMED CIRC S, V7, P871, DOI 10.1109/TBCAS.2013.2245664
+   Zheng G, 2014, INT SYMP WIREL, P624, DOI 10.1109/WPMC.2014.7014892
+NR 33
+TC 16
+Z9 16
+U1 3
+U2 15
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0941-0643
+EI 1433-3058
+J9 NEURAL COMPUT APPL
+JI Neural Comput. Appl.
+PD MAY
+PY 2020
+VL 32
+IS 9
+SI SI
+BP 4347
+EP 4360
+DI 10.1007/s00521-018-3819-0
+PG 14
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LF4WN
+UT WOS:000527419900018
+DA 2026-01-12
+ER
+
+PT J
+AU Mancini, L
+   Marcheggiani, S
+   Figliomeni, M
+   Volpi, E
+   Avellis, L
+   Volpi, F
+   D'Angelo, AM
+   Romanelli, C
+   Calamea, P
+   Tancioni, L
+   Ferrari, C
+AF Mancini, Laura
+   Marcheggiani, Stefania
+   Figliomeni, Mario
+   Volpi, Elisabetta
+   Avellis, Luca
+   Volpi, Fabrizio
+   D'Angelo, Anna Maria
+   Romanelli, Cristina
+   Calamea, Pietro
+   Tancioni, Lorenzo
+   Ferrari, Cinzia
+TI Can Medical Devices Help Mitigate Global Environmental Change Effects on
+   Human and Animal Health? A Pilot Study
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE global environmental change; medical devices; human health; animal
+   health; survey
+ID CLIMATE-CHANGE; ALLERGIC RHINITIS
+AB Globalization and urbanization are new challenges for the ability to protect public health. Indeed, the anthropogenic impact is changing the environment on a global scale. These changes can have direct and indirect health effects on both human and animal populations, introducing new diseases. Heat waves and floods are an example of these changes. Global Environmental Change (GEC) consequences on human health and well-being are stronger in urban areas, which are inhabited by 70% of the European population. In this context, the use of appropriate medical devices can also help mitigate the effects of climate change. Studies into lifestyle, environment quality and potential fields of application can be useful tools to identify possible types of medical device that could help to support the therapeutic needs and the prevention of health both in everyday life, and in the case of environmental alerts. A study was carried out on the potential role of medical devices (MDs) in mitigating the effects of GEC on human and animal health, by issuing two different questionnaires to specific professional clusters: the first to doctors, pharmacists, and veterinarians, the second to MD manufacturers. The data obtained from this study confirm the strong connection between GEC and the increase in the use of some MDs. Results obtained from questionnaires circulated to MD manufacturers confirmed this trend. MD manufacturers also declared that there are no longer any seasonal trends in market demand for some medical devices. This is a pilot study to consider MDs as a mitigation tool for CEGs.
+C1 [Mancini, Laura; Marcheggiani, Stefania; Figliomeni, Mario; Volpi, Elisabetta; Avellis, Luca; Volpi, Fabrizio; D'Angelo, Anna Maria; Ferrari, Cinzia] Ist Super Sanita, Dept Environm & Hlth, Viale Regina Elena 299, I-00161 Rome, Italy.
+   [Romanelli, Cristina] Ist Super San, Notified Body 0373,Viale Regina Elena 299, I-00161 Rome, Italy.
+   [Calamea, Pietro] Minist Hlth, Viale Giorgio Ribotta 5, I-00144 Rome, Italy.
+   [Tancioni, Lorenzo] Univ Roma Tor Vergata, Biol Dept, Via Ric Scientif, I-00133 Rome, Italy.
+C3 Istituto Superiore di Sanita (ISS); University of Rome Tor Vergata
+RP Ferrari, C (通讯作者)，Ist Super Sanita, Dept Environm & Hlth, Viale Regina Elena 299, I-00161 Rome, Italy.
+EM cinzia.ferrari@iss.it
+RI ; AVELLIS, LUCA/C-6481-2016; marcheggiani, stefania/ABH-4965-2020
+OI Figliomeni, Mario/0000-0002-4020-3369; AVELLIS,
+   LUCA/0000-0002-6308-0496; Ferrari, Cinzia/0000-0001-6653-4150; mancini,
+   laura/0000-0003-3667-5221; marcheggiani, stefania/0000-0002-2021-3893
+FU Italian Ministry of Health, Clinical Trials of Medical Devices Office
+   [BGC1] Funding Source: Medline
+CR Cento JV, 2017, NEW MICROBIOL, V40, P155
+   Cristina L, 2019, FRESEN ENVIRON BULL, V28, P4990
+   European Union, 2017, REGULATION EU 201774, V117, P1
+   Fischer PH, 2004, ATMOS ENVIRON, V38, P1083, DOI 10.1016/j.atmosenv.2003.11.010
+   Joshi A, 2015, British Journal of Applied Science & Technology, V7, P396, DOI [10.9734/bjast/2015/14975, DOI 10.9734/BJAST/2015/14975, 10.9734/BJAST/2015/14975]
+   Kenney P, 2016, J ALLER CL IMM-PRACT, V4, P445, DOI 10.1016/j.jaip.2016.01.003
+   Kenney P, 2015, J ALLERGY CLIN IMMUN, V136, P1566, DOI 10.1016/j.jaci.2015.05.015
+   Lee JY., 2021, Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, DOI [DOI 10.1017/9781009157896, 10.1017/9781009157896]
+   Lee K, 2009, GLOB INST, P1
+   Mancini L, 2019, FRESEN ENVIRON BULL, V28, P4979
+   Marcer G., 2011, RUBRICA AMBIENTE ALL, V9, P1
+   Ministry of Health, MDS DAT
+   Neuman I, 1997, ANN ALLERG ASTHMA IM, V78, P399, DOI 10.1016/S1081-1206(10)63202-4
+   Office of the High Commissioner for Human Rights-OHCHR, 2015, UNDERSTANDING HUMAN
+   Ricciardi W, 2019, ANN I SUPER SANITA, V55, P323, DOI 10.4415/ANN_19_04_04
+   SNLG (Sistema Nazionale per le Linee Guida), 2011, COM PROD DIFF AGG LI
+   Spano D., 2020, CAMBIAMENTI CLIMATIC, DOI [10.25424/cmcc/analisi_del_rischio, DOI 10.25424/CMCC/ANALISI_DEL_RISCHIO]
+   Spano D., 2021, I cambiamenti climatici in sei citta italiane, DOI [10.25424/cmcc/analisi_del_rischio_2021, DOI 10.25424/CMCC/ANALISI_DEL_RISCHIO_2021]
+   Stedman RC, 2004, RISK ANAL, V24, P1395, DOI 10.1111/j.0272-4332.2004.00534.x
+   van Daalen KR, 2022, LANCET PUBLIC HEALTH, V7, pE942, DOI 10.1016/S2468-2667(22)00197-9
+   Watts N, 2015, LANCET, V386, P1861, DOI 10.1016/S0140-6736(15)60854-6
+   World Health Organization Regional Office for Europe, 2009, WHO Guidelines for Indoor Air Quality: Dampness and Mould
+NR 22
+TC 0
+Z9 0
+U1 1
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD DEC
+PY 2022
+VL 19
+IS 23
+AR 15936
+DI 10.3390/ijerph192315936
+PG 14
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA 6X3NQ
+UT WOS:000896324200001
+PM 36498010
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Kihlberg, J
+   Hansson, B
+   Hall, A
+   Tisell, A
+   Lundberg, P
+AF Kihlberg, Johan
+   Hansson, Boel
+   Hall, Annika
+   Tisell, Anders
+   Lundberg, Peter
+TI Magnetic resonance imaging incidents are severely underreported: a
+   finding in a multicentre interview survey
+SO EUROPEAN RADIOLOGY
+LA English
+DT Article
+DE Medical device safety; Magnetic resonance imaging; Incident reporting;
+   Patient safety
+ID MR SAFETY
+AB Objectives The purpose of this study was to develop a procedure to investigate the occurrence, character and causes of magnetic resonance (MR) imaging incidents. Methods A semi-structured questionnaire was developed containing details such as safety zones, examination complexity, staff MR knowledge, staff categories, and implementation of EU directive 2013/35. We focused on formally reported incidents that had occurred during 2014-2019, and unreported incidents during one year. Thirteen clinical MR units were visited, and the managing radiographer was interviewed. Open questions were analysed using conventionally adopted content analysis. Results Thirty-seven written reports for 5 years and an additional 12 oral reports for 1 year were analysed. Only 38% of the incidents were reported formally. Some of these incidents were catastrophic. Negative correlations were observed between the number of annual incidents (per scanner) and staff MR knowledge (Spearman's rho - 0.41, p < 0.05) as well as the number of MR physicists per scanner (- 0.48, p < 0.05). It was notable that only half of the sites had implemented the EU directive. Quotes like 'Burns are to be expected in MR' and not even knowing the name of the incident reporting system suggested an inadequate safety culture. Finally, there was a desire among staff for MR safety education. Conclusions MR-related incidents were greatly underreported, and some incidents could have had catastrophic outcomes. There is a great desire among radiographers to enhance the safety culture, but to achieve this, much more accessible education is required, as well as focused involvement of the management of the operations.
+C1 [Kihlberg, Johan; Hall, Annika] Linkoping Univ, Dept Radiol Linkoping, Linkoping, Sweden.
+   [Kihlberg, Johan; Hall, Annika; Tisell, Anders; Lundberg, Peter] Linkoping Univ, Dept Hlth Med & Caring Sci, Linkoping, Sweden.
+   [Kihlberg, Johan; Tisell, Anders; Lundberg, Peter] Linkoping Univ, Ctr Med Image Sci & Visualizat CMIV, Linkoping, Sweden.
+   [Hansson, Boel] Lund Univ, Dept Med Imaging & Physiol, Lund, Sweden.
+   [Hansson, Boel] Lund Univ, Dept Diagnost Radiol, Clin Sci, Lund, Sweden.
+   [Tisell, Anders; Lundberg, Peter] Linkoping Univ, Dept Radiat Phys, Linkoping, Sweden.
+C3 Linkoping University; Linkoping University; Linkoping University; Lund
+   University; Lund University; Linkoping University
+RP Kihlberg, J (通讯作者)，Linkoping Univ, Dept Radiol Linkoping, Linkoping, Sweden.; Kihlberg, J (通讯作者)，Linkoping Univ, Dept Hlth Med & Caring Sci, Linkoping, Sweden.; Kihlberg, J (通讯作者)，Linkoping Univ, Ctr Med Image Sci & Visualizat CMIV, Linkoping, Sweden.
+EM johan.kihlberg@liu.se
+RI Lundberg, Peter/AGD-9679-2022; Hansson, Boel/GOE-6748-2022
+OI Kihlberg, Johan/0000-0003-3124-8044
+FU Linkoping University; Region Ostergotland [LIO-827671]
+FX Open access funding provided by Linkoping University. This study has
+   received funding from Region Ostergotland LIO-827671.
+CR Arbetsmiljoverket, 2016, EL FALT ARB FOR EL F EL FALT ARB FOR EL F
+   Blankholm AD, 2020, RADIOGRAPHY, V26, P147, DOI 10.1016/j.radi.2019.10.007
+   Brady A, 2019, RADIOGRAPHY, V25, pE26, DOI 10.1016/j.radi.2019.01.009
+   Calamante F, 2015, J MAGN RESON IMAGING, V41, P899, DOI 10.1002/jmri.24717
+   Delfino JG, 2019, MED PHYS, V46, P5562, DOI 10.1002/mp.13768
+   Donnelly LF, 2009, AM J ROENTGENOL, V193, P165, DOI 10.2214/AJR.08.2086
+   Fraum TJ, 2017, J MAGN RESON IMAGING, V46, P338, DOI 10.1002/jmri.25625
+   Gilk T, 2015, J MAGN RESON IMAGING, V42, P566, DOI 10.1002/jmri.24794
+   Greenberg TD, 2020, J MAGN RESON IMAGING, V51, P331, DOI 10.1002/jmri.26880
+   Hansson B, 2020, EUR RADIOL, V30, P1918, DOI 10.1007/s00330-019-06465-5
+   Hudson Darren, 2019, BJR Open, V1, P20180006, DOI [10.1259/bjro.20180006, 10.1259/bjro.20180006]
+   International Electrotechnical Commission (IEC), 2010, MED EL EQ PART REQ 2 MED EL EQ PART REQ 2
+   Kanal E, 2013, J MAGN RESON IMAGING, V37, P501, DOI 10.1002/jmri.24011
+   Khazi S, 2018, Journal of Datta Meghe Institute of Medical Sciences University, V13, P160, DOI 10.4103/jdmimsu.jdmimsu_63_18
+   Peeters R, 2023, MED CARE RES REV, V80, P266, DOI [10.1177/10775587221118156, 10.1111/eva.13711]
+   Petzel RA., 2011, VHA NATL PATIENT SAF
+   Rajan S., 2020, EUR C RAD ECR 2020 EUR C RAD ECR 2020
+   Rutberg H., 2019, Vardrelaterade Infektioner. In
+   Schaefers G, 2008, IEEE ENG MED BIOL, V27, P23, DOI 10.1109/EMB.2007.910267
+   SMRT, 2021, ISMRM SMRTS MR SAFET
+   Socialdepartementet, 2010, 2010659 SFS SOC 2010659 SFS SOC
+   Westbrook C., 2009, European Journal of Radiography, V1, P52, DOI DOI 10.1016/J.EJRADI.2009.04.001
+   WorldHealthOrganization, 2019, 10 FACTS PAT SAF 10 FACTS PAT SAF
+NR 23
+TC 17
+Z9 18
+U1 0
+U2 1
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0938-7994
+EI 1432-1084
+J9 EUR RADIOL
+JI Eur. Radiol.
+PD JAN
+PY 2022
+VL 32
+IS 1
+BP 477
+EP 488
+DI 10.1007/s00330-021-08160-w
+EA JUL 2021
+PG 12
+WC Radiology, Nuclear Medicine & Medical Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA XM1AL
+UT WOS:000678113900002
+PM 34286376
+OA Green Submitted, hybrid
+DA 2026-01-12
+ER
+
+PT J
+AU Ye, DX
+   Peramo, A
+AF Ye, Dongxia
+   Peramo, Antonio
+TI Implementing tissue engineering and regenerative medicine solutions in
+   medical implants
+SO BRITISH MEDICAL BULLETIN
+LA English
+DT Article
+DE medical device; implant interface; regenerative medicine; tissue
+   engineering; drug delivery
+ID SILICA THIN-FILMS; DRUG-DELIVERY; IN-VITRO; BONE REGENERATION;
+   MULTILAYER FILMS; UNITED-STATES; CELL DELIVERY; TITANIUM; SCAFFOLDS;
+   COATINGS
+AB Background: Surgical implants are widely used in the medical field but their long-term performance is limited due to failure of integration with tissues. Thismanuscript describes verywell-known problems associated with implants and discusses novel solutions used in tissue engineering and regenerative medicine that can be implemented in this uncommonly discussed medical area.
+   Sources of data: General and medical literature describing modifications of medical and surgical implants, biofunctionalization, tissue engineering and regenerative medicine.
+   Areas of agreement: Procedures for surgical implantation have grown substantially in the last few decades and provided improved quality of life for patients, regardless of area of implantation and device type and purpose.
+   Areas of controversy: In general, implants fail because of lack of long-term integration with the surrounding tissues. Implant manufacturers have not addressed implant failure from the point of view of biointegration. In addition, some medical practitioners are inclined to treat implant failure by using anti-infection methods to prevent bacterial adhesion. However, both approaches are conceptually limited, as discussed in this manuscript.
+   Growing points: Implantation in the future will not be limited to medically needed procedures but also to a growing number of cosmetic body transformation procedures, which may include perceived 'improved implant functions' over natural tissues or organs. An additional trend is that implant procedures are being progressively performed in younger individuals.
+   Areas timely for developing research: Current implants generally do not allow the physician to have controlled long-term access to internal tissues in contact with the implants, for example to release specific compounds when medically needed to the problem area.
+C1 [Ye, Dongxia] Shanghai Jiao Tong Univ, Sch Med, Shanghai Peoples Hosp 9, Shanghai 200030, Peoples R China.
+   [Peramo, Antonio] Univ Michigan, Ann Arbor, MI 48109 USA.
+C3 Shanghai Jiao Tong University; University of Michigan System; University
+   of Michigan
+RP Peramo, A (通讯作者)，1150 W Med Dr MSRBII A560, Ann Arbor, MI 48109 USA.
+EM aperamo@hushmail.com
+RI Ye, Dongxia/AAF-2877-2019
+OI Peramo, A/0000-0003-3792-2546
+CR Aarabi S, 2007, FASEB J, V21, P3250, DOI 10.1096/fj.07-8218com
+   Akagawa Y, 2009, J PROSTHODONT RES, V53, P41, DOI 10.1016/j.jpor.2008.08.009
+   Anandhakumar S, 2013, ACTA BIOMATER, V9, P8864, DOI 10.1016/j.actbio.2013.06.012
+   Andersen MO, 2010, MOL THER, V18, P2018, DOI 10.1038/mt.2010.166
+   Arruebo M, 2012, WIRES NANOMED NANOBI, V4, P16, DOI 10.1002/wnan.132
+   Bailey BM, 2013, ACTA BIOMATER, V9, P8254, DOI 10.1016/j.actbio.2013.05.012
+   Bartsch I, 2012, BIOMATERIALS, V33, P6926, DOI 10.1016/j.biomaterials.2012.06.039
+   Ben-Yoav H, 2011, CRIT REV BIOTECHNOL, V31, P337, DOI 10.3109/07388551.2010.532767
+   Bierbaum Susanne, 2012, Biomatter, V2, P132, DOI 10.4161/biom.20921
+   Bodo M, 2013, J CLIN MONIT COMPUT, V27, P677, DOI 10.1007/s10877-013-9492-z
+   Brama M, 2007, BIOMATERIALS, V28, P595, DOI 10.1016/j.biomaterials.2006.08.018
+   Brohede U, 2009, J MATER SCI-MATER M, V20, P1859, DOI 10.1007/s10856-009-3749-6
+   Bryers JD, 2008, BIOTECHNOL BIOENG, V100, P1, DOI 10.1002/bit.21838
+   Busscher HJ, 2012, SCI TRANSL MED, V4, DOI 10.1126/scitranslmed.3004528
+   Caldorera-Moore M, 2009, ADV DRUG DELIVER REV, V61, P1391, DOI 10.1016/j.addr.2009.09.002
+   Cao L, 2001, SENSOR ACTUAT A-PHYS, V94, P117, DOI 10.1016/S0924-4247(01)00680-X
+   Carlberg B, 2009, BIOMED MATER, V4, DOI 10.1088/1748-6041/4/4/045004
+   Carr AJ, 2012, LANCET, V379, P1331, DOI 10.1016/S0140-6736(11)60752-6
+   Cars O, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a1438
+   Carvalho A, 2012, DENT MATER, V28, P1250, DOI 10.1016/j.dental.2012.09.002
+   Catauro M., 2013, J BIOMED MAT RES A
+   Chen CH, 2009, IEEE T BIO-MED ENG, V56, P462, DOI 10.1109/TBME.2008.2003262
+   Chen WH, 2010, CURR PHARM DESIGN, V16, P2388, DOI 10.2174/138161210791920478
+   Coan P, 2008, EUR J RADIOL, V68, pS41, DOI 10.1016/j.ejrad.2008.04.036
+   Daghighi S, 2013, BIOMATERIALS, V34, P8013, DOI 10.1016/j.biomaterials.2013.07.044
+   Davis KA, 2011, BIOMATERIALS, V32, P2285, DOI 10.1016/j.biomaterials.2010.12.006
+   Dayyoub E, 2013, MAT SCI ENG C-MATER, V33, P3018, DOI 10.1016/j.msec.2013.03.033
+   Derda R, 2010, J AM CHEM SOC, V132, P1289, DOI 10.1021/ja906089g
+   Dimick JB, 2001, ARCH SURG-CHICAGO, V136, P229, DOI 10.1001/archsurg.136.2.229
+   Donaldson JR, 2010, HIP INT, V20, P242, DOI 10.1177/112070001002000216
+   Duran H, 2008, POLYM BIOMEDICAL APP
+   Egeland BM, 2010, PLAST RECONSTR SURG, V126, P1865, DOI 10.1097/PRS.0b013e3181f61848
+   El Tamer MK, 2009, J TISSUE ENG REGEN M, V3, P327, DOI 10.1002/term.173
+   Elloumi-Hannachi I, 2010, J INTERN MED, V267, P54, DOI 10.1111/j.1365-2796.2009.02185.x
+   Eser A, 2013, J BIOMECH, V46, P2250, DOI 10.1016/j.jbiomech.2013.06.025
+   Fan XP, 2012, J BIOMED MATER RES A, V100A, P3422, DOI 10.1002/jbm.a.34268
+   Fiering J, 2009, BIOMED MICRODEVICES, V11, P571, DOI 10.1007/s10544-008-9265-5
+   Fong ELS, 2011, BIOMATERIALS, V32, P395, DOI 10.1016/j.biomaterials.2010.08.101
+   Frasca D, 2010, CRIT CARE, V14, DOI 10.1186/cc8853
+   González M, 2013, J BIOMED MATER RES A, V101, P819, DOI 10.1002/jbm.a.34388
+   Gopferich A, 1997, J CONTROL RELEASE, V44, P271, DOI 10.1016/S0168-3659(96)01533-7
+   Grammatopoulos G, 2009, J BONE JOINT SURG BR, V91B, P1019, DOI 10.1302/0301-620X.91B8.22562
+   Grasa J, 2010, ANN BIOMED ENG, V38, P605, DOI 10.1007/s10439-009-9889-5
+   Guebeli RJ, 2013, ACTA BIOMATER, V9, P8272, DOI 10.1016/j.actbio.2013.05.008
+   Guillot R, 2013, BIOMATERIALS, V34, P5737, DOI 10.1016/j.biomaterials.2013.03.067
+   Hall-Stoodley L, 2004, NAT REV MICROBIOL, V2, P95, DOI 10.1038/nrmicro821
+   Holmberg KV, 2013, ACTA BIOMATER, V9, P8224, DOI 10.1016/j.actbio.2013.06.017
+   Holt B, 2008, J BIOMECH, V41, P2689, DOI 10.1016/j.jbiomech.2008.06.008
+   Hu WW, 2007, GENE THER, V14, P891, DOI 10.1038/sj.gt.3302940
+   Huang T, 2011, COMM COM INF SC, V225, P337
+   Jones JR, 2010, P I MECH ENG H, V224, P1373, DOI 10.1243/09544119JEIM836
+   Kapoor DN, 2012, INT J PHARMACEUT, V426, P132, DOI 10.1016/j.ijpharm.2012.01.005
+   Karagkiozaki V, 2013, BBA-GEN SUBJECTS, V1830, P4294, DOI 10.1016/j.bbagen.2012.12.019
+   Kelm JM, 2010, ADV DRUG DELIVER REV, V62, P753, DOI 10.1016/j.addr.2010.02.003
+   Khatayevich D, 2010, ACTA BIOMATER, V6, P4634, DOI 10.1016/j.actbio.2010.06.004
+   Kikuchi A, 2005, J CONTROL RELEASE, V101, P69, DOI 10.1016/j.jconrel.2004.08.026
+   Kim DY, 2013, MATERIALS, V6, P2978, DOI 10.3390/ma6072978
+   Kumar A, 2007, PROG POLYM SCI, V32, P1205, DOI 10.1016/j.progpolymsci.2007.05.003
+   Kurella A, 2005, J BIOMATER APPL, V20, P5, DOI 10.1177/0885328205052974
+   Kurtz S, 2007, J BONE JOINT SURG AM, V89A, P780, DOI 10.2106/JBJS.F.00222
+   Lai M, 2013, J BIOMED MATER RES A, V101, P653, DOI 10.1002/jbm.a.34371
+   Lambotte A., 1913, Chirurgie Operatoire des Fractures
+   Lavenus S, 2010, NANOMEDICINE-UK, V5, P937, DOI [10.2217/nnm.10.54, 10.2217/NNM.10.54]
+   Lie SA, 2004, J BONE JOINT SURG BR, V86B, P504, DOI 10.1302/0301-620X.86B4.14799
+   Liu XY, 2004, MAT SCI ENG R, V47, P49, DOI 10.1016/j.mser.2004.11.001
+   Liu YP, 2011, MED HYPOTHESES, V76, P280, DOI 10.1016/j.mehy.2010.10.023
+   Lopez JJ, 2010, AM HEART J, V160, P767, DOI 10.1016/j.ahj.2010.06.048
+   Lutz R, 2013, CLIN ORAL IMPLAN RES, V24, P781, DOI 10.1111/j.1600-0501.2012.02455.x
+   Malafaya PB, 2007, ADV DRUG DELIVER REV, V59, P207, DOI 10.1016/j.addr.2007.03.012
+   Mercanzini A, 2010, J CONTROL RELEASE, V145, P196, DOI 10.1016/j.jconrel.2010.04.025
+   Mironov V, 2010, BIOFABRICATION, V1
+   Moroni L, 2008, MATER TODAY, V11, P44, DOI 10.1016/S1369-7021(08)70089-0
+   Murphy L, 2012, AM J NURS, V112, pS13, DOI 10.1097/01.NAJ.0000412646.80054.21
+   Muskovich M, 2012, ADV HEALTHC MATER, V1, P248, DOI 10.1002/adhm.201200071
+   Nanci A, 1998, J BIOMED MATER RES, V40, P324
+   Nandivada H, 2008, POLYM BIOMEDICAL APP
+   Nevins ML, 1998, INT J ORAL MAX IMPL, V13, P620
+   Niska JA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0047397
+   Norowski PA, 2009, J BIOMED MATER RES B, V88B, P530, DOI 10.1002/jbm.b.31152
+   Pal K, 2009, BIOPOLYMERS CONTROLL
+   Paquay YCGJ, 1997, BIOMATERIALS, V18, P161, DOI 10.1016/S0142-9612(96)00090-7
+   Patel RB, 2010, J CONTROL RELEASE, V147, P350, DOI 10.1016/j.jconrel.2010.08.020
+   Pelaez-Vargas A, 2013, J BIOMED MATER RES B, V101B, P762, DOI 10.1002/jbm.b.32879
+   Peramo A, 2012, INTEGRATED BIOMATERI
+   Peramo A, 2010, J FUNCT BIOMATER, V1, P14, DOI 10.3390/jfb1010014
+   Peramo A, 2010, ANN BIOMED ENG, V38, P2013, DOI 10.1007/s10439-010-9937-1
+   Peramo A, 2010, ARTIF ORGANS, V34, pE27, DOI 10.1111/j.1525-1594.2009.00931.x
+   Quaglia F, 2008, INT J PHARMACEUT, V364, P281, DOI 10.1016/j.ijpharm.2008.04.030
+   Rammelt S, 2006, BIOMATERIALS, V27, P5561, DOI 10.1016/j.biomaterials.2006.06.034
+   Rathmell JP, 2006, REGION ANESTH PAIN M, V31, P346, DOI 10.1016/j.rapm.2006.03.004
+   Recum A F, 1996, Tissue Eng, V2, P241, DOI 10.1089/ten.1996.2.241
+   Santos E, 2013, J CONTROL RELEASE, V170, P1, DOI 10.1016/j.jconrel.2013.04.015
+   Saurer EM, 2013, BIOMACROMOLECULES, V14, P1696, DOI 10.1021/bm4005222
+   Sharma C.P., 2010, BIOINTEGRATION MED I
+   Shi M, 2011, J CONTROL RELEASE, V152, P196, DOI 10.1016/j.jconrel.2011.01.029
+   Siegel RA, 2010, J CONTROL RELEASE, V141, P303, DOI 10.1016/j.jconrel.2009.12.012
+   Sjöström T, 2013, NANOMEDICINE-UK, V8, P89, DOI [10.2217/NNM.12.177, 10.2217/nnm.12.177]
+   Skousen JL, 2011, PROG BRAIN RES, V194, P167, DOI 10.1016/B978-0-444-53815-4.00009-1
+   Smith TJ, 2006, J ORTHOP RES, V24, P1377, DOI 10.1002/jor.20170
+   Song HS, 2011, BIOTECHNOL J, V6, P1310, DOI 10.1002/biot.201100006
+   Stadelmann VA, 2011, EUR CELLS MATER, V21, P31
+   Stadlinger B, 2007, J BIOMED MATER RES B, V83B, P222, DOI 10.1002/jbm.b.30787
+   Stolz M, 2007, NANOMED-NANOTECHNOL, V3, P53, DOI 10.1016/j.nano.2007.01.001
+   Stynes G, 2008, ANZ J SURG, V78, P654, DOI 10.1111/j.1445-2197.2008.04609.x
+   Svennersten K, 2011, BBA-GEN SUBJECTS, V1810, P276, DOI 10.1016/j.bbagen.2010.10.001
+   Takahashi H, 2010, J CONTROL RELEASE, V147, P400, DOI 10.1016/j.jconrel.2010.08.019
+   Teusink MJ, 2013, CLIN ORTHOP RELAT R, V471, P3838, DOI 10.1007/s11999-013-2873-2
+   Thabe Heiner, 2007, Oper Orthop Traumatol, V19, P78, DOI 10.1007/s00064-007-1196-4
+   Vallet-Regí M, 2008, PROG SOLID STATE CH, V36, P163, DOI 10.1016/j.progsolidstchem.2007.10.002
+   Varu VN, 2009, VASC ENDOVASC SURG, V43, P121, DOI 10.1177/1538574408322752
+   Vestermark MT, 2011, DAN MED BULL, V58
+   von Recum Andreas F., 1999, HDB BIOMATERIALS EVA
+   Vrana NE, 2013, JOVE-J VIS EXP, V77
+   Wan ACA, 2010, ADV DRUG DELIVER REV, V62, P731, DOI 10.1016/j.addr.2010.02.002
+   Wang DA, 2010, ADV DRUG DELIVER REV, V62, P669, DOI 10.1016/j.addr.2010.04.008
+   Wang F, 2013, ADV HEALTHCARE MAT
+   Wang HG, 2013, J BIOMED MATER RES A, V101, P413, DOI 10.1002/jbm.a.34339
+   Williams DL, 2013, J BIOMED MATER RES B, V101B, P1078, DOI 10.1002/jbm.b.32918
+   Wise SG, 2012, NANOMEDICINE-UK, V7, P1907, DOI [10.2217/nnm.12.161, 10.2217/NNM.12.161]
+   Yang JY, 2007, J BIOMAT SCI-POLYM E, V18, P1075, DOI 10.1163/156856207781494359
+   Yellen BB, 2005, J MAGN MAGN MATER, V293, P647, DOI 10.1016/j.jmmm.2005.01.083
+   Yu L, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0062570
+   Zhang HY, 2013, J MECH BEHAV BIOMED, V20, P209, DOI 10.1016/j.jmbbm.2013.01.001
+   Zhang L, 2011, INT J ANTIMICROB AG, V38, P9, DOI 10.1016/j.ijantimicag.2011.01.020
+   Zhao DS, 2008, ACTA BIOMATER, V4, P1118, DOI 10.1016/j.actbio.2008.02.012
+NR 125
+TC 6
+Z9 8
+U1 0
+U2 18
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0007-1420
+EI 1471-8391
+J9 BRIT MED BULL
+JI Br. Med. Bull.
+PD MAR
+PY 2014
+VL 109
+IS 1
+BP 3
+EP 18
+DI 10.1093/bmb/ldt036
+PG 16
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AJ8RG
+UT WOS:000337974000002
+PM 24357734
+DA 2026-01-12
+ER
+
+PT J
+AU Topriceanu, CC
+   Fornasiero, M
+   Seo, H
+   Webber, M
+   Keenan, KE
+   Stupic, KF
+   Bruehl, R
+   Ittermann, B
+   Price, K
+   McGrath, L
+   Pang, WJ
+   Hughes, AD
+   Nezafat, R
+   Kellman, P
+   Pierce, I
+   Moon, JC
+   Captur, G
+AF Topriceanu, Constantin-Cristian
+   Fornasiero, Massimiliano
+   Seo, Han
+   Webber, Matthew
+   Keenan, Kathryn E. E.
+   Stupic, Karl F. F.
+   Bruehl, Ruediger
+   Ittermann, Bernd
+   Price, Kirsty
+   McGrath, Louise
+   Pang, Wenjie
+   Hughes, Alun D. D.
+   Nezafat, Reza
+   Kellman, Peter
+   Pierce, Iain
+   Moon, James C. C.
+   Captur, Gabriella
+TI Developing a medical device-grade T2 phantom optimized for
+   myocardial T2 mapping by cardiovascular magnetic resonance
+SO JOURNAL OF CARDIOVASCULAR MAGNETIC RESONANCE
+LA English
+DT Article
+DE T-1 mapping; T-2 mapping; Phantom; Quality control
+ID MRI; FIELD; ECHO; SEQUENCES; VALUES; 3T
+AB IntroductionA long T-2 relaxation time can reflect oedema, and myocardial inflammation when combined with increased plasma troponin levels. Cardiovascular magnetic resonance (CMR) T-2 mapping therefore has potential to provide a key diagnostic and prognostic biomarkers. However, T-2 varies by scanner, software, and sequence, highlighting the need for standardization and for a quality assurance system for T-2 mapping in CMR.AimTo fabricate and assess a phantom dedicated to the quality assurance of T-2 mapping in CMR.MethodA T-2 mapping phantom was manufactured to contain 9 T-1 and T-2 (T-1|T-2) tubes to mimic clinically relevant native and post-contrast T-2 in myocardium across the health to inflammation spectrum (i.e., 43-74 ms) and across both field strengths (1.5 and 3 T). We evaluated the phantom's structural integrity, B-0 and B-1 uniformity using field maps, and temperature dependence. Baseline reference T-1|T-2 were measured using inversion recovery gradient echo and single-echo spin echo (SE) sequences respectively, both with long repetition times (10 s). Long-term reproducibility of T-1|T-2 was determined by repeated T-1|T-2 mapping of the phantom at baseline and at 12 months.ResultsThe phantom embodies 9 internal agarose-containing T-1|T-2 tubes doped with nickel di-chloride (NiCl2) as the paramagnetic relaxation modifier to cover the clinically relevant spectrum of myocardial T-2. The tubes are surrounded by an agarose-gel matrix which is doped with NiCl2 and packed with high-density polyethylene (HDPE) beads. All tubes at both field strengths, showed measurement errors up to <= 7.2 ms [< 14.7%] for estimated T-2 by balanced steady-state free precession T-2 mapping compared to reference SE T-2 with the exception of the post-contrast tube of ultra-low T-1 where the deviance was up to 16 ms [40.0%]. At 12 months, the phantom remained free of air bubbles, susceptibility, and off-resonance artifacts. The inclusion of HDPE beads effectively flattened the B-0 and B-1 magnetic fields in the imaged slice. Independent temperature dependency experiments over the 13-38 degrees C range confirmed the greater stability of shorter vs longer T-1|T-2 tubes. Excellent long-term (12-month) reproducibility of measured T-1|T-2 was demonstrated across both field strengths (all coefficients of variation < 1.38%).ConclusionThe T-2 mapping phantom demonstrates excellent structural integrity, B-0 and B-1 uniformity, and reproducibility of its internal tube T-1|T-2 out to 1 year. This device may now be mass-produced to support the quality assurance of T-2 mapping in CMR.
+C1 [Topriceanu, Constantin-Cristian; Webber, Matthew; Pierce, Iain; Moon, James C. C.] Barts Hlth NHS Trust, Barts Heart Ctr, ECIA 7BE, London, England.
+   [Topriceanu, Constantin-Cristian; Webber, Matthew; Hughes, Alun D. D.; Pierce, Iain; Moon, James C. C.; Captur, Gabriella] UCL, Inst Cardiovasc Sci, Huntley St, London WC1E 6DD, England.
+   [Fornasiero, Massimiliano] UCL Med Sch, 74 Huntley St, London WC1E 6DE, England.
+   [Seo, Han; Webber, Matthew; Captur, Gabriella] Royal Free London NHS Fdn Trust, Ctr Inherited Heart Muscle Condit, Dept Cardiol, Pond St, London NW3 2QG, England.
+   [Topriceanu, Constantin-Cristian; Webber, Matthew; Hughes, Alun D. D.; Captur, Gabriella] UCL, Med Res Council Unit Lifelong Hlth & Ageing, 1-19 Torrington Pl, London WC1E 7HB, England.
+   [Keenan, Kathryn E. E.; Stupic, Karl F. F.] NIST, 325 Broadway, Boulder, CO 80305 USA.
+   [Bruehl, Ruediger; Ittermann, Bernd] Phys Tech Bundesanstalt PTB, Abbestr 2-12, D-10587 Berlin, Germany.
+   [Price, Kirsty; McGrath, Louise] UCL Bloomsbury Ctr Clin Phenotyping, London WC1E 6HX, England.
+   [Pang, Wenjie] Resonance Hlth RH, 141 Burswood Rd, Burswood, WA 6100, Australia.
+   [Nezafat, Reza] Harvard Med Sch, Beth Israel Deaconess Med Ctr, Dept Med, Cardiovasc Div, 330 Brookline Ave, Boston, MA 02215 USA.
+   [Kellman, Peter] NHLBI, NIH, Bethesda, MD 20892 USA.
+   [Captur, Gabriella] UCL, Inst Cardiovasc Sci, Inherited Heart Muscle Condit, Gower St, London WC1E 6BT, England.
+C3 Barts Health NHS Trust; University of London; University College London;
+   University of London; University College London; University of London;
+   University College London; Royal Free London NHS Foundation Trust; UK
+   Research & Innovation (UKRI); Medical Research Council UK (MRC);
+   University of London; University College London; National Institute of
+   Standards & Technology (NIST) - USA; Physikalisch-Technische
+   Bundesanstalt (PTB); Resonance Health; Harvard University; Harvard
+   Medical School; Harvard University Medical Affiliates; Beth Israel
+   Deaconess Medical Center; National Institutes of Health (NIH) - USA; NIH
+   National Heart Lung & Blood Institute (NHLBI); University of London;
+   University College London
+RP Captur, G (通讯作者)，UCL, Inst Cardiovasc Sci, Huntley St, London WC1E 6DD, England.; Captur, G (通讯作者)，Royal Free London NHS Fdn Trust, Ctr Inherited Heart Muscle Condit, Dept Cardiol, Pond St, London NW3 2QG, England.; Captur, G (通讯作者)，UCL, Med Res Council Unit Lifelong Hlth & Ageing, 1-19 Torrington Pl, London WC1E 7HB, England.; Captur, G (通讯作者)，UCL, Inst Cardiovasc Sci, Inherited Heart Muscle Condit, Gower St, London WC1E 6BT, England.
+EM gabriella.captur@ucl.ac.uk
+RI moon, james/F-1031-2014; Topriceanu, Constantin-Cristian/AAF-2336-2021;
+   Hughes, Alun/N-3781-2013
+OI moon, james/0000-0001-8071-1491; Topriceanu,
+   Constantin-Cristian/0000-0001-5826-9617; Hughes,
+   Alun/0000-0001-5432-5271
+FU British Heart Foundation [SP/20/2/34841] Funding Source: researchfish;
+   Barts Charity [MGU0427 / G-001411] Funding Source: Medline; British
+   Heart Foundation [SP/20/2/34841, IG/18/5/33958] Funding Source: Medline;
+   Medical Research Council Funding Source: Medline
+CR Baessler B, 2015, J CARDIOVASC MAGN R, V17, pW12, DOI [10.1186/1532-429x-17-s1-w12, 10.1186/1532-429X-17-S1-W12, DOI 10.1186/1532-429X-17-S1-W12]
+   Baessler B, 2015, EUR J RADIOL, V84, P2161, DOI 10.1016/j.ejrad.2015.08.002
+   Captur G, 2020, J CARDIOVASC MAGN R, V22, DOI 10.1186/s12968-020-00613-3
+   Captur G, 2016, J CARDIOVASC MAGN R, V18, DOI [10.1186/1532-429x-18-s1-w14, 10.1186/s12968-016-0280-z]
+   Chavhan GB, 2008, RADIOGRAPHICS, V28, P1147, DOI 10.1148/rg.284075031
+   Ferreira PF, 2013, J CARDIOVASC MAGN R, V15, DOI 10.1186/1532-429X-15-41
+   Giri S, 2009, J CARDIOVASC MAGN R, V11, DOI 10.1186/1532-429X-11-56
+   Granitz M, 2019, WIEN KLIN WOCHENSCHR, V131, P143, DOI 10.1007/s00508-018-1411-3
+   Hanson CA, 2020, RADIOLOGY, V297, P344, DOI 10.1148/radiol.2020200989
+   He TG, 2006, J MAGN RESON IMAGING, V24, P580, DOI 10.1002/jmri.20681
+   Hernando D, 2010, MAGN RESON MED, V63, P79, DOI 10.1002/mrm.22177
+   Kawel-Boehm N, 2020, J CARDIOVASC MAGN R, V22, DOI 10.1186/s12968-020-00683-3
+   Keenan K, 2015, SMRM 23 ANN MEET EXH
+   Keenan K, 2015, ISMRM 23 ANN MEET EX
+   Kim D, 2009, MAGN RESON MED, V62, P300, DOI 10.1002/mrm.22047
+   KOENIG SH, 1984, MAGN RESON MED, V1, P478, DOI 10.1002/mrm.1910010407
+   KRAFT KA, 1987, MAGN RESON MED, V5, P555, DOI 10.1002/mrm.1910050606
+   Kramer CM, 2015, AM HEART J, V170, P223, DOI 10.1016/j.ahj.2015.05.013
+   LEVITT MH, 1981, J MAGN RESON, V43, P65, DOI 10.1016/0022-2364(81)90082-2
+   McGarry CK, 2020, PHYS MED BIOL, V65, DOI 10.1088/1361-6560/abbd17
+   Messroghli DR, 2018, J CARDIOVASC MAGN R, V20, DOI [10.1186/s12968-017-0389-8, 10.1186/s12968-017-0408-9]
+   MITCHELL M D, 1986, Magnetic Resonance Imaging, V4, P263, DOI 10.1016/0730-725X(86)91068-4
+   Montant P, 2015, DIAGN INTERV IMAG, V96, P885, DOI 10.1016/j.diii.2014.07.008
+   Moon JC, 2013, J CARDIOVASC MAGN R, V15, DOI 10.1186/1532-429X-15-92
+   OSHIO K, 1991, MAGNET RESON MED, V20, P344, DOI 10.1002/mrm.1910200219
+   Ridouani F, 2018, J CARDIOVASC MAGN R, V20, DOI 10.1186/s12968-018-0478-3
+   Rohrer M, 2005, INVEST RADIOL, V40, P715, DOI 10.1097/01.rli.0000184756.66360.d3
+   Roy C, 2017, J CARDIOVASC MAGN R, V19, DOI 10.1186/s12968-017-0371-5
+   Salerno M, 2013, JACC-CARDIOVASC IMAG, V6, P806, DOI 10.1016/j.jcmg.2013.05.005
+   Snel GJH, 2020, J CARDIOVASC MAGN R, V22, DOI 10.1186/s12968-020-00627-x
+   Topriceanu CC, 2022, MAGN RESON IMAGING, V93, P15, DOI 10.1016/j.mri.2022.07.012
+   Vassiliou V, 2015, J CARDIOVASC MAGN R, V17, pW28, DOI [10.1186/1532-429x-17-s1-w28, DOI 10.1186/1532-429X-17-S1-W28]
+   von Knobelsdorff-Brenkenhoff F, 2013, J CARDIOVASC MAGN R, V15, DOI 10.1186/1532-429X-15-53
+   Wiesmueller M, 2020, J CARDIOVASC MAGN R, V22, DOI 10.1186/s12968-020-00619-x
+   Yoshida A, 2004, INT J HYPERTHER, V20, P803, DOI 10.1080/0265673042000199268
+NR 35
+TC 5
+Z9 5
+U1 1
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 1097-6647
+EI 1532-429X
+J9 J CARDIOVASC MAGN R
+JI J. Cardiov. Magn. Reson.
+PD MAR 20
+PY 2023
+VL 25
+IS 1
+AR 19
+DI 10.1186/s12968-023-00926-z
+PG 14
+WC Cardiac & Cardiovascular Systems; Radiology, Nuclear Medicine & Medical
+   Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Cardiovascular System & Cardiology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA 9Y1SP
+UT WOS:000950243100001
+PM 36935515
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+PT J
+AU Willing, M
+   Dresen, C
+   Haverkamp, U
+   Schinzel, S
+AF Willing, Markus
+   Dresen, Christian
+   Haverkamp, Uwe
+   Schinzel, Sebastian
+TI Analyzing medical device connectivity and its effect on cyber security
+   in german hospitals
+SO BMC MEDICAL INFORMATICS AND DECISION MAKING
+LA English
+DT Article
+DE Networked medical devices; IT-security; Critical infrastructure; Germany
+ID TECHNOLOGY; FUTURE
+AB BackgroundModern healthcare devices can be connected to computer networks and many western healthcare institutions run those devices in networks. At the same time, cyber attacks are on the rise and there is evidence that cybercriminals do not spare critical infrastructure such as major hospitals, even if they endanger patients. Intuitively, the more and closer connected healthcare devices are to public networks, the higher the risk of getting attacked.MethodsTo asses the current connectivity status of healthcare devices, we surveyed the field of German hospitals and especially University Medical Center UMCs.ResultsThe results show a strong correlation between the networking degree and the number of medical devices. The average number of medical devices is 25.150, with a median of networked medical devices of 3.600. Actual key users of networked medical devices are the departments Radiology, Intensive Care, Radio-Oncology RO, Nuclear Medicine NUC, and Anaesthesiology in the group of UMCs. In the next five years, the usage of networked medical devices will increase significantly in the departments of Surgery, Intensive Care, and Radiology. We detected a strong correlation between the degree of connectivity and the likelihood of being attacked.The survey answers regarding the cyber security status reveal a lack of security basics in some of the inquired hospitals. We did discover successful attacks in hospitals with separated or subsidiary departments. A fusion of competencies on an organizational level facilitates the right behavior here. Most hospitals rated themselves predominantly positively in the self-assessment but also stated the usefulness of IT security insurance.ConclusionsConcluding our results, hospitals are already facing the consequences of omitted measures within their growing pool of medical devices. Continuously relying on historically grown structures without adaption and trusting manufactures to solve vectors is a critical behavior that could seriously endanger patients.
+C1 [Willing, Markus; Haverkamp, Uwe] Univ Munster, Munster, Germany.
+   [Dresen, Christian; Schinzel, Sebastian] Munster Univ Appl Sci, Munster, Germany.
+C3 University of Munster; University of Applied Sciences, Muenster
+RP Willing, M (通讯作者)，Univ Munster, Munster, Germany.
+EM markus.willing@ukmuenster.de
+FU research training group "Human Centered System Security"; state of North
+   Rhine-Westfalia; postgraduate research training group NERD (North
+   Rhine-Westphalian Experts on Research in Digitalization); Projekt DEAL
+FX The research was funded by the research training group "Human Centered
+   System Security", sponsored by the state of North Rhine-Westfalia. The
+   postgraduate research training group NERD (North Rhine-Westphalian
+   Experts on Research in Digitalization) is funding your researchers in
+   IT-security at universities and universities of applied sciences in
+   North Rhine-Westphalia to promote research in the area of Human Centered
+   Systems Security. Young researchers from different locations and
+   principle investigators are cooperating on shared projects. Markus
+   Willing and Christian Dresen were supported by the research training
+   group "Human Centered System Security", sponsored by the state of North
+   Rhine-Westfalia. Open Access funding enabled and organized by Projekt
+   DEAL.
+CR Adhikari N, 2003, J CRIT CARE, V18, P41, DOI 10.1053/jcrc.2003.YJCRC9
+   Albahri OS, 2018, J MED SYST, V42, DOI 10.1007/s10916-018-1006-6
+   Anderson R., 2008, Security Engineering, V2nd
+   Beneker C, 2014, PSYCHOTHERAPIE BRAUC
+   Berger R, 2017, KRANKENHAUSSTUDIE 20
+   Blackwell G, 2008, INFORM HEALTH SOC CA, V33, P211, DOI 10.1080/17538150802598860
+   Brandom Russell, 2017, UK HOSP HIT MASSIVE
+   BRAUNWALD E, 1984, INT J CARDIOL, V5, P223, DOI 10.1016/0167-5273(84)90152-9
+   Caceres C, 2019, ARTIFICIAL INTELLIGE
+   Cavusoglu H, 2004, COMMUN ACM, V47, P87, DOI 10.1145/1005817.1005828
+   Charite Universitatsmedizin Berlin, 2019, CHART U BERL ANN REP
+   Chinthapalli K, 2017, BMJ-BRIT MED J, V357, DOI 10.1136/bmj.j2214
+   Craft RL, 2001, CRIT CARE MED, V29, pN151, DOI 10.1097/00003246-200108001-00003
+   Darms M, 2019, MEDIZINTECHNIK MED G
+   Dyer O, 2016, BMJ-BRIT MED J, V352, DOI 10.1136/bmj.i1876
+   Eckert C, 2014, IT SICHERHEIT
+   Federal Republic of Germany, 2015, GES ERH SICH INF SYS
+   Federal Republic of Germany, 1994, MED MPG
+   Fregni F, 2007, NAT CLIN PRACT NEURO, V3, P383, DOI 10.1038/ncpneuro0530
+   Gerlof H, 2017, IT SICHERHEITSGESETZ
+   Gesundheitsberichterstattung des Bundes, 2019, KRANK VORS REH ANZ J
+   Greis C, 2018, J DERMATOL TREAT, V29, P643, DOI 10.1080/09546634.2018.1441488
+   Halperin D, 2008, P IEEE S SECUR PRIV, P129, DOI 10.1109/SP.2008.31
+   Hills AP, 2019, PROG CARDIOVASC DIS, V62, P34, DOI 10.1016/j.pcad.2018.12.013
+   Hoeckelmann M, 2015, INT J ADV ROBOT SYST, V12, DOI 10.5772/60133
+   Honigmann P, 2018, BIOMED RES INT-UK, V2018, DOI 10.1155/2018/4520636
+   Hubertus F, 2019, SURG 4 0 NATURAL CUL, P3
+   Jahankhani H, 2019, RECENT CYBER ATTACKS
+   Klauber J, 2019, BENCHMARKING KRANKEN
+   Koeny M, 2011, EMERGING 2011 3 INT
+   Kramme R, 2016, FUSION MEDIZINTECHNI
+   Krankenhausgesellschaft D, 2019, BRANCH SICH GES KRAN
+   Kruger-Brand HE, 2010, DTSCH ARZTEBL INT, V107, P480
+   Kucera M, 2019, kma - Klinik Management aktuell, V24, P70, DOI [10.1055/s-0036-1595791, 10.1055/s-0036-1595791, DOI 10.1055/S-0036-1595791]
+   Lake A, 2005, J VIS COMMUN MED, V28, P63, DOI 10.1080/01405110500079765
+   Latifi R, 2019, HOSP FUTURE EVIDENCE
+   Lesh K, 2007, 2007 JOINT WORKSHOP ON HIGH CONFIDENCE MEDICAL DEVICES, SOFTWARE AND SYSTEMS AND MEDICAL DEVICE PLUG-AND PLAY INTEROPERABILITY, P3, DOI 10.1109/HCMDSS-MDPnP.2007.22
+   Ludwick DA, 2009, INT J MED INFORM, V78, P22, DOI 10.1016/j.ijmedinf.2008.06.005
+   Martin G, 2017, BMJ-BRIT MED J, V358, DOI 10.1136/bmj.j3179
+   Mewis D, 2017, kma - Klinik Management aktuell, V22, pS20, DOI [10.1055/s-0036-1594694, 10.1055/s-0036-1594694, DOI 10.1055/S-0036-1594694]
+   Moses V, 2015, AM J ROENTGENOL, V204, P343, DOI 10.2214/AJR.14.12882
+   Peter Sedlmeier F, 2013, FORSCHUNGSMETHODEN S
+   Plecko T, 2007, J LAB MED, DOI [10.1515/JLM.2007.033, DOI 10.1515/JLM.2007.033]
+   Siegel E, 2003, J NUCL MED, V44
+   Statistisches Bundesamt, 2018, GES GRUNDD KRANK 201
+   Statistisches Bundesamt, 2019, KRANK EINR BETT PAT
+   Sub'as P, 2018, BIG DATA CRITICAL CA, V1
+   Ulrike Lechner SR, 2018, MONITOR 2 0 IT SICHE
+   Vergados D, 2008, 2008 2 INT C PERV CO, P329, DOI [10.4108/ICST.PERVASIVEHEALTH2008.4056, DOI 10.4108/ICST.PERVASIVEHEALTH2008.4056]
+   Wechsler LR, 2015, JAMA NEUROL, V72, P349, DOI 10.1001/jamaneurol.2014.3844
+   Wehrle T, 2012, KRANKENHAUSTECHNIK M, V1-2, P24
+   Williams F.CollinsJ, 2019, HOSP BED HAVING WIRE
+   Williams PAH, 2015, MED DEVICES-EVID RES, V8, P305, DOI 10.2147/MDER.S50048
+   Zetter K., 2014, It's Insanely Easy to Hack Hospital Equipment
+NR 54
+TC 8
+Z9 11
+U1 0
+U2 21
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1472-6947
+J9 BMC MED INFORM DECIS
+JI BMC Med. Inform. Decis. Mak.
+PD SEP 29
+PY 2020
+VL 20
+IS 1
+AR 246
+DI 10.1186/s12911-020-01259-y
+PG 15
+WC Medical Informatics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Medical Informatics
+GA NZ2WK
+UT WOS:000576958100002
+PM 32993623
+OA Green Submitted, gold
+DA 2026-01-12
+ER
+
+EF
