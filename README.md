@@ -5,6 +5,8 @@ The raw data was retrieved from the Web of Science (WOS) Core Collection using t
 
 **TS=(medical equipment OR medical devices) AND ALL = (evaluation OR validation OR assessment OR quality control OR management OR maintenance)**
 
+------------------
+
 📁 Repository Structure
 
 The repository is organized into several folders, each corresponding to different stages of the research process:
@@ -40,6 +42,8 @@ The repository is organized into several folders, each corresponding to differen
 10_Key_Domains/: Data and visualizations for keyword co-occurrence and cluster analysis.
 
 11_Organization/: Data and networks related to institution/publication organization analysis.
+
+------------------
 
 📝 Data Availability & Usage
 
