@@ -1,0 +1,69 @@
+id	organization	documents	citations	total link strength		
+2043	us fda	67	1315	24	美国食品药品监督管理局	美国
+1645	ucl	17	353	10	伦敦大学学院	英国
+1804	univ houston	17	113	5	休斯顿大学	美国
+1953	univ sarajevo	17	61	39	萨拉热窝大学	波黑
+624	harvard med sch	14	168	18	哈佛医学院	美国
+197	brigham & womens hosp	11	246	19	布莱根妇女医院	美国
+2061	verlab ltd	11	113	27	Verlab有限公司 (生物医学工程公司)	波黑
+1707	univ calif san francisco	10	185	12	加州大学旧金山分校	美国
+448	dundalk inst technol	9	88	0	邓多克理工学院	爱尔兰
+789	int federat med & biol engn ifmbe	9	26	24	国际医学与生物工程联合会	国际组织
+1863	univ maryland	9	121	12	马里兰大学	美国
+1917	univ penn	9	469	17	宾夕法尼亚大学	美国
+2018	univ warwick	9	253	9	华威大学	英国
+340	columbia univ	8	481	4	哥伦比亚大学	美国
+447	duke univ	8	158	9	杜克大学	美国
+626	harvard univ	8	162	12	哈佛大学	美国
+731	imperial coll london	8	54	3	伦敦帝国学院	英国
+897	king saud univ	8	129	2	国王沙特大学	沙特阿拉伯
+982	lund univ	8	93	1	隆德大学	瑞典
+1062	minist hlth	8	80	4	卫生部	美国
+1453	shanghai jiao tong univ	8	205	4	上海交通大学	中国
+1535	stanford univ	8	296	8	斯坦福大学	美国
+1902	univ oxford	8	119	7	牛津大学	英国
+2009	univ utah	8	470	9	犹他大学	美国
+1037	medtronic plc	7	101	2	美敦力公司	爱尔兰 
+1233	ohio state univ	7	80	14	俄亥俄州立大学	美国
+1356	res & dev ctr bioengn bioirc	7	4	13	生物工程研究与开发中心 (BIOIRC)	塞尔维亚
+1477	sichuan univ	7	86	0	四川大学	中国
+1708	univ cambridge	7	111	0	剑桥大学	英国
+1761	univ florence	7	127	4	佛罗伦萨大学	意大利
+1868	univ med ctr utrecht	7	106	3	乌得勒支大学医学中心	荷兰
+1875	univ minnesota	7	343	4	明尼苏达大学	美国
+1999	univ toronto	7	157	2	多伦多大学	加拿大
+415	delft univ technol	6	111	5	代尔夫特理工大学	荷兰
+877	katholieke univ leuven	6	37	5	鲁汶大学	比利时
+1208	northwestern univ	6	248	11	西北大学	美国
+1247	oregon hlth & sci univ	6	36	5	俄勒冈健康与科学大学	美国
+1366	rhein westfal th aachen	6	137	1	亚琛工业大学	德国
+1434	semmelweis univ	6	687	5	塞梅维什大学	匈牙利
+1632	tsinghua univ	6	187	1	清华大学	中国
+1686	univ bern	6	76	7	伯尔尼大学	瑞士
+1688	univ birmingham	6	246	7	伯明翰大学	英国
+1833	univ leeds	6	161	1	利兹大学	英国
+1873	univ michigan	6	72	11	密歇根大学	美国
+1922	univ pisa	6	53	2	比萨大学	意大利
+2063	verlab res inst biomed engn med devices & artific	6	15	18	Verlab生物医学工程、医疗器械与人工智能研究所	塞尔维亚
+203	brunel univ	5	487	2	布鲁内尔大学	英国
+486	erasmus mc	5	71	3	伊拉斯姆斯医学中心	荷兰
+676	hosp civils lyon	5	91	0	里昂公立医院集团	法国
+752	inserm	5	65	2	法国国家健康与医学研究院	法国
+806	islamic azad univ	5	40	0	伊斯兰阿扎德大学	伊朗
+1006	mayo clin	5	99	6	梅奥诊所	美国
+1081	monash univ	5	51	2	蒙纳士大学	澳大利亚
+1296	politecn milan	5	18	1	米兰理工大学	意大利
+1666	univ alabama birmingham	5	32	10	阿拉巴马大学伯明翰分校	美国
+1673	univ auckland	5	134	1	奥克兰大学	新西兰
+1697	univ british columbia	5	308	4	不列颠哥伦比亚大学	加拿大
+1738	univ donja gorica	5	4	11	下戈里察大学	黑山
+1782	univ hlth sci	5	84	0	健康科学大学	巴基斯坦
+1838	univ lille	5	60	2	里尔大学	法国
+1857	univ malaya	5	63	2	马来亚大学	马来西亚
+1870	univ med rostock	5	16	0	罗斯托克大学医学中心	德国
+1960	univ shanghai sci & technol	5	18	2	上海理工大学	中国
+1963	univ siena	5	27	6	锡耶纳大学	意大利
+2006	univ twente	5	99	4	特温特大学	荷兰
+2032	univ york	5	187	3	约克大学	英国
+2113	xi an jiao tong univ	5	25	0	西安交通大学	中国
+2127	yale univ	5	418	9	耶鲁大学	美国
